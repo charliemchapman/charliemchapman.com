@@ -5,11 +5,15 @@
   "scripts": {
     "develop": "gatsby develop",
     "build": "gatsby build",
-    "serve": "gatsby serve"
+    "serve": "gatsby serve",
+    "deploy": "gatsby build && gh-pages -d public"
   },
   "dependencies": {
     "gatsby": "^1.9.277",
     "gatsby-link": "^1.6.46",
     "gatsby-plugin-typography": "^1.7.19"
+  },
+  "devDependencies": {
+    "gh-pages": "^1.2.0"
   }
 }
