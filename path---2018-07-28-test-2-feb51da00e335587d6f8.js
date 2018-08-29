@@ -1,0 +1,2 @@
+webpackJsonp([0xeefe491ab5a2],{327:function(a,t){a.exports={data:{markdownRemark:{html:"<p>Do Pandas eat bananas? Check out this short video that shows that yes! pandas do\nseem to really enjoy bananas!</p>",frontmatter:{title:"Podcast Workflow"}}},pathContext:{slug:"/2018/07/28/test-2/"}}}});
+//# sourceMappingURL=path---2018-07-28-test-2-feb51da00e335587d6f8.js.map
