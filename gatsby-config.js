@@ -17,5 +17,13 @@ module.exports = {
             pathToConfigModule: `src/utils/typography.js`,
           },
         },
+        {
+          resolve: 'gatsby-plugin-web-font-loader',
+          options: {
+            google: {
+              families: ['Roboto Condensed']
+            }
+          }
+        }
       ],
 };

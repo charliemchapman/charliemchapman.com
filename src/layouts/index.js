@@ -12,11 +12,12 @@ export default ({ children }) => (
   <div style={{ margin: `0 auto`, maxWidth: 650, padding: `0 1rem` }}>
       <header style={{ marginBottom: `1.5rem` }}>
       <Link to="/">
-        <h3>Charlie Chapman</h3>
+        <h1>Charlie Chapman</h1>
       </Link>
       <ul>
         <ListLink to="/">Home</ListLink>
         <ListLink to="/about/">About</ListLink>
+        <ListLink to="/archive/">Archive</ListLink>
       </ul>
     </header>
     {children()}
