@@ -1,23 +1,23 @@
 import Typography from "typography";
 import oceanBeachTheme from "typography-theme-ocean-beach";
 
-oceanBeachTheme.headerFontFamily = ['Roboto Condensed', 'sans-serif'];
+oceanBeachTheme.headerFontFamily = ['Montserrat', 'sans-serif'];
 oceanBeachTheme.overrideStyles = ({ adjustFontSizeTo, rythm}, options, styles) => ({
     a: {
-        color: "#738AA7",
+        color: "#1B998B",
         textDecoration: "none",
         'border-bottom': "1px solid transparent",
         transition: 'border-bottom .25s'
     },
     'a:hover': {
-        'border-bottom': "1px solid #738AA7"
+        'border-bottom': "1px solid #1B998B"
     },
     body: {
-        backgroundColor: '#FBFDFF',
-        color: '#00050A'
+        backgroundColor: '#FFFFFF',
+        color: '#1D201F'
     },
     'h1,h2,h3,h4,h5,h6': {
-        color: '#071F3D'
+        color: '#2D517F'
     }
 })
 
