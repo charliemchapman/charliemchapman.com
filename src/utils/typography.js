@@ -18,6 +18,11 @@ oceanBeachTheme.overrideStyles = ({ adjustFontSizeTo, rythm}, options, styles) =
     },
     'h1,h2,h3,h4,h5,h6': {
         color: '#094D72'
+    },
+    "blockquote": {
+        marginLeft: "0",
+        paddingLeft: "1.58rem",
+        borderLeft: "8px solid #EA7AF4"
     }
 })
 

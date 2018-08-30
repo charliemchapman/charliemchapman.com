@@ -1,18 +1,15 @@
 import React from "react";
-import Link from "gatsby-link";
+import PostHeader from '../components/postHeader';
 
 export default ({data}) => (
   <div>
     {data.allMarkdownRemark.edges.map(({ node }) => (
-      <div key={node.id}>
-        <Link to={node.fields.slug}>
-            <h3>
-                {node.frontmatter.title}{" "}
-                <span color="#BBB">— {node.frontmatter.date}</span>
-            </h3>
-        </Link>
-        <p>{node.excerpt}</p>
-      </div>
+      <PostHeader key={node.id}
+        title={node.frontmatter.title}
+        slug={node.fields.slug}
+        date={node.frontmatter.date}
+        html={node.html}
+      />
     ))}
   </div>
 );
@@ -31,7 +28,7 @@ export const query = graphql`
           fields {
             slug
           }
-          excerpt
+          html
         }
       }
     }
