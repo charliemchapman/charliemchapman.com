@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Charlie Chapman]]></title><description><![CDATA[The personal blog of Charlie Chapman]]></description><link>https://charliemchapman.com</link><generator>RSS for Node</generator><lastBuildDate>Sat, 01 Sep 2018 02:19:21 GMT</lastBuildDate><item><title><![CDATA[Podcast Workflow]]></title><description><![CDATA[Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor. Type some Markdown on the left See…]]></description><link>https://charliemchapman.compost/2018/07/28/podcast-workflow/</link><guid isPermaLink="false">https://charliemchapman.compost/2018/07/28/podcast-workflow/</guid><pubDate>Tue, 28 Aug 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Type some Markdown on the left&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;See HTML in the right&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Magic&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Import a HTML file and watch it magically convert to Markdown&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Drag and drop images (requires your Dropbox account be linked)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can also:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Import and save files from GitHub, Dropbox, Google Drive and One Drive&lt;/li&gt;
+&lt;li&gt;Drag and drop markdown and HTML files into Dillinger&lt;/li&gt;
+&lt;li&gt;Export documents as Markdown, HTML and PDF&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Markdown is a lightweight markup language based on the formatting conventions that people naturally use in email.  As [John Gruber] writes on the &lt;a href=&quot;&quot;&gt;Markdown site&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The overriding design goal for Markdown&apos;s
+formatting syntax is to make it as readable
+as possible. The idea is that a
+Markdown-formatted document should be
+publishable as-is, as plain text, without
+looking like it&apos;s been marked up with tags
+or formatting instructions.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This text you see here is &lt;em&gt;actually&lt;/em&gt; written in Markdown! To get a feel for Markdown&apos;s syntax, type some text into the left window and watch the results in the right.&lt;/p&gt;
+&lt;p&gt;Dillinger uses a number of open source projects to work properly:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[AngularJS] - HTML enhanced for web apps!&lt;/li&gt;
+&lt;li&gt;[Ace Editor] - awesome web-based text editor&lt;/li&gt;
+&lt;li&gt;[markdown-it] - Markdown parser done right. Fast and easy to extend.&lt;/li&gt;
+&lt;li&gt;[Twitter Bootstrap] - great UI boilerplate for modern web apps&lt;/li&gt;
+&lt;li&gt;[node.js] - evented I/O for the backend&lt;/li&gt;
+&lt;li&gt;[Express] - fast node.js network app framework [@tjholowaychuk]&lt;/li&gt;
+&lt;li&gt;[Gulp] - the streaming build system&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://breakdance.io&quot;&gt;Breakdance&lt;/a&gt; - HTML to Markdown converter&lt;/li&gt;
+&lt;li&gt;[jQuery] - duh&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And of course Dillinger itself is open source with a &lt;a href=&quot;&quot;&gt;public repository&lt;/a&gt;
+on GitHub.&lt;/p&gt;
+&lt;p&gt;Dillinger requires &lt;a href=&quot;https://nodejs.org/&quot;&gt;Node.js&lt;/a&gt; v4+ to run.&lt;/p&gt;
+&lt;p&gt;Install the dependencies and devDependencies and start the server.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;sh&quot;&gt;
+      &lt;pre class=&quot;language-sh&quot;&gt;&lt;code class=&quot;language-sh&quot;&gt;$ cd dillinger
+$ npm install -d
+$ node app&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;For production environments...&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;
+      &lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; cookie &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;92&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;7&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; &lt;span class=&quot;token function-variable function&quot;&gt;eat&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;food&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; cookie &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;h3&gt;Plugins&lt;/h3&gt;
+&lt;p&gt;Dillinger is currently extended with the following plugins. Instructions on how to use them in your own application are linked below.&lt;/p&gt;
+&lt;h3&gt;Development&lt;/h3&gt;
+&lt;p&gt;Want to contribute? Great!&lt;/p&gt;
+&lt;p&gt;Dillinger uses Gulp + Webpack for fast developing.
+Make a change in your file and instantanously see your updates!&lt;/p&gt;
+&lt;p&gt;Open your favorite Terminal and run these commands.&lt;/p&gt;
+&lt;p&gt;First Tab:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;sh&quot;&gt;
+      &lt;pre class=&quot;language-sh&quot;&gt;&lt;code class=&quot;language-sh&quot;&gt;$ node app&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;Second Tab:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;sh&quot;&gt;
+      &lt;pre class=&quot;language-sh&quot;&gt;&lt;code class=&quot;language-sh&quot;&gt;$ gulp watch&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;(optional) Third:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;sh&quot;&gt;
+      &lt;pre class=&quot;language-sh&quot;&gt;&lt;code class=&quot;language-sh&quot;&gt;$ karma test&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;h4&gt;Building for source&lt;/h4&gt;
+&lt;p&gt;For production release:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;sh&quot;&gt;
+      &lt;pre class=&quot;language-sh&quot;&gt;&lt;code class=&quot;language-sh&quot;&gt;$ gulp build --prod&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;Generating pre-built zip archives for distribution:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;sh&quot;&gt;
+      &lt;pre class=&quot;language-sh&quot;&gt;&lt;code class=&quot;language-sh&quot;&gt;$ gulp build dist --prod&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;</content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
+seque praemia toto,  Iuppiter  perstant, et secum tenuitque…]]></description><link>https://charliemchapman.compost/2018/08/26/hello-world/</link><guid isPermaLink="false">https://charliemchapman.compost/2018/08/26/hello-world/</guid><pubDate>Sun, 26 Aug 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
+seque praemia toto, &lt;em&gt;Iuppiter&lt;/em&gt; perstant, et secum tenuitque. Tempora rursus
+specieque paulatim, quoniam cum cibo detulit primum iuvenale cura chori:
+indignabere &lt;em&gt;licet&lt;/em&gt;. Sub manus mota vultu quae omne traicit emicat ille eripe
+omni? Adiecit fuit quo inhibere capillis minores; scire unum audire verba
+subiectaque &lt;strong&gt;undis&lt;/strong&gt; in linguae, si.&lt;/p&gt;
+&lt;p&gt;Antra laticemque maiora: aera tanto marmora &lt;em&gt;quascumque&lt;/em&gt; pondus. Nubila nec ille
+aliter pelle alveus lunae fortis turgida. Quoque solio cum abstulit, cur &lt;strong&gt;hoc
+mediam quaecumque&lt;/strong&gt; hostis, erat putet Tartara corde.&lt;/p&gt;
+&lt;p&gt;Minervae fossa, ulta inque Parthenopeia audet, corpore erroribus imo me
+&lt;strong&gt;agrestes&lt;/strong&gt;. Nec o! Ictu invita nisi caesarumque facinus recens. &lt;a href=&quot;http://ad.com/&quot;&gt;Et infans
+avis&lt;/a&gt; lato longa humum, erat, vitiasse quae capiat generantia,
+et.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Alba unguibus de communis movens&lt;/li&gt;
+&lt;li&gt;Facinus inde arvis&lt;/li&gt;
+&lt;li&gt;Perfundit novavit Cepheus ardentior Interea summae primum&lt;/li&gt;
+&lt;li&gt;Ex quoque numen orbis Nape cum&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Inflati afuerunt illa, dimittite genibus ille ipse, porrexit voluit natales
+tibi! Mater periclo, trepidante vulgus noviens. Lympha &lt;strong&gt;ille&lt;/strong&gt; sua momentaque
+veste, et ausa coronantur crinem.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;
+      &lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;    soft&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;directory &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; server_emoticon&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; systemSpooling &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;card&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;appScalable&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;web_gibibyte_dot&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;cisc_social_utility&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+            keyboardFileSample&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; avatar &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt; php_drop&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; phreakingPumHard&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;var&lt;/span&gt; mask &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; publishing &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;3&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;debug_meta&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;output_footer_tooltip&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;asp_double&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;
+            domain&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; compactDefaultFreeware&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;Dixit meo cadit haec iactanti extento, quantum auditur &lt;a href=&quot;http://www.unde-et.org/totocertum.php&quot;&gt;pietatis
+primum&lt;/a&gt; ignarus quid quoque, ignis
+procul. Albo ne montisque Numam terrent tamen nos geminat
+&lt;a href=&quot;http://www.iterabatrostro.net/&quot;&gt;efficit&lt;/a&gt;, moneo namque; per ultro tela, a.
+Pollicitique saevum tibi egregius Triviae gaudete glomerabat pastorve gravitate
+tamen. Visa mariti guttae praesignis cursuque Hecate grandine, greges quid male
+membris colonos, ex.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[28 Hello World]]></title><description><![CDATA[Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
+seque praemia toto,  Iuppiter  perstant, et secum tenuitque…]]></description><link>https://charliemchapman.compost/2018/08/28/hello-world/</link><guid isPermaLink="false">https://charliemchapman.compost/2018/08/28/hello-world/</guid><pubDate>Sun, 26 Aug 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
+seque praemia toto, &lt;em&gt;Iuppiter&lt;/em&gt; perstant, et secum tenuitque. Tempora rursus
+specieque paulatim, quoniam cum cibo detulit primum iuvenale cura chori:
+indignabere &lt;em&gt;licet&lt;/em&gt;. Sub manus mota vultu quae omne traicit emicat ille eripe
+omni? Adiecit fuit quo inhibere capillis minores; scire unum audire verba
+subiectaque &lt;strong&gt;undis&lt;/strong&gt; in linguae, si.&lt;/p&gt;
+&lt;p&gt;Antra laticemque maiora: aera tanto marmora &lt;em&gt;quascumque&lt;/em&gt; pondus. Nubila nec ille
+aliter pelle alveus lunae fortis turgida. Quoque solio cum abstulit, cur &lt;strong&gt;hoc
+mediam quaecumque&lt;/strong&gt; hostis, erat putet Tartara corde.&lt;/p&gt;
+&lt;p&gt;Minervae fossa, ulta inque Parthenopeia audet, corpore erroribus imo me
+&lt;strong&gt;agrestes&lt;/strong&gt;. Nec o! Ictu invita nisi caesarumque facinus recens. &lt;a href=&quot;http://ad.com/&quot;&gt;Et infans
+avis&lt;/a&gt; lato longa humum, erat, vitiasse quae capiat generantia,
+et.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Alba unguibus de communis movens&lt;/li&gt;
+&lt;li&gt;Facinus inde arvis&lt;/li&gt;
+&lt;li&gt;Perfundit novavit Cepheus ardentior Interea summae primum&lt;/li&gt;
+&lt;li&gt;Ex quoque numen orbis Nape cum&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Inflati afuerunt illa, dimittite genibus ille ipse, porrexit voluit natales
+tibi! Mater periclo, trepidante vulgus noviens. Lympha &lt;strong&gt;ille&lt;/strong&gt; sua momentaque
+veste, et ausa coronantur crinem.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;
+      &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;soft.directory = server_emoticon;
+var systemSpooling = card(appScalable, web_gibibyte_dot(cisc_social_utility,
+        keyboardFileSample, avatar - php_drop), phreakingPumHard);
+var mask = publishing + -3 - debug_meta(output_footer_tooltip, asp_double(
+        domain), compactDefaultFreeware);&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;Dixit meo cadit haec iactanti extento, quantum auditur &lt;a href=&quot;http://www.unde-et.org/totocertum.php&quot;&gt;pietatis
+primum&lt;/a&gt; ignarus quid quoque, ignis
+procul. Albo ne montisque Numam terrent tamen nos geminat
+&lt;a href=&quot;http://www.iterabatrostro.net/&quot;&gt;efficit&lt;/a&gt;, moneo namque; per ultro tela, a.
+Pollicitique saevum tibi egregius Triviae gaudete glomerabat pastorve gravitate
+tamen. Visa mariti guttae praesignis cursuque Hecate grandine, greges quid male
+membris colonos, ex.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[27 Hello World]]></title><description><![CDATA[Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
+seque praemia toto,  Iuppiter  perstant, et secum tenuitque…]]></description><link>https://charliemchapman.compost/2018/08/27/hello-world/</link><guid isPermaLink="false">https://charliemchapman.compost/2018/08/27/hello-world/</guid><pubDate>Sun, 26 Aug 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
+seque praemia toto, &lt;em&gt;Iuppiter&lt;/em&gt; perstant, et secum tenuitque. Tempora rursus
+specieque paulatim, quoniam cum cibo detulit primum iuvenale cura chori:
+indignabere &lt;em&gt;licet&lt;/em&gt;. Sub manus mota vultu quae omne traicit emicat ille eripe
+omni? Adiecit fuit quo inhibere capillis minores; scire unum audire verba
+subiectaque &lt;strong&gt;undis&lt;/strong&gt; in linguae, si.&lt;/p&gt;
+&lt;p&gt;Antra laticemque maiora: aera tanto marmora &lt;em&gt;quascumque&lt;/em&gt; pondus. Nubila nec ille
+aliter pelle alveus lunae fortis turgida. Quoque solio cum abstulit, cur &lt;strong&gt;hoc
+mediam quaecumque&lt;/strong&gt; hostis, erat putet Tartara corde.&lt;/p&gt;
+&lt;p&gt;Minervae fossa, ulta inque Parthenopeia audet, corpore erroribus imo me
+&lt;strong&gt;agrestes&lt;/strong&gt;. Nec o! Ictu invita nisi caesarumque facinus recens. &lt;a href=&quot;http://ad.com/&quot;&gt;Et infans
+avis&lt;/a&gt; lato longa humum, erat, vitiasse quae capiat generantia,
+et.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Alba unguibus de communis movens&lt;/li&gt;
+&lt;li&gt;Facinus inde arvis&lt;/li&gt;
+&lt;li&gt;Perfundit novavit Cepheus ardentior Interea summae primum&lt;/li&gt;
+&lt;li&gt;Ex quoque numen orbis Nape cum&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Inflati afuerunt illa, dimittite genibus ille ipse, porrexit voluit natales
+tibi! Mater periclo, trepidante vulgus noviens. Lympha &lt;strong&gt;ille&lt;/strong&gt; sua momentaque
+veste, et ausa coronantur crinem.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;
+      &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;soft.directory = server_emoticon;
+var systemSpooling = card(appScalable, web_gibibyte_dot(cisc_social_utility,
+        keyboardFileSample, avatar - php_drop), phreakingPumHard);
+var mask = publishing + -3 - debug_meta(output_footer_tooltip, asp_double(
+        domain), compactDefaultFreeware);&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;Dixit meo cadit haec iactanti extento, quantum auditur &lt;a href=&quot;http://www.unde-et.org/totocertum.php&quot;&gt;pietatis
+primum&lt;/a&gt; ignarus quid quoque, ignis
+procul. Albo ne montisque Numam terrent tamen nos geminat
+&lt;a href=&quot;http://www.iterabatrostro.net/&quot;&gt;efficit&lt;/a&gt;, moneo namque; per ultro tela, a.
+Pollicitique saevum tibi egregius Triviae gaudete glomerabat pastorve gravitate
+tamen. Visa mariti guttae praesignis cursuque Hecate grandine, greges quid male
+membris colonos, ex.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[29 Hello World]]></title><description><![CDATA[Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
+seque praemia toto,  Iuppiter  perstant, et secum tenuitque…]]></description><link>https://charliemchapman.compost/2018/08/29/hello-world/</link><guid isPermaLink="false">https://charliemchapman.compost/2018/08/29/hello-world/</guid><pubDate>Sun, 26 Aug 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
+seque praemia toto, &lt;em&gt;Iuppiter&lt;/em&gt; perstant, et secum tenuitque. Tempora rursus
+specieque paulatim, quoniam cum cibo detulit primum iuvenale cura chori:
+indignabere &lt;em&gt;licet&lt;/em&gt;. Sub manus mota vultu quae omne traicit emicat ille eripe
+omni? Adiecit fuit quo inhibere capillis minores; scire unum audire verba
+subiectaque &lt;strong&gt;undis&lt;/strong&gt; in linguae, si.&lt;/p&gt;
+&lt;p&gt;Antra laticemque maiora: aera tanto marmora &lt;em&gt;quascumque&lt;/em&gt; pondus. Nubila nec ille
+aliter pelle alveus lunae fortis turgida. Quoque solio cum abstulit, cur &lt;strong&gt;hoc
+mediam quaecumque&lt;/strong&gt; hostis, erat putet Tartara corde.&lt;/p&gt;
+&lt;p&gt;Minervae fossa, ulta inque Parthenopeia audet, corpore erroribus imo me
+&lt;strong&gt;agrestes&lt;/strong&gt;. Nec o! Ictu invita nisi caesarumque facinus recens. &lt;a href=&quot;http://ad.com/&quot;&gt;Et infans
+avis&lt;/a&gt; lato longa humum, erat, vitiasse quae capiat generantia,
+et.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Alba unguibus de communis movens&lt;/li&gt;
+&lt;li&gt;Facinus inde arvis&lt;/li&gt;
+&lt;li&gt;Perfundit novavit Cepheus ardentior Interea summae primum&lt;/li&gt;
+&lt;li&gt;Ex quoque numen orbis Nape cum&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Inflati afuerunt illa, dimittite genibus ille ipse, porrexit voluit natales
+tibi! Mater periclo, trepidante vulgus noviens. Lympha &lt;strong&gt;ille&lt;/strong&gt; sua momentaque
+veste, et ausa coronantur crinem.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;
+      &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;soft.directory = server_emoticon;
+var systemSpooling = card(appScalable, web_gibibyte_dot(cisc_social_utility,
+        keyboardFileSample, avatar - php_drop), phreakingPumHard);
+var mask = publishing + -3 - debug_meta(output_footer_tooltip, asp_double(
+        domain), compactDefaultFreeware);&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;Dixit meo cadit haec iactanti extento, quantum auditur &lt;a href=&quot;http://www.unde-et.org/totocertum.php&quot;&gt;pietatis
+primum&lt;/a&gt; ignarus quid quoque, ignis
+procul. Albo ne montisque Numam terrent tamen nos geminat
+&lt;a href=&quot;http://www.iterabatrostro.net/&quot;&gt;efficit&lt;/a&gt;, moneo namque; per ultro tela, a.
+Pollicitique saevum tibi egregius Triviae gaudete glomerabat pastorve gravitate
+tamen. Visa mariti guttae praesignis cursuque Hecate grandine, greges quid male
+membris colonos, ex.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[30 Hello World]]></title><description><![CDATA[Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
+seque praemia toto,  Iuppiter  perstant, et secum tenuitque…]]></description><link>https://charliemchapman.compost/2018/08/30/hello-world/</link><guid isPermaLink="false">https://charliemchapman.compost/2018/08/30/hello-world/</guid><pubDate>Sun, 26 Aug 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
+seque praemia toto, &lt;em&gt;Iuppiter&lt;/em&gt; perstant, et secum tenuitque. Tempora rursus
+specieque paulatim, quoniam cum cibo detulit primum iuvenale cura chori:
+indignabere &lt;em&gt;licet&lt;/em&gt;. Sub manus mota vultu quae omne traicit emicat ille eripe
+omni? Adiecit fuit quo inhibere capillis minores; scire unum audire verba
+subiectaque &lt;strong&gt;undis&lt;/strong&gt; in linguae, si.&lt;/p&gt;
+&lt;p&gt;Antra laticemque maiora: aera tanto marmora &lt;em&gt;quascumque&lt;/em&gt; pondus. Nubila nec ille
+aliter pelle alveus lunae fortis turgida. Quoque solio cum abstulit, cur &lt;strong&gt;hoc
+mediam quaecumque&lt;/strong&gt; hostis, erat putet Tartara corde.&lt;/p&gt;
+&lt;p&gt;Minervae fossa, ulta inque Parthenopeia audet, corpore erroribus imo me
+&lt;strong&gt;agrestes&lt;/strong&gt;. Nec o! Ictu invita nisi caesarumque facinus recens. &lt;a href=&quot;http://ad.com/&quot;&gt;Et infans
+avis&lt;/a&gt; lato longa humum, erat, vitiasse quae capiat generantia,
+et.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Alba unguibus de communis movens&lt;/li&gt;
+&lt;li&gt;Facinus inde arvis&lt;/li&gt;
+&lt;li&gt;Perfundit novavit Cepheus ardentior Interea summae primum&lt;/li&gt;
+&lt;li&gt;Ex quoque numen orbis Nape cum&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Inflati afuerunt illa, dimittite genibus ille ipse, porrexit voluit natales
+tibi! Mater periclo, trepidante vulgus noviens. Lympha &lt;strong&gt;ille&lt;/strong&gt; sua momentaque
+veste, et ausa coronantur crinem.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;
+      &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;soft.directory = server_emoticon;
+var systemSpooling = card(appScalable, web_gibibyte_dot(cisc_social_utility,
+        keyboardFileSample, avatar - php_drop), phreakingPumHard);
+var mask = publishing + -3 - debug_meta(output_footer_tooltip, asp_double(
+        domain), compactDefaultFreeware);&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;Dixit meo cadit haec iactanti extento, quantum auditur &lt;a href=&quot;http://www.unde-et.org/totocertum.php&quot;&gt;pietatis
+primum&lt;/a&gt; ignarus quid quoque, ignis
+procul. Albo ne montisque Numam terrent tamen nos geminat
+&lt;a href=&quot;http://www.iterabatrostro.net/&quot;&gt;efficit&lt;/a&gt;, moneo namque; per ultro tela, a.
+Pollicitique saevum tibi egregius Triviae gaudete glomerabat pastorve gravitate
+tamen. Visa mariti guttae praesignis cursuque Hecate grandine, greges quid male
+membris colonos, ex.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[31 Hello World]]></title><description><![CDATA[Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
+seque praemia toto,  Iuppiter  perstant, et secum tenuitque…]]></description><link>https://charliemchapman.compost/2018/08/31/hello-world/</link><guid isPermaLink="false">https://charliemchapman.compost/2018/08/31/hello-world/</guid><pubDate>Sun, 26 Aug 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
+seque praemia toto, &lt;em&gt;Iuppiter&lt;/em&gt; perstant, et secum tenuitque. Tempora rursus
+specieque paulatim, quoniam cum cibo detulit primum iuvenale cura chori:
+indignabere &lt;em&gt;licet&lt;/em&gt;. Sub manus mota vultu quae omne traicit emicat ille eripe
+omni? Adiecit fuit quo inhibere capillis minores; scire unum audire verba
+subiectaque &lt;strong&gt;undis&lt;/strong&gt; in linguae, si.&lt;/p&gt;
+&lt;p&gt;Antra laticemque maiora: aera tanto marmora &lt;em&gt;quascumque&lt;/em&gt; pondus. Nubila nec ille
+aliter pelle alveus lunae fortis turgida. Quoque solio cum abstulit, cur &lt;strong&gt;hoc
+mediam quaecumque&lt;/strong&gt; hostis, erat putet Tartara corde.&lt;/p&gt;
+&lt;p&gt;Minervae fossa, ulta inque Parthenopeia audet, corpore erroribus imo me
+&lt;strong&gt;agrestes&lt;/strong&gt;. Nec o! Ictu invita nisi caesarumque facinus recens. &lt;a href=&quot;http://ad.com/&quot;&gt;Et infans
+avis&lt;/a&gt; lato longa humum, erat, vitiasse quae capiat generantia,
+et.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Alba unguibus de communis movens&lt;/li&gt;
+&lt;li&gt;Facinus inde arvis&lt;/li&gt;
+&lt;li&gt;Perfundit novavit Cepheus ardentior Interea summae primum&lt;/li&gt;
+&lt;li&gt;Ex quoque numen orbis Nape cum&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Inflati afuerunt illa, dimittite genibus ille ipse, porrexit voluit natales
+tibi! Mater periclo, trepidante vulgus noviens. Lympha &lt;strong&gt;ille&lt;/strong&gt; sua momentaque
+veste, et ausa coronantur crinem.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;
+      &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;soft.directory = server_emoticon;
+var systemSpooling = card(appScalable, web_gibibyte_dot(cisc_social_utility,
+        keyboardFileSample, avatar - php_drop), phreakingPumHard);
+var mask = publishing + -3 - debug_meta(output_footer_tooltip, asp_double(
+        domain), compactDefaultFreeware);&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;Dixit meo cadit haec iactanti extento, quantum auditur &lt;a href=&quot;http://www.unde-et.org/totocertum.php&quot;&gt;pietatis
+primum&lt;/a&gt; ignarus quid quoque, ignis
+procul. Albo ne montisque Numam terrent tamen nos geminat
+&lt;a href=&quot;http://www.iterabatrostro.net/&quot;&gt;efficit&lt;/a&gt;, moneo namque; per ultro tela, a.
+Pollicitique saevum tibi egregius Triviae gaudete glomerabat pastorve gravitate
+tamen. Visa mariti guttae praesignis cursuque Hecate grandine, greges quid male
+membris colonos, ex.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[33 Hello World]]></title><description><![CDATA[Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
+seque praemia toto,  Iuppiter  perstant, et secum tenuitque…]]></description><link>https://charliemchapman.compost/2018/08/33/hello-world/</link><guid isPermaLink="false">https://charliemchapman.compost/2018/08/33/hello-world/</guid><pubDate>Sun, 26 Aug 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
+seque praemia toto, &lt;em&gt;Iuppiter&lt;/em&gt; perstant, et secum tenuitque. Tempora rursus
+specieque paulatim, quoniam cum cibo detulit primum iuvenale cura chori:
+indignabere &lt;em&gt;licet&lt;/em&gt;. Sub manus mota vultu quae omne traicit emicat ille eripe
+omni? Adiecit fuit quo inhibere capillis minores; scire unum audire verba
+subiectaque &lt;strong&gt;undis&lt;/strong&gt; in linguae, si.&lt;/p&gt;
+&lt;p&gt;Antra laticemque maiora: aera tanto marmora &lt;em&gt;quascumque&lt;/em&gt; pondus. Nubila nec ille
+aliter pelle alveus lunae fortis turgida. Quoque solio cum abstulit, cur &lt;strong&gt;hoc
+mediam quaecumque&lt;/strong&gt; hostis, erat putet Tartara corde.&lt;/p&gt;
+&lt;p&gt;Minervae fossa, ulta inque Parthenopeia audet, corpore erroribus imo me
+&lt;strong&gt;agrestes&lt;/strong&gt;. Nec o! Ictu invita nisi caesarumque facinus recens. &lt;a href=&quot;http://ad.com/&quot;&gt;Et infans
+avis&lt;/a&gt; lato longa humum, erat, vitiasse quae capiat generantia,
+et.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Alba unguibus de communis movens&lt;/li&gt;
+&lt;li&gt;Facinus inde arvis&lt;/li&gt;
+&lt;li&gt;Perfundit novavit Cepheus ardentior Interea summae primum&lt;/li&gt;
+&lt;li&gt;Ex quoque numen orbis Nape cum&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Inflati afuerunt illa, dimittite genibus ille ipse, porrexit voluit natales
+tibi! Mater periclo, trepidante vulgus noviens. Lympha &lt;strong&gt;ille&lt;/strong&gt; sua momentaque
+veste, et ausa coronantur crinem.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;
+      &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;soft.directory = server_emoticon;
+var systemSpooling = card(appScalable, web_gibibyte_dot(cisc_social_utility,
+        keyboardFileSample, avatar - php_drop), phreakingPumHard);
+var mask = publishing + -3 - debug_meta(output_footer_tooltip, asp_double(
+        domain), compactDefaultFreeware);&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;Dixit meo cadit haec iactanti extento, quantum auditur &lt;a href=&quot;http://www.unde-et.org/totocertum.php&quot;&gt;pietatis
+primum&lt;/a&gt; ignarus quid quoque, ignis
+procul. Albo ne montisque Numam terrent tamen nos geminat
+&lt;a href=&quot;http://www.iterabatrostro.net/&quot;&gt;efficit&lt;/a&gt;, moneo namque; per ultro tela, a.
+Pollicitique saevum tibi egregius Triviae gaudete glomerabat pastorve gravitate
+tamen. Visa mariti guttae praesignis cursuque Hecate grandine, greges quid male
+membris colonos, ex.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[32 Hello World]]></title><description><![CDATA[Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
+seque praemia toto,  Iuppiter  perstant, et secum tenuitque…]]></description><link>https://charliemchapman.compost/2018/08/32/hello-world/</link><guid isPermaLink="false">https://charliemchapman.compost/2018/08/32/hello-world/</guid><pubDate>Sun, 26 Aug 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
+seque praemia toto, &lt;em&gt;Iuppiter&lt;/em&gt; perstant, et secum tenuitque. Tempora rursus
+specieque paulatim, quoniam cum cibo detulit primum iuvenale cura chori:
+indignabere &lt;em&gt;licet&lt;/em&gt;. Sub manus mota vultu quae omne traicit emicat ille eripe
+omni? Adiecit fuit quo inhibere capillis minores; scire unum audire verba
+subiectaque &lt;strong&gt;undis&lt;/strong&gt; in linguae, si.&lt;/p&gt;
+&lt;p&gt;Antra laticemque maiora: aera tanto marmora &lt;em&gt;quascumque&lt;/em&gt; pondus. Nubila nec ille
+aliter pelle alveus lunae fortis turgida. Quoque solio cum abstulit, cur &lt;strong&gt;hoc
+mediam quaecumque&lt;/strong&gt; hostis, erat putet Tartara corde.&lt;/p&gt;
+&lt;p&gt;Minervae fossa, ulta inque Parthenopeia audet, corpore erroribus imo me
+&lt;strong&gt;agrestes&lt;/strong&gt;. Nec o! Ictu invita nisi caesarumque facinus recens. &lt;a href=&quot;http://ad.com/&quot;&gt;Et infans
+avis&lt;/a&gt; lato longa humum, erat, vitiasse quae capiat generantia,
+et.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Alba unguibus de communis movens&lt;/li&gt;
+&lt;li&gt;Facinus inde arvis&lt;/li&gt;
+&lt;li&gt;Perfundit novavit Cepheus ardentior Interea summae primum&lt;/li&gt;
+&lt;li&gt;Ex quoque numen orbis Nape cum&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Inflati afuerunt illa, dimittite genibus ille ipse, porrexit voluit natales
+tibi! Mater periclo, trepidante vulgus noviens. Lympha &lt;strong&gt;ille&lt;/strong&gt; sua momentaque
+veste, et ausa coronantur crinem.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;
+      &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;soft.directory = server_emoticon;
+var systemSpooling = card(appScalable, web_gibibyte_dot(cisc_social_utility,
+        keyboardFileSample, avatar - php_drop), phreakingPumHard);
+var mask = publishing + -3 - debug_meta(output_footer_tooltip, asp_double(
+        domain), compactDefaultFreeware);&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;Dixit meo cadit haec iactanti extento, quantum auditur &lt;a href=&quot;http://www.unde-et.org/totocertum.php&quot;&gt;pietatis
+primum&lt;/a&gt; ignarus quid quoque, ignis
+procul. Albo ne montisque Numam terrent tamen nos geminat
+&lt;a href=&quot;http://www.iterabatrostro.net/&quot;&gt;efficit&lt;/a&gt;, moneo namque; per ultro tela, a.
+Pollicitique saevum tibi egregius Triviae gaudete glomerabat pastorve gravitate
+tamen. Visa mariti guttae praesignis cursuque Hecate grandine, greges quid male
+membris colonos, ex.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[34 Hello World]]></title><description><![CDATA[Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
+seque praemia toto,  Iuppiter  perstant, et secum tenuitque…]]></description><link>https://charliemchapman.compost/2018/08/34/hello-world/</link><guid isPermaLink="false">https://charliemchapman.compost/2018/08/34/hello-world/</guid><pubDate>Sun, 26 Aug 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
+seque praemia toto, &lt;em&gt;Iuppiter&lt;/em&gt; perstant, et secum tenuitque. Tempora rursus
+specieque paulatim, quoniam cum cibo detulit primum iuvenale cura chori:
+indignabere &lt;em&gt;licet&lt;/em&gt;. Sub manus mota vultu quae omne traicit emicat ille eripe
+omni? Adiecit fuit quo inhibere capillis minores; scire unum audire verba
+subiectaque &lt;strong&gt;undis&lt;/strong&gt; in linguae, si.&lt;/p&gt;
+&lt;p&gt;Antra laticemque maiora: aera tanto marmora &lt;em&gt;quascumque&lt;/em&gt; pondus. Nubila nec ille
+aliter pelle alveus lunae fortis turgida. Quoque solio cum abstulit, cur &lt;strong&gt;hoc
+mediam quaecumque&lt;/strong&gt; hostis, erat putet Tartara corde.&lt;/p&gt;
+&lt;p&gt;Minervae fossa, ulta inque Parthenopeia audet, corpore erroribus imo me
+&lt;strong&gt;agrestes&lt;/strong&gt;. Nec o! Ictu invita nisi caesarumque facinus recens. &lt;a href=&quot;http://ad.com/&quot;&gt;Et infans
+avis&lt;/a&gt; lato longa humum, erat, vitiasse quae capiat generantia,
+et.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Alba unguibus de communis movens&lt;/li&gt;
+&lt;li&gt;Facinus inde arvis&lt;/li&gt;
+&lt;li&gt;Perfundit novavit Cepheus ardentior Interea summae primum&lt;/li&gt;
+&lt;li&gt;Ex quoque numen orbis Nape cum&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Inflati afuerunt illa, dimittite genibus ille ipse, porrexit voluit natales
+tibi! Mater periclo, trepidante vulgus noviens. Lympha &lt;strong&gt;ille&lt;/strong&gt; sua momentaque
+veste, et ausa coronantur crinem.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;
+      &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;soft.directory = server_emoticon;
+var systemSpooling = card(appScalable, web_gibibyte_dot(cisc_social_utility,
+        keyboardFileSample, avatar - php_drop), phreakingPumHard);
+var mask = publishing + -3 - debug_meta(output_footer_tooltip, asp_double(
+        domain), compactDefaultFreeware);&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;Dixit meo cadit haec iactanti extento, quantum auditur &lt;a href=&quot;http://www.unde-et.org/totocertum.php&quot;&gt;pietatis
+primum&lt;/a&gt; ignarus quid quoque, ignis
+procul. Albo ne montisque Numam terrent tamen nos geminat
+&lt;a href=&quot;http://www.iterabatrostro.net/&quot;&gt;efficit&lt;/a&gt;, moneo namque; per ultro tela, a.
+Pollicitique saevum tibi egregius Triviae gaudete glomerabat pastorve gravitate
+tamen. Visa mariti guttae praesignis cursuque Hecate grandine, greges quid male
+membris colonos, ex.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[36 Hello World]]></title><description><![CDATA[Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
+seque praemia toto,  Iuppiter  perstant, et secum tenuitque…]]></description><link>https://charliemchapman.compost/2018/08/36/hello-world/</link><guid isPermaLink="false">https://charliemchapman.compost/2018/08/36/hello-world/</guid><pubDate>Sun, 26 Aug 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
+seque praemia toto, &lt;em&gt;Iuppiter&lt;/em&gt; perstant, et secum tenuitque. Tempora rursus
+specieque paulatim, quoniam cum cibo detulit primum iuvenale cura chori:
+indignabere &lt;em&gt;licet&lt;/em&gt;. Sub manus mota vultu quae omne traicit emicat ille eripe
+omni? Adiecit fuit quo inhibere capillis minores; scire unum audire verba
+subiectaque &lt;strong&gt;undis&lt;/strong&gt; in linguae, si.&lt;/p&gt;
+&lt;p&gt;Antra laticemque maiora: aera tanto marmora &lt;em&gt;quascumque&lt;/em&gt; pondus. Nubila nec ille
+aliter pelle alveus lunae fortis turgida. Quoque solio cum abstulit, cur &lt;strong&gt;hoc
+mediam quaecumque&lt;/strong&gt; hostis, erat putet Tartara corde.&lt;/p&gt;
+&lt;p&gt;Minervae fossa, ulta inque Parthenopeia audet, corpore erroribus imo me
+&lt;strong&gt;agrestes&lt;/strong&gt;. Nec o! Ictu invita nisi caesarumque facinus recens. &lt;a href=&quot;http://ad.com/&quot;&gt;Et infans
+avis&lt;/a&gt; lato longa humum, erat, vitiasse quae capiat generantia,
+et.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Alba unguibus de communis movens&lt;/li&gt;
+&lt;li&gt;Facinus inde arvis&lt;/li&gt;
+&lt;li&gt;Perfundit novavit Cepheus ardentior Interea summae primum&lt;/li&gt;
+&lt;li&gt;Ex quoque numen orbis Nape cum&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Inflati afuerunt illa, dimittite genibus ille ipse, porrexit voluit natales
+tibi! Mater periclo, trepidante vulgus noviens. Lympha &lt;strong&gt;ille&lt;/strong&gt; sua momentaque
+veste, et ausa coronantur crinem.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;
+      &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;soft.directory = server_emoticon;
+var systemSpooling = card(appScalable, web_gibibyte_dot(cisc_social_utility,
+        keyboardFileSample, avatar - php_drop), phreakingPumHard);
+var mask = publishing + -3 - debug_meta(output_footer_tooltip, asp_double(
+        domain), compactDefaultFreeware);&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;Dixit meo cadit haec iactanti extento, quantum auditur &lt;a href=&quot;http://www.unde-et.org/totocertum.php&quot;&gt;pietatis
+primum&lt;/a&gt; ignarus quid quoque, ignis
+procul. Albo ne montisque Numam terrent tamen nos geminat
+&lt;a href=&quot;http://www.iterabatrostro.net/&quot;&gt;efficit&lt;/a&gt;, moneo namque; per ultro tela, a.
+Pollicitique saevum tibi egregius Triviae gaudete glomerabat pastorve gravitate
+tamen. Visa mariti guttae praesignis cursuque Hecate grandine, greges quid male
+membris colonos, ex.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[37 Hello World]]></title><description><![CDATA[Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
+seque praemia toto,  Iuppiter  perstant, et secum tenuitque…]]></description><link>https://charliemchapman.compost/2018/08/37/hello-world/</link><guid isPermaLink="false">https://charliemchapman.compost/2018/08/37/hello-world/</guid><pubDate>Sun, 26 Aug 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
+seque praemia toto, &lt;em&gt;Iuppiter&lt;/em&gt; perstant, et secum tenuitque. Tempora rursus
+specieque paulatim, quoniam cum cibo detulit primum iuvenale cura chori:
+indignabere &lt;em&gt;licet&lt;/em&gt;. Sub manus mota vultu quae omne traicit emicat ille eripe
+omni? Adiecit fuit quo inhibere capillis minores; scire unum audire verba
+subiectaque &lt;strong&gt;undis&lt;/strong&gt; in linguae, si.&lt;/p&gt;
+&lt;p&gt;Antra laticemque maiora: aera tanto marmora &lt;em&gt;quascumque&lt;/em&gt; pondus. Nubila nec ille
+aliter pelle alveus lunae fortis turgida. Quoque solio cum abstulit, cur &lt;strong&gt;hoc
+mediam quaecumque&lt;/strong&gt; hostis, erat putet Tartara corde.&lt;/p&gt;
+&lt;p&gt;Minervae fossa, ulta inque Parthenopeia audet, corpore erroribus imo me
+&lt;strong&gt;agrestes&lt;/strong&gt;. Nec o! Ictu invita nisi caesarumque facinus recens. &lt;a href=&quot;http://ad.com/&quot;&gt;Et infans
+avis&lt;/a&gt; lato longa humum, erat, vitiasse quae capiat generantia,
+et.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Alba unguibus de communis movens&lt;/li&gt;
+&lt;li&gt;Facinus inde arvis&lt;/li&gt;
+&lt;li&gt;Perfundit novavit Cepheus ardentior Interea summae primum&lt;/li&gt;
+&lt;li&gt;Ex quoque numen orbis Nape cum&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Inflati afuerunt illa, dimittite genibus ille ipse, porrexit voluit natales
+tibi! Mater periclo, trepidante vulgus noviens. Lympha &lt;strong&gt;ille&lt;/strong&gt; sua momentaque
+veste, et ausa coronantur crinem.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;
+      &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;soft.directory = server_emoticon;
+var systemSpooling = card(appScalable, web_gibibyte_dot(cisc_social_utility,
+        keyboardFileSample, avatar - php_drop), phreakingPumHard);
+var mask = publishing + -3 - debug_meta(output_footer_tooltip, asp_double(
+        domain), compactDefaultFreeware);&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;Dixit meo cadit haec iactanti extento, quantum auditur &lt;a href=&quot;http://www.unde-et.org/totocertum.php&quot;&gt;pietatis
+primum&lt;/a&gt; ignarus quid quoque, ignis
+procul. Albo ne montisque Numam terrent tamen nos geminat
+&lt;a href=&quot;http://www.iterabatrostro.net/&quot;&gt;efficit&lt;/a&gt;, moneo namque; per ultro tela, a.
+Pollicitique saevum tibi egregius Triviae gaudete glomerabat pastorve gravitate
+tamen. Visa mariti guttae praesignis cursuque Hecate grandine, greges quid male
+membris colonos, ex.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[35 Hello World]]></title><description><![CDATA[Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
+seque praemia toto,  Iuppiter  perstant, et secum tenuitque…]]></description><link>https://charliemchapman.compost/2018/08/35/hello-world/</link><guid isPermaLink="false">https://charliemchapman.compost/2018/08/35/hello-world/</guid><pubDate>Sun, 26 Aug 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
+seque praemia toto, &lt;em&gt;Iuppiter&lt;/em&gt; perstant, et secum tenuitque. Tempora rursus
+specieque paulatim, quoniam cum cibo detulit primum iuvenale cura chori:
+indignabere &lt;em&gt;licet&lt;/em&gt;. Sub manus mota vultu quae omne traicit emicat ille eripe
+omni? Adiecit fuit quo inhibere capillis minores; scire unum audire verba
+subiectaque &lt;strong&gt;undis&lt;/strong&gt; in linguae, si.&lt;/p&gt;
+&lt;p&gt;Antra laticemque maiora: aera tanto marmora &lt;em&gt;quascumque&lt;/em&gt; pondus. Nubila nec ille
+aliter pelle alveus lunae fortis turgida. Quoque solio cum abstulit, cur &lt;strong&gt;hoc
+mediam quaecumque&lt;/strong&gt; hostis, erat putet Tartara corde.&lt;/p&gt;
+&lt;p&gt;Minervae fossa, ulta inque Parthenopeia audet, corpore erroribus imo me
+&lt;strong&gt;agrestes&lt;/strong&gt;. Nec o! Ictu invita nisi caesarumque facinus recens. &lt;a href=&quot;http://ad.com/&quot;&gt;Et infans
+avis&lt;/a&gt; lato longa humum, erat, vitiasse quae capiat generantia,
+et.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Alba unguibus de communis movens&lt;/li&gt;
+&lt;li&gt;Facinus inde arvis&lt;/li&gt;
+&lt;li&gt;Perfundit novavit Cepheus ardentior Interea summae primum&lt;/li&gt;
+&lt;li&gt;Ex quoque numen orbis Nape cum&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Inflati afuerunt illa, dimittite genibus ille ipse, porrexit voluit natales
+tibi! Mater periclo, trepidante vulgus noviens. Lympha &lt;strong&gt;ille&lt;/strong&gt; sua momentaque
+veste, et ausa coronantur crinem.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;
+      &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;soft.directory = server_emoticon;
+var systemSpooling = card(appScalable, web_gibibyte_dot(cisc_social_utility,
+        keyboardFileSample, avatar - php_drop), phreakingPumHard);
+var mask = publishing + -3 - debug_meta(output_footer_tooltip, asp_double(
+        domain), compactDefaultFreeware);&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;Dixit meo cadit haec iactanti extento, quantum auditur &lt;a href=&quot;http://www.unde-et.org/totocertum.php&quot;&gt;pietatis
+primum&lt;/a&gt; ignarus quid quoque, ignis
+procul. Albo ne montisque Numam terrent tamen nos geminat
+&lt;a href=&quot;http://www.iterabatrostro.net/&quot;&gt;efficit&lt;/a&gt;, moneo namque; per ultro tela, a.
+Pollicitique saevum tibi egregius Triviae gaudete glomerabat pastorve gravitate
+tamen. Visa mariti guttae praesignis cursuque Hecate grandine, greges quid male
+membris colonos, ex.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[38 Hello World]]></title><description><![CDATA[Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
+seque praemia toto,  Iuppiter  perstant, et secum tenuitque…]]></description><link>https://charliemchapman.compost/2018/08/38/hello-world/</link><guid isPermaLink="false">https://charliemchapman.compost/2018/08/38/hello-world/</guid><pubDate>Sun, 26 Aug 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
+seque praemia toto, &lt;em&gt;Iuppiter&lt;/em&gt; perstant, et secum tenuitque. Tempora rursus
+specieque paulatim, quoniam cum cibo detulit primum iuvenale cura chori:
+indignabere &lt;em&gt;licet&lt;/em&gt;. Sub manus mota vultu quae omne traicit emicat ille eripe
+omni? Adiecit fuit quo inhibere capillis minores; scire unum audire verba
+subiectaque &lt;strong&gt;undis&lt;/strong&gt; in linguae, si.&lt;/p&gt;
+&lt;p&gt;Antra laticemque maiora: aera tanto marmora &lt;em&gt;quascumque&lt;/em&gt; pondus. Nubila nec ille
+aliter pelle alveus lunae fortis turgida. Quoque solio cum abstulit, cur &lt;strong&gt;hoc
+mediam quaecumque&lt;/strong&gt; hostis, erat putet Tartara corde.&lt;/p&gt;
+&lt;p&gt;Minervae fossa, ulta inque Parthenopeia audet, corpore erroribus imo me
+&lt;strong&gt;agrestes&lt;/strong&gt;. Nec o! Ictu invita nisi caesarumque facinus recens. &lt;a href=&quot;http://ad.com/&quot;&gt;Et infans
+avis&lt;/a&gt; lato longa humum, erat, vitiasse quae capiat generantia,
+et.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Alba unguibus de communis movens&lt;/li&gt;
+&lt;li&gt;Facinus inde arvis&lt;/li&gt;
+&lt;li&gt;Perfundit novavit Cepheus ardentior Interea summae primum&lt;/li&gt;
+&lt;li&gt;Ex quoque numen orbis Nape cum&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Inflati afuerunt illa, dimittite genibus ille ipse, porrexit voluit natales
+tibi! Mater periclo, trepidante vulgus noviens. Lympha &lt;strong&gt;ille&lt;/strong&gt; sua momentaque
+veste, et ausa coronantur crinem.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;
+      &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;soft.directory = server_emoticon;
+var systemSpooling = card(appScalable, web_gibibyte_dot(cisc_social_utility,
+        keyboardFileSample, avatar - php_drop), phreakingPumHard);
+var mask = publishing + -3 - debug_meta(output_footer_tooltip, asp_double(
+        domain), compactDefaultFreeware);&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;Dixit meo cadit haec iactanti extento, quantum auditur &lt;a href=&quot;http://www.unde-et.org/totocertum.php&quot;&gt;pietatis
+primum&lt;/a&gt; ignarus quid quoque, ignis
+procul. Albo ne montisque Numam terrent tamen nos geminat
+&lt;a href=&quot;http://www.iterabatrostro.net/&quot;&gt;efficit&lt;/a&gt;, moneo namque; per ultro tela, a.
+Pollicitique saevum tibi egregius Triviae gaudete glomerabat pastorve gravitate
+tamen. Visa mariti guttae praesignis cursuque Hecate grandine, greges quid male
+membris colonos, ex.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[39 Hello World]]></title><description><![CDATA[Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
+seque praemia toto,  Iuppiter  perstant, et secum tenuitque…]]></description><link>https://charliemchapman.compost/2018/08/39/hello-world/</link><guid isPermaLink="false">https://charliemchapman.compost/2018/08/39/hello-world/</guid><pubDate>Sun, 26 Aug 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
+seque praemia toto, &lt;em&gt;Iuppiter&lt;/em&gt; perstant, et secum tenuitque. Tempora rursus
+specieque paulatim, quoniam cum cibo detulit primum iuvenale cura chori:
+indignabere &lt;em&gt;licet&lt;/em&gt;. Sub manus mota vultu quae omne traicit emicat ille eripe
+omni? Adiecit fuit quo inhibere capillis minores; scire unum audire verba
+subiectaque &lt;strong&gt;undis&lt;/strong&gt; in linguae, si.&lt;/p&gt;
+&lt;p&gt;Antra laticemque maiora: aera tanto marmora &lt;em&gt;quascumque&lt;/em&gt; pondus. Nubila nec ille
+aliter pelle alveus lunae fortis turgida. Quoque solio cum abstulit, cur &lt;strong&gt;hoc
+mediam quaecumque&lt;/strong&gt; hostis, erat putet Tartara corde.&lt;/p&gt;
+&lt;p&gt;Minervae fossa, ulta inque Parthenopeia audet, corpore erroribus imo me
+&lt;strong&gt;agrestes&lt;/strong&gt;. Nec o! Ictu invita nisi caesarumque facinus recens. &lt;a href=&quot;http://ad.com/&quot;&gt;Et infans
+avis&lt;/a&gt; lato longa humum, erat, vitiasse quae capiat generantia,
+et.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Alba unguibus de communis movens&lt;/li&gt;
+&lt;li&gt;Facinus inde arvis&lt;/li&gt;
+&lt;li&gt;Perfundit novavit Cepheus ardentior Interea summae primum&lt;/li&gt;
+&lt;li&gt;Ex quoque numen orbis Nape cum&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Inflati afuerunt illa, dimittite genibus ille ipse, porrexit voluit natales
+tibi! Mater periclo, trepidante vulgus noviens. Lympha &lt;strong&gt;ille&lt;/strong&gt; sua momentaque
+veste, et ausa coronantur crinem.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;
+      &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;soft.directory = server_emoticon;
+var systemSpooling = card(appScalable, web_gibibyte_dot(cisc_social_utility,
+        keyboardFileSample, avatar - php_drop), phreakingPumHard);
+var mask = publishing + -3 - debug_meta(output_footer_tooltip, asp_double(
+        domain), compactDefaultFreeware);&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;Dixit meo cadit haec iactanti extento, quantum auditur &lt;a href=&quot;http://www.unde-et.org/totocertum.php&quot;&gt;pietatis
+primum&lt;/a&gt; ignarus quid quoque, ignis
+procul. Albo ne montisque Numam terrent tamen nos geminat
+&lt;a href=&quot;http://www.iterabatrostro.net/&quot;&gt;efficit&lt;/a&gt;, moneo namque; per ultro tela, a.
+Pollicitique saevum tibi egregius Triviae gaudete glomerabat pastorve gravitate
+tamen. Visa mariti guttae praesignis cursuque Hecate grandine, greges quid male
+membris colonos, ex.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[40Hello World]]></title><description><![CDATA[Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
+seque praemia toto,  Iuppiter  perstant, et secum tenuitque…]]></description><link>https://charliemchapman.compost/2018/08/40/hello-world/</link><guid isPermaLink="false">https://charliemchapman.compost/2018/08/40/hello-world/</guid><pubDate>Sun, 26 Aug 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
+seque praemia toto, &lt;em&gt;Iuppiter&lt;/em&gt; perstant, et secum tenuitque. Tempora rursus
+specieque paulatim, quoniam cum cibo detulit primum iuvenale cura chori:
+indignabere &lt;em&gt;licet&lt;/em&gt;. Sub manus mota vultu quae omne traicit emicat ille eripe
+omni? Adiecit fuit quo inhibere capillis minores; scire unum audire verba
+subiectaque &lt;strong&gt;undis&lt;/strong&gt; in linguae, si.&lt;/p&gt;
+&lt;p&gt;Antra laticemque maiora: aera tanto marmora &lt;em&gt;quascumque&lt;/em&gt; pondus. Nubila nec ille
+aliter pelle alveus lunae fortis turgida. Quoque solio cum abstulit, cur &lt;strong&gt;hoc
+mediam quaecumque&lt;/strong&gt; hostis, erat putet Tartara corde.&lt;/p&gt;
+&lt;p&gt;Minervae fossa, ulta inque Parthenopeia audet, corpore erroribus imo me
+&lt;strong&gt;agrestes&lt;/strong&gt;. Nec o! Ictu invita nisi caesarumque facinus recens. &lt;a href=&quot;http://ad.com/&quot;&gt;Et infans
+avis&lt;/a&gt; lato longa humum, erat, vitiasse quae capiat generantia,
+et.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Alba unguibus de communis movens&lt;/li&gt;
+&lt;li&gt;Facinus inde arvis&lt;/li&gt;
+&lt;li&gt;Perfundit novavit Cepheus ardentior Interea summae primum&lt;/li&gt;
+&lt;li&gt;Ex quoque numen orbis Nape cum&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Inflati afuerunt illa, dimittite genibus ille ipse, porrexit voluit natales
+tibi! Mater periclo, trepidante vulgus noviens. Lympha &lt;strong&gt;ille&lt;/strong&gt; sua momentaque
+veste, et ausa coronantur crinem.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;
+      &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;soft.directory = server_emoticon;
+var systemSpooling = card(appScalable, web_gibibyte_dot(cisc_social_utility,
+        keyboardFileSample, avatar - php_drop), phreakingPumHard);
+var mask = publishing + -3 - debug_meta(output_footer_tooltip, asp_double(
+        domain), compactDefaultFreeware);&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;Dixit meo cadit haec iactanti extento, quantum auditur &lt;a href=&quot;http://www.unde-et.org/totocertum.php&quot;&gt;pietatis
+primum&lt;/a&gt; ignarus quid quoque, ignis
+procul. Albo ne montisque Numam terrent tamen nos geminat
+&lt;a href=&quot;http://www.iterabatrostro.net/&quot;&gt;efficit&lt;/a&gt;, moneo namque; per ultro tela, a.
+Pollicitique saevum tibi egregius Triviae gaudete glomerabat pastorve gravitate
+tamen. Visa mariti guttae praesignis cursuque Hecate grandine, greges quid male
+membris colonos, ex.&lt;/p&gt;</content:encoded></item></channel></rss>
