@@ -1,6 +1,8 @@
 module.exports = {
     siteMetadata: {
         title: `Charlie Chapman`,
+        description: `The personal blog of Charlie Chapman`,
+        siteUrl: `https://charliemchapman.com`
     },
     plugins: [
         {
@@ -40,5 +42,8 @@ module.exports = {
             ],
           },
         },
+        {
+          resolve: `gatsby-plugin-feed`
+        }
       ],
 };
