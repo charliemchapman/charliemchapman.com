@@ -2,9 +2,11 @@ import React from "react";
 import Link from "gatsby-link";
 import styles from '../styles/layout.module.css';
 require("prismjs/themes/prism-solarizedlight.css");
+import SEO from '../components/SEO';
 
 export default ({ children }) => (
   <div>
+    <SEO/>
     <header className={styles.headerContainer}>
       <div className={styles.headerText}>
         <Link to="/">

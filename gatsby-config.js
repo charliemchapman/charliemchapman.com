@@ -5,6 +5,7 @@ module.exports = {
         siteUrl: `https://charliemchapman.com`
     },
     plugins: [
+        `gatsby-plugin-react-helmet`,
         {
           resolve: `gatsby-source-filesystem`,
           options: {
