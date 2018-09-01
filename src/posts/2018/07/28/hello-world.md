@@ -1,6 +1,6 @@
 ---
 title: Hello World
-date: "2018-08-26"
+date: "2018-07-27"
 ---
 
 Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
