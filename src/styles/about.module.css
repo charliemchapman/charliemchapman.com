@@ -1,0 +1,14 @@
+.textAndImage{
+    
+}
+
+.image{
+}
+
+@media screen and (min-width: 500px) {
+    .image{
+        float: left;
+        margin-right: 20px;
+    }
+}
+

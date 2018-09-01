@@ -9,8 +9,8 @@ module.exports = {
         {
           resolve: `gatsby-source-filesystem`,
           options: {
-            name: `posts`,
-            path: `${__dirname}/src/posts`,
+            name: `src`,
+            path: `${__dirname}/src`,
           },
         },
         {
@@ -27,6 +27,7 @@ module.exports = {
             }
           }
         },
+        `gatsby-transformer-sharp`,
         `gatsby-plugin-sharp`,
         {
           resolve: `gatsby-transformer-remark`,
