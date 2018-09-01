@@ -9,8 +9,6 @@ Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered H
   - See HTML in the right
   - Magic
 
-## New Features!
-
   - Import a HTML file and watch it magically convert to Markdown
   - Drag and drop images (requires your Dropbox account be linked)
 
@@ -32,8 +30,6 @@ Markdown is a lightweight markup language based on the formatting conventions th
 
 This text you see here is *actually* written in Markdown! To get a feel for Markdown's syntax, type some text into the left window and watch the results in the right.
 
-### Tech
-
 Dillinger uses a number of open source projects to work properly:
 
 * [AngularJS] - HTML enhanced for web apps!
@@ -48,8 +44,6 @@ Dillinger uses a number of open source projects to work properly:
 
 And of course Dillinger itself is open source with a [public repository][dill]
  on GitHub.
-
-### Installation
 
 Dillinger requires [Node.js](https://nodejs.org/) v4+ to run.
 
