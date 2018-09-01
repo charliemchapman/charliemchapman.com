@@ -1,6 +1,7 @@
 import React from "react";
 import Link from "gatsby-link";
 import styles from '../styles/layout.module.css';
+require("prismjs/themes/prism-solarizedlight.css");
 
 export default ({ children }) => (
   <div>

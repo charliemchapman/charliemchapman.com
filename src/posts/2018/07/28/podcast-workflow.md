@@ -57,23 +57,14 @@ $ node app
 
 For production environments...
 
-```sh
-$ npm install --production
-$ NODE_ENV=production node app
+```javascript
+var cookie = 92 +7;
+let eat = (food) => { cookie + 1 };
 ```
 
 ### Plugins
 
 Dillinger is currently extended with the following plugins. Instructions on how to use them in your own application are linked below.
-
-| Plugin | README |
-| ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| Github | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
 
 
 ### Development
