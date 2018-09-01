@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Charlie Chapman]]></title><description><![CDATA[The personal blog of Charlie Chapman]]></description><link>https://charliemchapman.com</link><generator>RSS for Node</generator><lastBuildDate>Sat, 01 Sep 2018 04:29:53 GMT</lastBuildDate><item><title><![CDATA[This is a brand new post... You're Welcome]]></title><description><![CDATA[Alright so I need to test a couple things and this feels like the best place to do it since It's got the latest date on it so it  should…]]></description><link>https://charliemchapman.compost/2018/08/31/a_new_one/</link><guid isPermaLink="false">https://charliemchapman.compost/2018/08/31/a_new_one/</guid><pubDate>Fri, 31 Aug 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Alright so I need to test a couple things and this feels like the best place to do it since&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Charlie Chapman]]></title><description><![CDATA[The personal blog of Charlie Chapman]]></description><link>https://charliemchapman.com</link><generator>RSS for Node</generator><lastBuildDate>Sat, 01 Sep 2018 04:35:23 GMT</lastBuildDate><item><title><![CDATA[This is a brand new post... You're Welcome]]></title><description><![CDATA[Alright so I need to test a couple things and this feels like the best place to do it since It's got the latest date on it so it  should…]]></description><link>https://charliemchapman.compost/2018/08/31/a_new_one/</link><guid isPermaLink="false">https://charliemchapman.compost/2018/08/31/a_new_one/</guid><pubDate>Fri, 31 Aug 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Alright so I need to test a couple things and this feels like the best place to do it since&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;It&apos;s got the latest date on it so it &lt;em&gt;should&lt;/em&gt; show up at the top&lt;/li&gt;
 &lt;li&gt;I&apos;m actually manually writing this one so it should be pretty easy to get all my sample crap in here&lt;/li&gt;
@@ -8,7 +8,7 @@
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/Material-Design-Dark-Background-Wallpapers-23170-ccc12acec5f05b9824744ee1f74e7390-e872d.jpg&quot;
+    href=&quot;/static/Material-Design-Dark-Background-Wallpapers-23170-ccc12acec5f05b9824744ee1f74e7390-cb77c.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -27,14 +27,14 @@
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;My Wallpaper&quot;
         title=&quot;&quot;
-        src=&quot;/static/Material-Design-Dark-Background-Wallpapers-23170-ccc12acec5f05b9824744ee1f74e7390-f7960.jpg&quot;
-        srcset=&quot;/static/Material-Design-Dark-Background-Wallpapers-23170-ccc12acec5f05b9824744ee1f74e7390-9b0f6.jpg 188w,
-/static/Material-Design-Dark-Background-Wallpapers-23170-ccc12acec5f05b9824744ee1f74e7390-1e66f.jpg 375w,
-/static/Material-Design-Dark-Background-Wallpapers-23170-ccc12acec5f05b9824744ee1f74e7390-f7960.jpg 750w,
-/static/Material-Design-Dark-Background-Wallpapers-23170-ccc12acec5f05b9824744ee1f74e7390-b3b5e.jpg 1125w,
-/static/Material-Design-Dark-Background-Wallpapers-23170-ccc12acec5f05b9824744ee1f74e7390-f3df0.jpg 1500w,
-/static/Material-Design-Dark-Background-Wallpapers-23170-ccc12acec5f05b9824744ee1f74e7390-178c5.jpg 2250w,
-/static/Material-Design-Dark-Background-Wallpapers-23170-ccc12acec5f05b9824744ee1f74e7390-e872d.jpg 2560w&quot;
+        src=&quot;/static/Material-Design-Dark-Background-Wallpapers-23170-ccc12acec5f05b9824744ee1f74e7390-5520a.jpg&quot;
+        srcset=&quot;/static/Material-Design-Dark-Background-Wallpapers-23170-ccc12acec5f05b9824744ee1f74e7390-52dbb.jpg 188w,
+/static/Material-Design-Dark-Background-Wallpapers-23170-ccc12acec5f05b9824744ee1f74e7390-b4884.jpg 375w,
+/static/Material-Design-Dark-Background-Wallpapers-23170-ccc12acec5f05b9824744ee1f74e7390-5520a.jpg 750w,
+/static/Material-Design-Dark-Background-Wallpapers-23170-ccc12acec5f05b9824744ee1f74e7390-916c9.jpg 1125w,
+/static/Material-Design-Dark-Background-Wallpapers-23170-ccc12acec5f05b9824744ee1f74e7390-8dad4.jpg 1500w,
+/static/Material-Design-Dark-Background-Wallpapers-23170-ccc12acec5f05b9824744ee1f74e7390-17c71.jpg 2250w,
+/static/Material-Design-Dark-Background-Wallpapers-23170-ccc12acec5f05b9824744ee1f74e7390-cb77c.jpg 2560w&quot;
         sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
       /&gt;
     &lt;/span&gt;
@@ -166,42 +166,6 @@ procul. Albo ne montisque Numam terrent tamen nos geminat
 &lt;a href=&quot;http://www.iterabatrostro.net/&quot;&gt;efficit&lt;/a&gt;, moneo namque; per ultro tela, a.
 Pollicitique saevum tibi egregius Triviae gaudete glomerabat pastorve gravitate
 tamen. Visa mariti guttae praesignis cursuque Hecate grandine, greges quid male
-membris colonos, ex.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[28 Hello World]]></title><description><![CDATA[Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
-seque praemia toto,  Iuppiter  perstant, et secum tenuitque…]]></description><link>https://charliemchapman.compost/2018/08/03/hello-world/</link><guid isPermaLink="false">https://charliemchapman.compost/2018/08/03/hello-world/</guid><pubDate>Sun, 26 Aug 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
-seque praemia toto, &lt;em&gt;Iuppiter&lt;/em&gt; perstant, et secum tenuitque. Tempora rursus
-specieque paulatim, quoniam cum cibo detulit primum iuvenale cura chori:
-indignabere &lt;em&gt;licet&lt;/em&gt;. Sub manus mota vultu quae omne traicit emicat ille eripe
-omni? Adiecit fuit quo inhibere capillis minores; scire unum audire verba
-subiectaque &lt;strong&gt;undis&lt;/strong&gt; in linguae, si.&lt;/p&gt;
-&lt;p&gt;Antra laticemque maiora: aera tanto marmora &lt;em&gt;quascumque&lt;/em&gt; pondus. Nubila nec ille
-aliter pelle alveus lunae fortis turgida. Quoque solio cum abstulit, cur &lt;strong&gt;hoc
-mediam quaecumque&lt;/strong&gt; hostis, erat putet Tartara corde.&lt;/p&gt;
-&lt;p&gt;Minervae fossa, ulta inque Parthenopeia audet, corpore erroribus imo me
-&lt;strong&gt;agrestes&lt;/strong&gt;. Nec o! Ictu invita nisi caesarumque facinus recens. &lt;a href=&quot;http://ad.com/&quot;&gt;Et infans
-avis&lt;/a&gt; lato longa humum, erat, vitiasse quae capiat generantia,
-et.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Alba unguibus de communis movens&lt;/li&gt;
-&lt;li&gt;Facinus inde arvis&lt;/li&gt;
-&lt;li&gt;Perfundit novavit Cepheus ardentior Interea summae primum&lt;/li&gt;
-&lt;li&gt;Ex quoque numen orbis Nape cum&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Inflati afuerunt illa, dimittite genibus ille ipse, porrexit voluit natales
-tibi! Mater periclo, trepidante vulgus noviens. Lympha &lt;strong&gt;ille&lt;/strong&gt; sua momentaque
-veste, et ausa coronantur crinem.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;
-      &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;soft.directory = server_emoticon;
-var systemSpooling = card(appScalable, web_gibibyte_dot(cisc_social_utility,
-        keyboardFileSample, avatar - php_drop), phreakingPumHard);
-var mask = publishing + -3 - debug_meta(output_footer_tooltip, asp_double(
-        domain), compactDefaultFreeware);&lt;/code&gt;&lt;/pre&gt;
-      &lt;/div&gt;
-&lt;p&gt;Dixit meo cadit haec iactanti extento, quantum auditur &lt;a href=&quot;http://www.unde-et.org/totocertum.php&quot;&gt;pietatis
-primum&lt;/a&gt; ignarus quid quoque, ignis
-procul. Albo ne montisque Numam terrent tamen nos geminat
-&lt;a href=&quot;http://www.iterabatrostro.net/&quot;&gt;efficit&lt;/a&gt;, moneo namque; per ultro tela, a.
-Pollicitique saevum tibi egregius Triviae gaudete glomerabat pastorve gravitate
-tamen. Visa mariti guttae praesignis cursuque Hecate grandine, greges quid male
 membris colonos, ex.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[29 Hello World]]></title><description><![CDATA[Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
 seque praemia toto,  Iuppiter  perstant, et secum tenuitque…]]></description><link>https://charliemchapman.compost/2018/08/04/hello-world/</link><guid isPermaLink="false">https://charliemchapman.compost/2018/08/04/hello-world/</guid><pubDate>Sun, 26 Aug 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
 seque praemia toto, &lt;em&gt;Iuppiter&lt;/em&gt; perstant, et secum tenuitque. Tempora rursus
@@ -240,6 +204,42 @@ Pollicitique saevum tibi egregius Triviae gaudete glomerabat pastorve gravitate
 tamen. Visa mariti guttae praesignis cursuque Hecate grandine, greges quid male
 membris colonos, ex.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[30 Hello World]]></title><description><![CDATA[Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
 seque praemia toto,  Iuppiter  perstant, et secum tenuitque…]]></description><link>https://charliemchapman.compost/2018/08/05/hello-world/</link><guid isPermaLink="false">https://charliemchapman.compost/2018/08/05/hello-world/</guid><pubDate>Sun, 26 Aug 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
+seque praemia toto, &lt;em&gt;Iuppiter&lt;/em&gt; perstant, et secum tenuitque. Tempora rursus
+specieque paulatim, quoniam cum cibo detulit primum iuvenale cura chori:
+indignabere &lt;em&gt;licet&lt;/em&gt;. Sub manus mota vultu quae omne traicit emicat ille eripe
+omni? Adiecit fuit quo inhibere capillis minores; scire unum audire verba
+subiectaque &lt;strong&gt;undis&lt;/strong&gt; in linguae, si.&lt;/p&gt;
+&lt;p&gt;Antra laticemque maiora: aera tanto marmora &lt;em&gt;quascumque&lt;/em&gt; pondus. Nubila nec ille
+aliter pelle alveus lunae fortis turgida. Quoque solio cum abstulit, cur &lt;strong&gt;hoc
+mediam quaecumque&lt;/strong&gt; hostis, erat putet Tartara corde.&lt;/p&gt;
+&lt;p&gt;Minervae fossa, ulta inque Parthenopeia audet, corpore erroribus imo me
+&lt;strong&gt;agrestes&lt;/strong&gt;. Nec o! Ictu invita nisi caesarumque facinus recens. &lt;a href=&quot;http://ad.com/&quot;&gt;Et infans
+avis&lt;/a&gt; lato longa humum, erat, vitiasse quae capiat generantia,
+et.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Alba unguibus de communis movens&lt;/li&gt;
+&lt;li&gt;Facinus inde arvis&lt;/li&gt;
+&lt;li&gt;Perfundit novavit Cepheus ardentior Interea summae primum&lt;/li&gt;
+&lt;li&gt;Ex quoque numen orbis Nape cum&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Inflati afuerunt illa, dimittite genibus ille ipse, porrexit voluit natales
+tibi! Mater periclo, trepidante vulgus noviens. Lympha &lt;strong&gt;ille&lt;/strong&gt; sua momentaque
+veste, et ausa coronantur crinem.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;
+      &lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;soft.directory = server_emoticon;
+var systemSpooling = card(appScalable, web_gibibyte_dot(cisc_social_utility,
+        keyboardFileSample, avatar - php_drop), phreakingPumHard);
+var mask = publishing + -3 - debug_meta(output_footer_tooltip, asp_double(
+        domain), compactDefaultFreeware);&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+&lt;p&gt;Dixit meo cadit haec iactanti extento, quantum auditur &lt;a href=&quot;http://www.unde-et.org/totocertum.php&quot;&gt;pietatis
+primum&lt;/a&gt; ignarus quid quoque, ignis
+procul. Albo ne montisque Numam terrent tamen nos geminat
+&lt;a href=&quot;http://www.iterabatrostro.net/&quot;&gt;efficit&lt;/a&gt;, moneo namque; per ultro tela, a.
+Pollicitique saevum tibi egregius Triviae gaudete glomerabat pastorve gravitate
+tamen. Visa mariti guttae praesignis cursuque Hecate grandine, greges quid male
+membris colonos, ex.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[28 Hello World]]></title><description><![CDATA[Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
+seque praemia toto,  Iuppiter  perstant, et secum tenuitque…]]></description><link>https://charliemchapman.compost/2018/08/03/hello-world/</link><guid isPermaLink="false">https://charliemchapman.compost/2018/08/03/hello-world/</guid><pubDate>Sun, 26 Aug 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
 seque praemia toto, &lt;em&gt;Iuppiter&lt;/em&gt; perstant, et secum tenuitque. Tempora rursus
 specieque paulatim, quoniam cum cibo detulit primum iuvenale cura chori:
 indignabere &lt;em&gt;licet&lt;/em&gt;. Sub manus mota vultu quae omne traicit emicat ille eripe
@@ -382,8 +382,8 @@ procul. Albo ne montisque Numam terrent tamen nos geminat
 &lt;a href=&quot;http://www.iterabatrostro.net/&quot;&gt;efficit&lt;/a&gt;, moneo namque; per ultro tela, a.
 Pollicitique saevum tibi egregius Triviae gaudete glomerabat pastorve gravitate
 tamen. Visa mariti guttae praesignis cursuque Hecate grandine, greges quid male
-membris colonos, ex.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[34 Hello World]]></title><description><![CDATA[Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
-seque praemia toto,  Iuppiter  perstant, et secum tenuitque…]]></description><link>https://charliemchapman.compost/2018/08/09/hello-world/</link><guid isPermaLink="false">https://charliemchapman.compost/2018/08/09/hello-world/</guid><pubDate>Sun, 26 Aug 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
+membris colonos, ex.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[35 Hello World]]></title><description><![CDATA[Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
+seque praemia toto,  Iuppiter  perstant, et secum tenuitque…]]></description><link>https://charliemchapman.compost/2018/08/10/hello-world/</link><guid isPermaLink="false">https://charliemchapman.compost/2018/08/10/hello-world/</guid><pubDate>Sun, 26 Aug 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
 seque praemia toto, &lt;em&gt;Iuppiter&lt;/em&gt; perstant, et secum tenuitque. Tempora rursus
 specieque paulatim, quoniam cum cibo detulit primum iuvenale cura chori:
 indignabere &lt;em&gt;licet&lt;/em&gt;. Sub manus mota vultu quae omne traicit emicat ille eripe
@@ -418,8 +418,8 @@ procul. Albo ne montisque Numam terrent tamen nos geminat
 &lt;a href=&quot;http://www.iterabatrostro.net/&quot;&gt;efficit&lt;/a&gt;, moneo namque; per ultro tela, a.
 Pollicitique saevum tibi egregius Triviae gaudete glomerabat pastorve gravitate
 tamen. Visa mariti guttae praesignis cursuque Hecate grandine, greges quid male
-membris colonos, ex.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[35 Hello World]]></title><description><![CDATA[Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
-seque praemia toto,  Iuppiter  perstant, et secum tenuitque…]]></description><link>https://charliemchapman.compost/2018/08/10/hello-world/</link><guid isPermaLink="false">https://charliemchapman.compost/2018/08/10/hello-world/</guid><pubDate>Sun, 26 Aug 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
+membris colonos, ex.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[34 Hello World]]></title><description><![CDATA[Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
+seque praemia toto,  Iuppiter  perstant, et secum tenuitque…]]></description><link>https://charliemchapman.compost/2018/08/09/hello-world/</link><guid isPermaLink="false">https://charliemchapman.compost/2018/08/09/hello-world/</guid><pubDate>Sun, 26 Aug 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
 seque praemia toto, &lt;em&gt;Iuppiter&lt;/em&gt; perstant, et secum tenuitque. Tempora rursus
 specieque paulatim, quoniam cum cibo detulit primum iuvenale cura chori:
 indignabere &lt;em&gt;licet&lt;/em&gt;. Sub manus mota vultu quae omne traicit emicat ille eripe
@@ -635,7 +635,7 @@ procul. Albo ne montisque Numam terrent tamen nos geminat
 Pollicitique saevum tibi egregius Triviae gaudete glomerabat pastorve gravitate
 tamen. Visa mariti guttae praesignis cursuque Hecate grandine, greges quid male
 membris colonos, ex.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
-seque praemia toto,  Iuppiter  perstant, et secum tenuitque…]]></description><link>https://charliemchapman.compost/2018/07/28/hello-world/</link><guid isPermaLink="false">https://charliemchapman.compost/2018/07/28/hello-world/</guid><pubDate>Sun, 26 Aug 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
+seque praemia toto,  Iuppiter  perstant, et secum tenuitque…]]></description><link>https://charliemchapman.compost/2018/07/28/hello-world/</link><guid isPermaLink="false">https://charliemchapman.compost/2018/07/28/hello-world/</guid><pubDate>Fri, 27 Jul 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Lorem markdownum nostri fallitque fugit poscebatur deduxit excussa, destruitis
 seque praemia toto, &lt;em&gt;Iuppiter&lt;/em&gt; perstant, et secum tenuitque. Tempora rursus
 specieque paulatim, quoniam cum cibo detulit primum iuvenale cura chori:
 indignabere &lt;em&gt;licet&lt;/em&gt;. Sub manus mota vultu quae omne traicit emicat ille eripe
