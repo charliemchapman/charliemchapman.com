@@ -47,3 +47,27 @@
     max-width: 750px;
     margin: 0 auto;
 }
+
+.footerContainer {
+    background-color: #094D72;
+    text-align: center;
+    padding: 20px;
+    color: #DDFFF7;
+}
+
+.footerContainer a{
+    color: #DDFFF7;
+}
+
+.footerContainer a:hover{
+    border-bottom-color: #DDFFF7;
+}
+
+.footerContainer span::after{
+    content: "|";
+    margin: 0 10px;
+}
+
+.footerContainer span:last-child::after{
+    content: "";
+}

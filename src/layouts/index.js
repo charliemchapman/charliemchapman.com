@@ -25,5 +25,11 @@ export default ({ children }) => (
         {children()}
       </div>
     </main>
+    <footer className={styles.footerContainer}>
+      <span><Link to="/">Home</Link></span>
+      <span><Link to="/about/">About</Link></span>
+      <span><Link to="/archive/">Archive</Link></span>
+      <span><Link to="/rss.xml">RSS</Link></span>
+    </footer>
   </div>
 );
