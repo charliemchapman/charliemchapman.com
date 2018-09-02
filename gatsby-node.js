@@ -5,7 +5,7 @@ const createPaginatedPages = require("gatsby-paginate");
 exports.onCreateNode = ({ node, getNode, boundActionCreators }) => {
   const { createNodeField } = boundActionCreators
   if (node.internal.type === `MarkdownRemark`) {
-    const slug = `post${createFilePath({ node, getNode, basePath: `pages` })}`;
+    const slug = `${createFilePath({ node, getNode, basePath: `pages` })}`;
     createNodeField({
       node,
       name: `slug`,

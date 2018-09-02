@@ -1,6 +1,6 @@
 ---
-title: Everything You Wanted to Know About TURTLE and Were Afraid To Ask
-date: "2018-08-28"
+title: How You Can (Do) TURTLE Almost Instantly
+date: "2018-08-29"
 image: "https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjdvMuu5ZjdAhUvneAKHVnIDkAQjRx6BAgBEAU&url=https%3A%2F%2Fknowyourmeme.com%2Fmemes%2Fcultures%2Fpodcasting&psig=AOvVaw0M9VWDhlXPmLuiGl56TWJW&ust=1535856475032742"
 ---
 

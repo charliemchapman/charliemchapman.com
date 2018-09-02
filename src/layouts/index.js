@@ -16,7 +16,7 @@ export default ({ children }) => (
       <div className={styles.links}>
         <div><Link to="/">Home</Link></div>
         <div><Link to="/about/">About</Link></div>
-        <div><Link to="/projects/">Projects</Link></div>
+        <div><Link to="/archive/">Archive</Link></div>
         <div><Link to="/rss.xml">RSS</Link></div>
       </div>
     </header>
