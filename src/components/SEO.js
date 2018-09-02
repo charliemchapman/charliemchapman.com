@@ -16,6 +16,7 @@ export default ({title, description, image}) => {
             { property: "og:title", content: title },
             { property: "og:description", content: description },
             { property: "og:image", content: image },
+            { property: "og:image:url", content: image },
             ]}
         />
 )};
