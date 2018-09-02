@@ -9,6 +9,14 @@
     text-align: center;
 }
 
+.postTitle a{
+    color: inherit;
+}
+
+.postTitle a:hover{
+    border-bottom-color: #094D72;
+}
+
 .postDate {
     text-align: center;
     color: #999;
