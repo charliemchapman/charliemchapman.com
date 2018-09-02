@@ -1,6 +1,7 @@
 import React from "react";
 import PostHeader from '../components/postHeader';
 import SEO from '../components/SEO';
+import '../styles/post-markdown-overrides.css';
 
 export default ({ data }) => {
   const post = data.markdownRemark;
