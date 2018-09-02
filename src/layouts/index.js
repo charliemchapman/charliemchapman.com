@@ -5,7 +5,7 @@ require("prismjs/themes/prism-solarizedlight.css");
 import SEO from '../components/SEO';
 
 export default ({ children }) => (
-  <div>
+  <div className={styles.bodyContainer}>
     <SEO/>
     <header className={styles.headerContainer}>
       <div className={styles.headerText}>

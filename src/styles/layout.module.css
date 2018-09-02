@@ -1,3 +1,7 @@
+.bodyContainer{
+    
+}
+
 .headerContainer{
     display: flex;
     flex-direction: row;
@@ -6,6 +10,7 @@
     background-color: #094D72;
     padding: 20px 40px;
     flex-wrap: wrap;
+
 }
 
 .headerText h3{
@@ -41,6 +46,7 @@
 
 .main {
     padding: 40px;
+    min-height: calc(100vh - 150px);
 }
 
 .mainContent {
@@ -51,7 +57,7 @@
 .footerContainer {
     background-color: #094D72;
     text-align: center;
-    padding: 20px;
+    padding: 20px 5px;
     color: #DDFFF7;
 }
 
@@ -70,4 +76,5 @@
 
 .footerContainer span:last-child::after{
     content: "";
+    margin: 0;
 }
