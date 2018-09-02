@@ -1,5 +1,5 @@
 ---
-title: This is a brand new post... You're Welcome
+title: This is a brand new post
 date: "2018-08-31"
 ---
 

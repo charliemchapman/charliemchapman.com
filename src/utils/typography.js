@@ -1,7 +1,7 @@
 import Typography from "typography";
 import oceanBeachTheme from "typography-theme-ocean-beach";
 
-oceanBeachTheme.headerFontFamily = ['Montserrat', 'sans-serif'];
+oceanBeachTheme.headerFontFamily = ['Roboto', 'sans-serif'];
 oceanBeachTheme.overrideStyles = ({ adjustFontSizeTo, rythm}, options, styles) => ({
     a: {
         color: "#EA7AF4",
