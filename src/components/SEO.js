@@ -11,7 +11,7 @@ export default ({title, description, image}) => {
             title= { title }
             meta={[
             { name: "description", content: description },
-            { name: "keywords", content: "blog, charlie chapman, charlie, chapman, Arnold, Missouri, software, developer, podcaster" },
+            { name: "keywords", content: "charlie chapman, charlie, chapman, charliemchapman, blog, Arnold, Missouri, software, developer, podcaster" },
             { property: "og:type", content: "website" },
             { property: "og:title", content: title },
             { property: "og:description", content: description },
