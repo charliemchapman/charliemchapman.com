@@ -1,16 +1,17 @@
-.bodyContainer{
-    
+.header{
+    background-color: #094D72;
+    padding: 0 40px;
 }
 
 .headerContainer{
+    max-width: 750px;
+    margin: 0 auto;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    background-color: #094D72;
-    padding: 20px 40px;
+    padding: 20px 0;
     flex-wrap: wrap;
-
 }
 
 .headerText h3{
@@ -42,6 +43,22 @@
 
 .links a:hover {
     border-bottom-color: #DDFFF7;
+}
+
+@media screen and (max-width: 720px) {
+    .headerContainer{
+        flex-direction: column;
+        padding-bottom: 10px;
+        align-items: flex-start;
+    }
+
+    .headerText h3{
+        margin: 0;
+    }
+
+    .links{
+        margin-top: 10px
+    }
 }
 
 .main {

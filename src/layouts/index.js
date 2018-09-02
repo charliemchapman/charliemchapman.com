@@ -7,17 +7,19 @@ import SEO from '../components/SEO';
 export default ({ children }) => (
   <div className={styles.bodyContainer}>
     <SEO/>
-    <header className={styles.headerContainer}>
-      <div className={styles.headerText}>
-        <Link to="/">
-          <h3>Charlie Chapman</h3>
-        </Link>
-      </div>
-      <div className={styles.links}>
-        <div><Link to="/">Home</Link></div>
-        <div><Link to="/about/">About</Link></div>
-        <div><Link to="/archive/">Archive</Link></div>
-        <div><Link to="/rss.xml">RSS</Link></div>
+    <header className={styles.header}>
+      <div className={styles.headerContainer}>
+        <div className={styles.headerText}>
+          <Link to="/">
+            <h3>Charlie Chapman</h3>
+          </Link>
+        </div>
+        <div className={styles.links}>
+          <div><Link to="/">Home</Link></div>
+          <div><Link to="/about/">About</Link></div>
+          <div><Link to="/archive/">Archive</Link></div>
+          <div><Link to="/rss.xml">RSS</Link></div>
+        </div>
       </div>
     </header>
     <main className={styles.main}>
