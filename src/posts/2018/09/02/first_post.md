@@ -1,0 +1,16 @@
+---
+title: "First Post"
+date: "2018-09-02"
+---
+
+It's been a while since I wrote a blog.  A quick look at my old Blogger account[^1] shows my last post was August 5, 2012.  Back then I was kidless, lived in our old apartment, and was only 1 year into my marriage with my awesome wife.
+
+I'm not sure why I stopped, but over the last couple of months I've found myself wanting to write again. Unfortunately task of getting a blog up an running again has always stopped me.  Last week I finally decided to jump in and build a new site.
+
+I had really good experience with [Gatsby](https://www.gatsbyjs.org/) building the website for my podcast [A-Town FM](https://atownfm.com/) so I decided to use it again, and boy I'm glad I did.  I've had so much fun putting the site together over the last week that I've completely forgotten what the article I wanted to write was that sparked me to build it in the first place.
+
+For some reason I've always had an easy time starting projects, and putting the time in to truly build them out.  But when it comes time to actually release them to the world, the need to get it *just right* freezes me up to the point that I often don't release at all.
+
+I'm hoping by releasing this post, with this (probably buggy) version of the site to the world, I'll get over that hump and just enjoy adding to it over time.
+
+[^1]: Please don't actually look at [this](https://charliechapman.blogspot.com/) 😬
