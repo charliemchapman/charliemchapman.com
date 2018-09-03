@@ -10,6 +10,7 @@ export default ({ data }) => {
       <SEO
         title={post.frontmatter.title}
         image={post.frontmatter.image}
+        description={post.excerpt}
       />
       <PostHeader
         title={post.frontmatter.title}
@@ -33,6 +34,7 @@ export const query = graphql`
         slug
       }
       html
+      excerpt
     }
   }
 `;
