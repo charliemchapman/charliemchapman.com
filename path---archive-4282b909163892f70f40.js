@@ -1,0 +1,2 @@
+webpackJsonp([0xd30560ed0a0a],{344:function(t,a){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{id:"/Users/CharlieMacbook/code/charliemchapman.com/src/posts/2018/09/02/first_post.md absPath of file >>> MarkdownRemark",frontmatter:{title:"First Post",date:"02 September, 2018"},fields:{slug:"/posts/2018/09/02/first_post/"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---archive-4282b909163892f70f40.js.map
