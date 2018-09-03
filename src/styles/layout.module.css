@@ -14,13 +14,27 @@
     flex-wrap: wrap;
 }
 
+.headerText {
+    display: flex;
+    margin-right: 20px;
+}
+
 .headerText h3{
     font-family: 'Montserrat',sans-serif;
     margin: 0;
-    margin-right: 20px;
     font-size: 2rem;
     color: #FFFFFF;
     flex-shrink: 0;
+}
+
+.headerText a:hover{
+    border-bottom-color: transparent;
+}
+
+.betaTag{
+    color: #CCC;
+    font-size: 0.6rem;
+    margin-left: 4px;
 }
 
 .links{
@@ -45,7 +59,7 @@
     border-bottom-color: #DDFFF7;
 }
 
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 740px) {
     .headerContainer{
         flex-direction: column;
         padding-bottom: 10px;

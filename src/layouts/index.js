@@ -13,6 +13,7 @@ export default ({ children }) => (
           <Link to="/">
             <h3>Charlie Chapman</h3>
           </Link>
+          <div className={styles.betaTag}>beta</div>
         </div>
         <div className={styles.links}>
           <div><Link to="/">Home</Link></div>
