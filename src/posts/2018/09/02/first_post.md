@@ -4,7 +4,7 @@ date: "2018-09-02"
 image: "http://media.charliemchapman.com/charlie_and_jack.JPG"
 ---
 
-It's been a while since I wrote a blog.  A quick look at my old Blogger account[^1] shows my last post was August 5, 2012.  That was 2 jobs, 2 kids, 1 house, and 1 dog ago!
+It's been a while since I wrote a blog.  A quick look at my old Blogger account[^1] shows my last post was August 5, 2012.  That was 2 jobs, 2 kids, and 1 house ago!
 
 I'm not sure why I stopped, but over the last couple of months I've found myself wanting to write again. Unfortunately the task of getting a blog up an running again has always stopped me.  Last week I finally decided to jump in and build a new site.
 
