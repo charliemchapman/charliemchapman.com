@@ -4,13 +4,13 @@ import oceanBeachTheme from "typography-theme-ocean-beach";
 oceanBeachTheme.headerFontFamily = ['Roboto', 'sans-serif'];
 oceanBeachTheme.overrideStyles = ({ adjustFontSizeTo, rythm}, options, styles) => ({
     a: {
-        color: "#EA7AF4",
+        color: "#dd46ea",
         textDecoration: "none",
         'border-bottom': "1px solid transparent",
         transition: 'border-bottom .25s'
     },
     'a:hover': {
-        'border-bottom': "1px solid #EA7AF4"
+        'border-bottom': "1px solid #dd46ea"
     },
     body: {
         backgroundColor: '#FBFEF9',
@@ -22,7 +22,7 @@ oceanBeachTheme.overrideStyles = ({ adjustFontSizeTo, rythm}, options, styles) =
     "blockquote": {
         marginLeft: "0",
         paddingLeft: "1.58rem",
-        borderLeft: "8px solid #EA7AF4"
+        borderLeft: "8px solid #dd46ea"
     }
 })
 

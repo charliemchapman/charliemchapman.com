@@ -1,0 +1,26 @@
+body{
+    background-color: #FBFEF9;
+    color: #131B23;
+    font-family: 'Roboto',serif;
+    font-weight: 400;
+    font-size: 19px;
+    padding-top: 20px;
+    padding-bottom: 20px
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #094D72;
+}
+
+blockquote {
+    margin-left: 0;
+    padding-left: 1.58rem;
+    border-left: 8px solid #dd46ea;
+}
+
+a {
+    color: #dd46ea;
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: border-bottom .25s;
+}
