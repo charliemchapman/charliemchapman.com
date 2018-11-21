@@ -1,4 +1,56 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Charlie Chapman]]></title><description><![CDATA[The personal blog of Charlie Chapman]]></description><link>https://charliemchapman.com</link><generator>RSS for Node</generator><lastBuildDate>Mon, 03 Sep 2018 15:13:55 GMT</lastBuildDate><item><title><![CDATA[First Post]]></title><description><![CDATA[It's been a while since I wrote a blog.  A quick look at my old Blogger account shows my last post was August 5, 2012.  That was 2 jobs,…]]></description><link>https://charliemchapman.com/posts/2018/09/02/first_post/</link><guid isPermaLink="false">https://charliemchapman.com/posts/2018/09/02/first_post/</guid><pubDate>Sun, 02 Sep 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;It&apos;s been a while since I wrote a blog.  A quick look at my old Blogger account shows my last post was August 5, 2012.  That was 2 jobs, 2 kids, and 1 house ago!&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Charlie Chapman]]></title><description><![CDATA[The personal blog of Charlie Chapman]]></description><link>https://charliemchapman.com</link><generator>RSS for Node</generator><lastBuildDate>Wed, 21 Nov 2018 16:54:24 GMT</lastBuildDate><item><title><![CDATA[Apple vs Apple: The New OS War]]></title><description><![CDATA[In the last couple years, I've heard iPad users frequently bemoan the professional community not "taking them seriously".  This reached a…]]></description><link>https://charliemchapman.com/posts/2018/11/21/apple_vs_apple/</link><guid isPermaLink="false">https://charliemchapman.com/posts/2018/11/21/apple_vs_apple/</guid><pubDate>Wed, 21 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/apple-vs-apple-d09257bd6ecf6c7f5ecf028372bdc7f4-9fd1e.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 750px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABYBAQEBAAAAAAAAAAAAAAAAAAACA//aAAwDAQACEAMQAAABrTWnOnGw/8QAGBABAQEBAQAAAAAAAAAAAAAAAQIAEhH/2gAIAQEAAQUCpRu+dD1DI6pOg83/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAZEAACAwEAAAAAAAAAAAAAAAAAAREhMVL/2gAIAQEABj8C0VtzyJmCoo//xAAbEAADAAIDAAAAAAAAAAAAAAAAAREhMUFxgf/aAAgBAQABPyHEE6mh+dWuCJhfTZIx1cQQkwR//9oADAMBAAIAAwAAABCMP//EABYRAQEBAAAAAAAAAAAAAAAAAAEQEf/aAAgBAwEBPxBNn//EABYRAQEBAAAAAAAAAAAAAAAAAAEQEf/aAAgBAgEBPxAcn//EAB4QAQEAAgEFAQAAAAAAAAAAAAERACFxMUFRgcHw/9oACAEBAAE/EI0wyqvx+Y/dEUjzb0wNWJy95sWPKY49RYE3cBlDsZ//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Apple vs Apple&quot;
+        title=&quot;&quot;
+        src=&quot;/static/apple-vs-apple-d09257bd6ecf6c7f5ecf028372bdc7f4-5520a.jpg&quot;
+        srcset=&quot;/static/apple-vs-apple-d09257bd6ecf6c7f5ecf028372bdc7f4-52dbb.jpg 188w,
+/static/apple-vs-apple-d09257bd6ecf6c7f5ecf028372bdc7f4-b4884.jpg 375w,
+/static/apple-vs-apple-d09257bd6ecf6c7f5ecf028372bdc7f4-5520a.jpg 750w,
+/static/apple-vs-apple-d09257bd6ecf6c7f5ecf028372bdc7f4-916c9.jpg 1125w,
+/static/apple-vs-apple-d09257bd6ecf6c7f5ecf028372bdc7f4-8dad4.jpg 1500w,
+/static/apple-vs-apple-d09257bd6ecf6c7f5ecf028372bdc7f4-9fd1e.jpg 1920w&quot;
+        sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;In the last couple years, I&apos;ve heard iPad users frequently bemoan the professional community not &quot;taking them seriously&quot;.  This reached a fever pitch with the release of the new (and pretty great looking) &lt;a href=&quot;https://www.apple.com/ipad-pro/&quot;&gt;iPad Pros&lt;/a&gt; and the onslaught of reviews deeming the new device amazing but &quot;still an iPad&quot;.&lt;/p&gt;
+&lt;p&gt;As someone deep in the Mac ecosystem but definitely interested in iOS, I&apos;ve always regarded these complaints as people being overly sensitive.  When people say they can&apos;t do &quot;real work&quot; on an iPad, I&apos;ve always translated that to mean they can&apos;t do &quot;their work&quot; on an iPad.  I assumed nobody outside of internet trolls were actually saying that people who use iPads aren&apos;t &quot;real&quot; professionals..&lt;/p&gt;
+&lt;p&gt;Then I read &lt;a href=&quot;https://twitter.com/tomwarren/status/1063216386573504512&quot;&gt;this tweet&lt;/a&gt; from senior editor at &lt;a href=&quot;https://www.theverge.com&quot;&gt;The Verge&lt;/a&gt;, Tom Warren&lt;/p&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Nilay made this point on Vergecast, but the people who have replaced their laptops with an iPad are people who do fuck all work. The rest of us hard working people use a laptop, because we have real stuff to do other than send emails and fart around. Don’t @ me ¯\_(ツ)_/¯&lt;/p&gt;&amp;mdash; Tom Warren (@tomwarren) &lt;a href=&quot;https://twitter.com/tomwarren/status/1063216386573504512?ref_src=twsrc%5Etfw&quot;&gt;November 15, 2018&lt;/a&gt;&lt;/blockquote&gt; &lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt; 
+&lt;p&gt;Granted, Tom&apos;s primary focus is Windows news, but I think this goes to show that this sentiment of the iPad as a toy is not relegated to comment section flame wars, but actual influential members of the prominent tech press.&lt;/p&gt;
+&lt;p&gt;It feels like we&apos;re entering a bizarre OS war reminiscent of the Windows vs Mac or Android vs iOS days, complete with passionate angry &quot;fans&quot; attacking the each other as being &quot;stuck in the past&quot; or &quot;using toys to try to do real work&quot;.  Only this time both platforms, iOS and MacOS, are owned by the same company.&lt;/p&gt;
+&lt;p&gt;It&apos;s weird because I don&apos;t really see them as competing platforms as much as complementing platforms.  A Mac, an iPad, and an iPhone make an incredible combination.  It&apos;s more like an iMac vs a MacBook. People with desktop computers don&apos;t usually make fun of laptops being underpowered.  And laptop users don&apos;t usually make fun of desktop&apos;s lack of portability. And many people have both!&lt;/p&gt;
+&lt;p&gt;Admittedly none of this matters.  It&apos;s probably just typical Twitter / Tech Blog drama.  But on behalf of non-iPad users everywhere, I&apos;m sorry for the jerks out there.  iOS is not ready to replace my Mac (I don&apos;t think&lt;sup id=&quot;fnref-1&quot;&gt;&lt;a href=&quot;#fn-1&quot; class=&quot;footnote-ref&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;), but that doesn&apos;t mean it&apos;s not ready for anybody.  Personally, I&apos;m hoping &lt;a href=&quot;https://www.cultofmac.com/546401/ios-13-will-boast-great-updates-for-ipad-users/&quot;&gt;iOS 13&lt;/a&gt; and &lt;a href=&quot;https://www.imore.com/marzipan&quot;&gt;Marzipan&lt;/a&gt; lead to a glorious future where iOS and MacOS can frolic together, hand in hand, into the glorious computing future.&lt;/p&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&quot;fn-1&quot;&gt;
+&lt;p&gt;While there are definitely some things I simply cannot do in iOS yet, I bet I can do more of my computing on an iPad than I currently think.&lt;/p&gt;
+&lt;a href=&quot;#fnref-1&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[First Post]]></title><description><![CDATA[It's been a while since I wrote a blog.  A quick look at my old Blogger account shows my last post was August 5, 2012.  That was 2 jobs,…]]></description><link>https://charliemchapman.com/posts/2018/09/02/first_post/</link><guid isPermaLink="false">https://charliemchapman.com/posts/2018/09/02/first_post/</guid><pubDate>Sun, 02 Sep 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;It&apos;s been a while since I wrote a blog.  A quick look at my old Blogger account shows my last post was August 5, 2012.  That was 2 jobs, 2 kids, and 1 house ago!&lt;/p&gt;
 &lt;p&gt;I&apos;m not sure why I stopped, but over the last couple of months I&apos;ve found myself wanting to write again. Unfortunately the task of getting a blog up an running again has always stopped me.  Last week I finally decided to jump in and build a new site.&lt;/p&gt;
 &lt;p&gt;I had really good experience with &lt;a href=&quot;https://www.gatsbyjs.org/&quot;&gt;Gatsby&lt;/a&gt; building the website for my podcast &lt;a href=&quot;https://atownfm.com/&quot;&gt;A-Town FM&lt;/a&gt; so I decided to use it again, and boy I&apos;m glad I did.  I&apos;ve had so much fun putting the site together over the last week that I&apos;ve completely forgotten what the article I wanted to write was that sparked me to build this in the first place.&lt;/p&gt;
 &lt;p&gt;For some reason I&apos;ve always had an easy time starting projects, and putting the time in to truly build them out.  But when it comes time to actually release them to the world, the need to get it &lt;em&gt;just right&lt;/em&gt; freezes me up to the point that I often don&apos;t release at all.&lt;/p&gt;

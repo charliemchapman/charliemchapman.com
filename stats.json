@@ -24,9 +24,13 @@
       "component---src-layouts-index-js-8fc2aa98258a35b045df.js",
       "component---src-layouts-index-js-8fc2aa98258a35b045df.js.map"
     ],
+    "path---posts-2018-11-21-apple-vs-apple": [
+      "path---posts-2018-11-21-apple-vs-apple-c9e621877ac7cad6ee21.js",
+      "path---posts-2018-11-21-apple-vs-apple-c9e621877ac7cad6ee21.js.map"
+    ],
     "path---index": [
-      "path---index-788cf16fedd55a724075.js",
-      "path---index-788cf16fedd55a724075.js.map"
+      "path---index-d449fadfb74f7fb9bc7b.js",
+      "path---index-d449fadfb74f7fb9bc7b.js.map"
     ],
     "commons": [
       "commons-ba4cb63d6a7a0250cd9f.js",
@@ -35,14 +39,14 @@
       "build-js-styles.css.map"
     ],
     "app": [
-      "app-5e6cfffd0653d7ff37b7.js",
+      "app-1b66c15a9fd1f9a41025.js",
       "build-js-styles.css",
-      "app-5e6cfffd0653d7ff37b7.js.map",
+      "app-1b66c15a9fd1f9a41025.js.map",
       "build-js-styles.css.map"
     ],
     "path---archive": [
-      "path---archive-4282b909163892f70f40.js",
-      "path---archive-4282b909163892f70f40.js.map"
+      "path---archive-5d6753cc3f99ddedd172.js",
+      "path---archive-5d6753cc3f99ddedd172.js.map"
     ],
     "component---src-pages-about-js": [
       "component---src-pages-about-js-744512018265c4de8594.js",
