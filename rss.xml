@@ -1,4 +1,216 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Charlie Chapman]]></title><description><![CDATA[The personal blog of Charlie Chapman]]></description><link>https://charliemchapman.com</link><generator>RSS for Node</generator><lastBuildDate>Wed, 21 Nov 2018 17:04:08 GMT</lastBuildDate><item><title><![CDATA[Apple vs Apple: The New OS War]]></title><description><![CDATA[In the last couple years, I've heard iPad users frequently bemoan the professional community not "taking them seriously".  This reached a…]]></description><link>https://charliemchapman.com/posts/2018/11/21/apple_vs_apple/</link><guid isPermaLink="false">https://charliemchapman.com/posts/2018/11/21/apple_vs_apple/</guid><pubDate>Wed, 21 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Charlie Chapman]]></title><description><![CDATA[The personal blog of Charlie Chapman]]></description><link>https://charliemchapman.com</link><generator>RSS for Node</generator><lastBuildDate>Wed, 28 Nov 2018 04:45:14 GMT</lastBuildDate><item><title><![CDATA[Control Your Christmas Tree Lights with Google Home]]></title><description><![CDATA[A couple of years ago when we set up our Christmas tree, we bought a cheap little  RF light switch  to plug our tree into so we didn't have…]]></description><link>https://charliemchapman.com/posts/2018/11/27/google-home-christmas-time/</link><guid isPermaLink="false">https://charliemchapman.com/posts/2018/11/27/google-home-christmas-time/</guid><pubDate>Tue, 27 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/google-home-hero-01-5029c3ba407be6be298a83671f8b1d50-882d9.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 750px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 52.5390625%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQCAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB3lmES4mR/8QAGBABAAMBAAAAAAAAAAAAAAAAAQAQESP/2gAIAQEAAQUCZpqNJ1n/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAYEAACAwAAAAAAAAAAAAAAAAAAEAEhMf/aAAgBAQAGPwI0pQv/xAAaEAEAAgMBAAAAAAAAAAAAAAABABEQIUEx/9oACAEBAAE/IUHsNaly3tHsJTuP/9oADAMBAAIAAwAAABBDP//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/EFf/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPxBH/8QAHBABAAMAAgMAAAAAAAAAAAAAAQARITFxUZGh/9oACAEBAAE/EDWwZNCC4L2MFoVt+Zo6R5jg4U+RO/c//9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Google Home&quot;
+        title=&quot;&quot;
+        src=&quot;/static/google-home-hero-01-5029c3ba407be6be298a83671f8b1d50-5520a.jpg&quot;
+        srcset=&quot;/static/google-home-hero-01-5029c3ba407be6be298a83671f8b1d50-52dbb.jpg 188w,
+/static/google-home-hero-01-5029c3ba407be6be298a83671f8b1d50-b4884.jpg 375w,
+/static/google-home-hero-01-5029c3ba407be6be298a83671f8b1d50-5520a.jpg 750w,
+/static/google-home-hero-01-5029c3ba407be6be298a83671f8b1d50-882d9.jpg 1024w&quot;
+        sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;A couple of years ago when we set up our Christmas tree, we bought a cheap little &lt;a href=&quot;https://www.amazon.com/Westek-RFK1600LC-Indoor-Wireless-Switch-x/dp/B000HJBE68/ref=sr_1_10?s=lamps-light&amp;#x26;ie=UTF8&amp;#x26;qid=1543371600&amp;#x26;sr=1-10&amp;#x26;keywords=remote+light+switch&quot;&gt;RF light switch&lt;/a&gt; to plug our tree into so we didn&apos;t have to climb underneath the tree to turn on and off the lights.  In the last year, we acquired a Google Home Mini, and I decided we could try to make our Christmas tree experience a little smarter.&lt;/p&gt;
+&lt;p&gt;After a bit of experimentation, I can now say &quot;Hey Google, It&apos;s Christmas Time&quot; and my tree lights up, Christmas music starts playing, and my TV turns on and starts playing a fireplace.  Check it out!&lt;/p&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&amp;quot;Hey Google, It&amp;#39;s Christmas Time&amp;quot; 🧙‍♂️✨🎄🎶🔥&lt;a href=&quot;https://twitter.com/hashtag/GoogleHome?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#GoogleHome&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/Automation?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#Automation&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/GoogleAssistant?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#GoogleAssistant&lt;/a&gt; &lt;a href=&quot;https://t.co/G1X0c5d06o&quot;&gt;pic.twitter.com/G1X0c5d06o&lt;/a&gt;&lt;/p&gt;&amp;mdash; Charlie Chapman (@chuckyc17) &lt;a href=&quot;https://twitter.com/chuckyc17/status/1066803500686946309?ref_src=twsrc%5Etfw&quot;&gt;November 25, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;p&gt;So, let&apos;s talk about how I set this up.&lt;/p&gt;
+&lt;h2&gt;Control the Lights&lt;/h2&gt;
+&lt;p&gt;To start, I want to control the lights through my Google Home, and to do that, I need something that will connect my dumb tree lights to my WiFi, and ultimately Google Assistant.  There are hundreds of smart plugs on Amazon, but you want to make sure you get one that&apos;s compatible with Google Assistant.  I got &lt;a href=&quot;https://www.amazon.com/gp/product/B072ZX8RTZ/ref=oh_aui_detailpage_o05_s00?ie=UTF8&amp;#x26;psc=1&quot;&gt;this one from Gosuna&lt;/a&gt;, but I think the same instructions will apply with any smart plug.&lt;/p&gt;
+&lt;p&gt;To set it up, I just plugged my tree lights into the smart plug, and the smart plug into the wall.  I followed the instructions that came with my plug to get it hooked up to Google Home (which included downloading their app) but ultimately you need your smart plug to show up in the Google Home app page like below (I&apos;ve nicknamed mine &quot;Decoration Lights&quot;).&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/google-home-app-a76d498e2aa87f4921585073bca93a78-f687c.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 506px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 197.62845849802372%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,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&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Google Home App Screenshot&quot;
+        title=&quot;&quot;
+        src=&quot;/static/google-home-app-a76d498e2aa87f4921585073bca93a78-f687c.png&quot;
+        srcset=&quot;/static/google-home-app-a76d498e2aa87f4921585073bca93a78-1dfac.png 188w,
+/static/google-home-app-a76d498e2aa87f4921585073bca93a78-fdf3e.png 375w,
+/static/google-home-app-a76d498e2aa87f4921585073bca93a78-f687c.png 506w&quot;
+        sizes=&quot;(max-width: 506px) 100vw, 506px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Now you should be able to tap the &quot;On&quot; / &quot;Off&quot; buttons in the Google Home app and see that your Christmas tree lights turn on and off correctly.  You should also be able to say &quot;Ok Google, Turn on the Decoration Lights&quot; and it should control the lights as well.&lt;/p&gt;
+&lt;h2&gt;Set Up a Routine&lt;/h2&gt;
+&lt;p&gt;So you can now control the tree with your voice, but &quot;Turn on the Decoration Lights&quot; is pretty boring and hard to remember.  So let&apos;s make this a bit easier using something Google calls &lt;a href=&quot;https://support.google.com/assistant/answer/7672035?co=GENIE.Platform%3DAndroid&amp;#x26;hl=en&quot;&gt;Routines&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Fair warning, Google has frequently moved things around the Google Home app, and I&apos;m using an iPhone, so these directions might not be exactly the same for your app (let me know if not and I&apos;ll try to update this post).&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;From the Google Home main page, tap on the avatar icon on the bottom right of the screen&lt;/li&gt;
+&lt;li&gt;In the &quot;Google Assistant&quot; section, tap on &quot;... More Settings&quot;&lt;/li&gt;
+&lt;li&gt;Tap on the &quot;Assistant&quot; Tab&lt;/li&gt;
+&lt;li&gt;Tap &quot;Routines&quot;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Phew, ok, so hopefully you&apos;re now on a screen that looks something like this.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/google-home-routines-blank-2f581bf17e237ca07a5067a21c90c0dc-f687c.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 506px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 197.62845849802372%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAoCAYAAAD+MdrbAAAACXBIWXMAAAsTAAALEwEAmpwYAAAFiElEQVRIx51X3U8UVxQfS/rqH9EXrU2EFfrAIsrOwgJdQEsj4EMf+mZM30x8aLRqMOmLxCpQjRJ0BappY9omTSrysazK9rWJ2GjDxy67y+eyuzPsFzuzc3p+d3dWWRHBIb/cYe6ZM/d3zu/cc1eS+Pq8vOLT0oMH+6yVVk/14erJJqfT297W7m070cZjm7ctD3F/4oSYa21t9VZVVXmtVuszS1nZQ0uZxQlf0rHmlk8+O3Bg9fTp09R/p58ePHhAFRUVxFMFlJSUCEh7PqI9JR+LZ3v37qVbt2/RXdddunDxAh2yWKjKam2X7Da58+zZs6TpWnJxaVEnIv3R8COdv6zLsqzbZJteW1srYLfb9TqHQ6+srNQ7L3cK2/BaWPf5felbt2+TbJOfSXbZ7rp58ybPkZZMJY2NzIZBO7wyWsZIpVOwz056J4l9PZdqamx3e3/qJYMMLb2RNhg0Pz9PoYUQhUIhikQj4uWskd0EPasXnGLa88RD7GtKamlu/q27+zrmdF4h8QpJURVSVZXW19cpkUggHKRpRcg/S6fT4ntut5s4LFPSyY6TT69cuUI6X5FIhGKxGCmKIkYT0WiU1tbWCPMA/jdt8RwOHz9+TLV2dljvcAxdu3YNK9JmZmYEXQD3Pp+PAoEA+f1+8T/Gubk58QxzsJudncVisqNjY+zQPiUda2n5/cerV0FPx0t4AYZ4YXp6WrxsfghzgPkB2CwtLVE2m9VHR0eJVfBc6mjvcHd1dVEmk9FXVlYICIfDAub/5rPV1VVxj3F5eVnQRZxBeXh4mBoaGmYlroYxUEZSkABkGclBsDdlNrvFPY+wh8Ox8TFqamoKSY0Njb/29PaQuq5qr/57RSzSXBwD8yKTLCfxsvGOP9iILE+4yel0BqWvvmwdvp6XzVqEKcTXC8It1t5WYB0K03H3ODU5eYUd7e1ukzKrXhhAtMBuHEKHXzQ2BqTW/ApjSkx/8e8LkUE4ex/VYsqoFDtk46irc6H0UMvIXDQWfe3M2N4ZbN5yyMJ29fT0CIeYfCuz74FJ2eMprNBxr7e3lxLJhDY9M01zvjmBQDCwoxhuQTnnECvEDsOxFHR2mpQtHUKHJmUzNh9EWUYM4ZBjyM40iBm1ikoxdbirpMi5LN8zsxwMBsXWVExrx7KRi2KYn3zr2i6eBcpvOkQMucg1ZBYAdW5YYutaWl7atgyxa29JGTGcnZsVvQT1HE/EBVCOu6ZsZhnLh9E7Ke8ky6ZDrHBhcYFMoOMFQ0HRtDZJ6f0xzFHmCQ1bOiij60HgoG5uFLui3N3TbTZ600BsDKbOtoO5Y09MTOSF7XDcw37IW74GmgsLC0KL8Xh8R0DLhcORkZHCbiMcJpNJDS0RQPNBf/kgh4586YEy7zhkbmGF00Exip6n0hs5yp6JN5LClcJ9Vnv56qVIyO4uPZ+UJ+xQfu0QsvHP+0Xf5Q5IK6u5/iv6M9+jgWFEY4cConyICodX6B8fhE9Z76SHbLacQ9eNGzeEbNA+oT2UHl5CCABUDBSAEVJKJFO8qDT9MqnQ4Ysx+v4P7stuD9XVMmX26sp3PXE+hAxSqVz3Q7yKR3Hi2oCYNXJNrFP5d1Hj20HK/vnXCB84a6YkPjG5urtzOuQTlcFZA0T2kEVkuxiKopLK82uRKD18umj4V7XsU8842cSB82jND2fOnCHBgUQhFwDn+AjrchO4ho0i20x//x06Ul39tyQfte3fv29f/NSpUzQ4OCgwNDQkxs7OTjp37hydP39+E/r6+uj+/fs0MDBAA4M/08VLl8jCh/Zyy6FvxC8BvqkoKy1180E9cuTIUYXDoNTV1ql8tFD5uKfyz4jlkx0di8ePH481Nzer9fX1Kmz4PKgwQ4V/AbwoKy37Gr7+B5LtdBIPNNOPAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Google Home Routines&quot;
+        title=&quot;&quot;
+        src=&quot;/static/google-home-routines-blank-2f581bf17e237ca07a5067a21c90c0dc-f687c.png&quot;
+        srcset=&quot;/static/google-home-routines-blank-2f581bf17e237ca07a5067a21c90c0dc-1dfac.png 188w,
+/static/google-home-routines-blank-2f581bf17e237ca07a5067a21c90c0dc-fdf3e.png 375w,
+/static/google-home-routines-blank-2f581bf17e237ca07a5067a21c90c0dc-f687c.png 506w&quot;
+        sizes=&quot;(max-width: 506px) 100vw, 506px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Now, let&apos;s create a new custom routine.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Tap the blue &quot;+&quot; floating action button on the bottom right&lt;/li&gt;
+&lt;li&gt;Tap the &quot;Add commands&quot; button&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This is where you pick the command you want to say to your Google Home to trigger this routine.  So here you can type &quot;It&apos;s Christmas Time&quot; and tap save.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;NOTE: You can add multiple phrases to trigger the same routine.  Simply tap the &quot;Add commands&quot; button again and tap the blue &quot;+&quot; floating action button to create another phrase.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Now, to tell your Google Home what to do when you say this command:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Tap ADD ACTION&lt;/li&gt;
+&lt;li&gt;Tap popular actions&lt;/li&gt;
+&lt;li&gt;Check the box next to &quot;Adjust lights, plugs, and more&quot;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Tap the settings gear next to &quot;Adjust lights, plugs, and more&quot;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Your smart plug should show here&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Tap on your smart plug&lt;/li&gt;
+&lt;li&gt;Select &quot;Turn on&quot; from the popup menu&lt;/li&gt;
+&lt;li&gt;Tap back&lt;/li&gt;
+&lt;li&gt;Tap &quot;ADD&quot; in the top right corner (I constantly forget this one)&lt;/li&gt;
+&lt;li&gt;Now tap &quot;Save&quot; in the top right corner&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;You should now be back on the Routines page, but with your new Routine at the top of the list.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/google-home-routines-new-3dcef1ee9d8bce2e67180e63fb9b4ee3-f687c.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 506px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 197.62845849802372%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAoCAYAAAD+MdrbAAAACXBIWXMAAAsTAAALEwEAmpwYAAAFiElEQVRIx6VXS1MUVxhtQ2Xrj8gmxlQpg2TBEJR5ozBosARcsMjWRTbGLFI+i1Rl44N3LMUAEtSqVMq4A4UaUCHZZJGCxCrlPQ/e837348t37tDtgKNg7K5T3dP33tPf+b5zb9+RJD6+OFT62cEDB7rNZWVjFV9WjNdUV0801DdM1J+q52v9RP0mxP2pU6Ktrq5uory8fMJsNj83FRf/Zio2VYNLOu6u/eTz/fvXzpw5Qz29PfTgwQMqLS0lbjJQVFQkIO35iPYUfSye7d27l27dvkW9fb106fIlKjGZqNxsbpBsVmvzue/OkaqpyfX1dYWIlMGhQcVcblasVqtisVoUu90uYLPZFIfTqZSVlSnNPzSLvusb68r8wnz61u3bZLVYnzOhre/mzZvcRnIyldQy2YxGuzyyclZLpVPor45PjBNzTUqVlZbezq5O0kiT05m0xqDFxUXyB/zk9/spGAqKwaxgCxRVMUjRPPZ0jJhrSqp1ux+2t7ehTeEIiSOkSDRC0WiUYrEYJRIJkhWZZHkbNp+l02nxPo/HQ5yWKel04+lnV69eJYWPYDBI4XCYIpGIuOoIhUK0sbFBaAfwW++L5yB8/Pgx2W1M6HI6B1pbWxGRPDMzI+QCuJ+fnyev10sLCwviN65zc3PiGdrQb3Z2FsGowyMjTGibko7X1v5+48YNyFMwCAPQEQOmp6fFYP1FaAP0F6DP8vIyqaqqDA8PE7tgUmpsaPBcv36dMpmMsrKyQsDq6uobYEvR2tqacY9+kIs8Q/LQ0BBVVVXNSuz6kWvXromioBAoQjKZ3DUwBoSDg4PkrqnxS9XHjv3a0tKCBMsv/n0hJMTjcfFmHfgtENtE/PUVBdQJa6prfNLJupNDIESEiWQCvkJOxDWbzRrWgD8LAWNA+OTJE6pBhMghqsy+Urw+b65yc7PC1DA3T62csfnUCpzwo/Dh6CgdO3rUK9V9VTfU3tEuIgQZZgZPJ2FwESVDe8epE2Km8NSbkpwOZ197uyCUudLGlMqfHZD+NuDl+kyxwYdVLlcfcsgJlhHh0tISBQKB18nfAXpRkENhbJfTdRc5ZAsYhKh0KpUSFtoJum0MQpZ8t6OjQ6iMJ+KEBQJvjsaiQv5OQK5BODo2mpMMQixfMZb88tVLMdUCSwEhG3nUdji3FMUg7OwUEYYjYd1XBdfAQkDRtld5i2RI0OXshhC2EoRjeYSIMBQOyZOTk8LUutS3mXknHxqSN4LG6pEj/FDJmJuQoM9TzGkxUH1PyR2dHbCLPD0zLSSj0vCjtovznZKxaKIweucPlmwUYxdEb0jeTsh2kXkHQK+mXxlexID/Idlxt6urS0SINRDf5PeJsmAOdclitd6Mavsuwah2PgpX2SGKwuuakAwsLC6IKi96efVZXnqrfDzLyAUkY3HgRtnn89Hq2qrhQ33VflcKWNjmapNHCB/qkjE4/8BvITlPqqLqZCr9PZ/CCHX8+Ri2c2Ir0gfJvPzLPr+PAHysIBuSEeX2CGVVFa969FeaKq5E6OIjUkc8o+Swc4SWSksfigLJTKIhZ7CNDkRnEG6esppT0f80QYe+D2nf3OPv8rCHI6ycEhvOrp9ytonFYxp/gzVIR2R6hXkztAW5HKd4UU7Qw/FVLRAm9c+JZ2SxWHnDeaTyx2/PnsUUSvNKo/E2TeN7hKDxbkLj/Yt4lg8mFe15yN658zMdrqj4Q7Icqdy379N98aamJmpra6PW1hbq6emhgYEBam5upvPnz9OFCxe2oLu7m+7fv0/9/f3U/8s9unzlCpl4037IVPK1+CfAN6UlphLP4YrDQavVFnHYHQx7lPcqUd7uRXlDtXK6sXHpxIkTYbfbHXW5XFHeXEb4KxdhhRH+B/BP8cHiJnD9B1s2c+fwKPTOAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Google Home Routines With New&quot;
+        title=&quot;&quot;
+        src=&quot;/static/google-home-routines-new-3dcef1ee9d8bce2e67180e63fb9b4ee3-f687c.png&quot;
+        srcset=&quot;/static/google-home-routines-new-3dcef1ee9d8bce2e67180e63fb9b4ee3-1dfac.png 188w,
+/static/google-home-routines-new-3dcef1ee9d8bce2e67180e63fb9b4ee3-fdf3e.png 375w,
+/static/google-home-routines-new-3dcef1ee9d8bce2e67180e63fb9b4ee3-f687c.png 506w&quot;
+        sizes=&quot;(max-width: 506px) 100vw, 506px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;You should be able to use this on your Google Home now.  Just say &quot;Ok Google, It&apos;s Christmas Time&quot; and your lights should turn on.&lt;/p&gt;
+&lt;h2&gt;Add Some Music&lt;/h2&gt;
+&lt;p&gt;Alright, now you have a custom routine, but it&apos;s only doing one action.  Let&apos;s make things more interesting by playing some Christmas music as well as turning on the lights.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Tap on your custom routine&lt;/li&gt;
+&lt;li&gt;Tap &quot;ADD MEDIA&quot;&lt;/li&gt;
+&lt;li&gt;Check the &quot;Music&quot; radio button&lt;/li&gt;
+&lt;li&gt;Tap the gear icon next to &quot;Music&quot;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;And type into the text box &quot;Christmas Radio&quot; (or whatever command you would use to trigger a custom playlist or album)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This will use whatever music service you&apos;ve set up as the default.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Give it a shot.  Say &quot;Ok Google, It&apos;s Christmas Time&quot; and your lights should turn on, and Christmas music should start playing out of your speaker.&lt;/p&gt;
+&lt;h2&gt;Put a Fire on the TV&lt;/h2&gt;
+&lt;p&gt;Ok, this is probably the trickiest one, and may not work for many of you.  Let&apos;s start by explaining how I have my TV setup.&lt;/p&gt;
+&lt;p&gt;I have a Chromecast (1st generation) plugged in to an HDMI port on my TV, but powered by plugging into the wall, not the TV&apos;s usb port (this is important).  My TV supports &lt;a href=&quot;https://en.wikipedia.org/wiki/Consumer_Electronics_Control&quot;&gt;HDMI-CEC&lt;/a&gt;, which is a spec that allows devices like BluRay players, video game consoles, and Chromecasts control your TV over HDMI.&lt;/p&gt;
+&lt;p&gt;In my case, my TV will allow my Chromecast to turn on the TV and switch to the input my Chromecast is connected too.  But it will not allow my Chromecast to turn off my TV for reasons unknown.&lt;/p&gt;
+&lt;p&gt;If your TV does not support HDMI-CEC then you will have to manually turn on your TV and switch it to the Chromecast&apos;s input.&lt;/p&gt;
+&lt;p&gt;Alright, with that aside, here&apos;s how I set up the fireplace within my new Routine.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Open your custom routine&lt;/li&gt;
+&lt;li&gt;Tap &quot;ADD ACTION&quot;&lt;/li&gt;
+&lt;li&gt;Type into the text field &quot;Play Fireplace on TV&quot;&lt;/li&gt;
+&lt;li&gt;Tap &quot;ADD&quot; on the top right&lt;/li&gt;
+&lt;li&gt;Tap &quot;Save&quot; on the top right&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Typing into that text box let&apos;s you arbitrarily type any command you can say to your Google Home.  The way I landed on that command was by trying a bunch of different phrases until I landed on one that would play the fireplace video I want.  If you have multiple TVs in the house, you might also have to specify something like &quot;Play fireplace on living room TV&quot;.&lt;/p&gt;
+&lt;p&gt;Now when you say &quot;Ok Google, It&apos;s Christmas Time&quot;, your tree lights should turn on, music should start playing from your speaker, and your TV should turn into a fireplace!&lt;/p&gt;
+&lt;h2&gt;Keep Tinkering&lt;/h2&gt;
+&lt;p&gt;So now that you have the basic building blocks, you should be able to expand on this idea quiet a bit.&lt;/p&gt;
+&lt;p&gt;You could create a new routine called &quot;Cancel Christmas&quot; that turns off the lights, fireplace, and music.  Or you could add an action to ask Google Home to tell you how many days till Christmas.&lt;/p&gt;
+&lt;p&gt;Routines are a bit confusing, and the current Google Home app certainly doesn&apos;t make that process easier, but it can be really powerful.  Even with just a couple pieces of smart hardware you can build up some impressive workflows pretty quickly.&lt;/p&gt;
+&lt;p&gt;Hopefully this was helpful!  Please let me know if any of these directions don&apos;t work or you have any other ideas.  Best place to reach me is on Twitter at &lt;a href=&quot;https://twitter.com/chuckyc17&quot;&gt;@chuckyc17&lt;/a&gt;.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Apple vs Apple: The New OS War]]></title><description><![CDATA[In the last couple years, I've heard iPad users frequently bemoan the professional community not "taking them seriously".  This reached a…]]></description><link>https://charliemchapman.com/posts/2018/11/21/apple_vs_apple/</link><guid isPermaLink="false">https://charliemchapman.com/posts/2018/11/21/apple_vs_apple/</guid><pubDate>Wed, 21 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
     href=&quot;/static/apple-vs-apple-d09257bd6ecf6c7f5ecf028372bdc7f4-9fd1e.jpg&quot;
