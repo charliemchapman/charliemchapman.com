@@ -1,5 +1,6 @@
 import React from "react";
 import PostHeader from '../components/postHeader';
+import PostFooter from '../components/postFooter';
 import SEO from '../components/SEO';
 import '../styles/post-markdown-overrides.css';
 
@@ -18,6 +19,7 @@ export default ({ data }) => {
         date={post.frontmatter.date}
         html={post.html}
       />
+      <PostFooter />
     </div>
   );
 };
