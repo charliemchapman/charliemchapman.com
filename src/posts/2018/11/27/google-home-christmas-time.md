@@ -76,7 +76,7 @@ Alright, now you have a custom routine, but it's only doing one action.  Let's m
 1. Tap "ADD MEDIA"
 1. Check the "Music" radio button
 1. Tap the gear icon next to "Music"
-1. And type into the text box "Christmas Radio" (or whatever command you would use to trigger a custom playlist or album)
+1. And type into the text box "`Christmas Radio`" (or whatever command you would use to trigger a custom playlist or album)
     - This will use whatever music service you've set up as the default.
 
 Give it a shot.  Say "Ok Google, It's Christmas Time" and your lights should turn on, and Christmas music should start playing out of your speaker.
@@ -95,11 +95,17 @@ Alright, with that aside, here's how I set up the fireplace within my new Routin
 
 1. Open your custom routine
 1. Tap "ADD ACTION"
-1. Type into the text field "Play Fireplace on TV"
+1. Type into the text field "`Play https://www.youtube.com/watch?v=L_LUpnjgPso on TV`"
 1. Tap "ADD" on the top right
 1. Tap "Save" on the top right
 
-Typing into that text box let's you arbitrarily type any command you can say to your Google Home.  The way I landed on that command was by trying a bunch of different phrases until I landed on one that would play the fireplace video I want.  If you have multiple TVs in the house, you might also have to specify something like "Play fireplace on living room TV".
+Typing into that text box let's you arbitrarily type any command you can say to your Google Home.  So you could type "Play Fireplace on TV" here and Google will search Youtube and find a fireplace to put on your TV.
+
+But what if you want to play a specific video?  Since we're typing into this command instead of talking out loud to our Google Home, we can actually clarify a specific Youtube video URL to play instead of just doing a search.  
+
+To do that you first need to get the URL for that video by tapping "share" in the Youtube app or just copying the url from the browser.  Then you can just paste that URL into the command "`Play [insert-url-here] on TV`". 
+
+*If you have multiple TVs in the house, you might also have to specify which TV such as "Play Fireplace on living room TV".*
 
 Now when you say "Ok Google, It's Christmas Time", your tree lights should turn on, music should start playing from your speaker, and your TV should turn into a fireplace!
 
