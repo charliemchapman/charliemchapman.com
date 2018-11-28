@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Charlie Chapman]]></title><description><![CDATA[The personal blog of Charlie Chapman]]></description><link>https://charliemchapman.com</link><generator>RSS for Node</generator><lastBuildDate>Wed, 28 Nov 2018 04:48:14 GMT</lastBuildDate><item><title><![CDATA[Control Your Christmas Tree Lights with Google Home]]></title><description><![CDATA[A couple of years ago when we set up our Christmas tree, we bought a cheap little  RF light switch  to plug our tree into so we didn't have…]]></description><link>https://charliemchapman.com/posts/2018/11/27/google-home-christmas-time/</link><guid isPermaLink="false">https://charliemchapman.com/posts/2018/11/27/google-home-christmas-time/</guid><pubDate>Tue, 27 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Charlie Chapman]]></title><description><![CDATA[The personal blog of Charlie Chapman]]></description><link>https://charliemchapman.com</link><generator>RSS for Node</generator><lastBuildDate>Wed, 28 Nov 2018 13:29:54 GMT</lastBuildDate><item><title><![CDATA[Control Your Christmas Tree Lights with Google Home]]></title><description><![CDATA[A couple of years ago when we set up our Christmas tree, we bought a cheap little  RF light switch  to plug our tree into so we didn't have…]]></description><link>https://charliemchapman.com/posts/2018/11/27/google-home-christmas-time/</link><guid isPermaLink="false">https://charliemchapman.com/posts/2018/11/27/google-home-christmas-time/</guid><pubDate>Tue, 27 Nov 2018 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
     href=&quot;/static/google-home-hero-01-5029c3ba407be6be298a83671f8b1d50-882d9.jpg&quot;
@@ -184,7 +184,7 @@
 &lt;li&gt;Check the &quot;Music&quot; radio button&lt;/li&gt;
 &lt;li&gt;Tap the gear icon next to &quot;Music&quot;&lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;And type into the text box &quot;Christmas Radio&quot; (or whatever command you would use to trigger a custom playlist or album)&lt;/p&gt;
+&lt;p&gt;And type into the text box &quot;&lt;code class=&quot;language-text&quot;&gt;Christmas Radio&lt;/code&gt;&quot; (or whatever command you would use to trigger a custom playlist or album)&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;This will use whatever music service you&apos;ve set up as the default.&lt;/li&gt;
 &lt;/ul&gt;
@@ -200,11 +200,14 @@
 &lt;ol&gt;
 &lt;li&gt;Open your custom routine&lt;/li&gt;
 &lt;li&gt;Tap &quot;ADD ACTION&quot;&lt;/li&gt;
-&lt;li&gt;Type into the text field &quot;Play Fireplace on TV&quot;&lt;/li&gt;
+&lt;li&gt;Type into the text field &quot;&lt;code class=&quot;language-text&quot;&gt;Play https://www.youtube.com/watch?v=L_LUpnjgPso on TV&lt;/code&gt;&quot;&lt;/li&gt;
 &lt;li&gt;Tap &quot;ADD&quot; on the top right&lt;/li&gt;
 &lt;li&gt;Tap &quot;Save&quot; on the top right&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Typing into that text box let&apos;s you arbitrarily type any command you can say to your Google Home.  The way I landed on that command was by trying a bunch of different phrases until I landed on one that would play the fireplace video I want.  If you have multiple TVs in the house, you might also have to specify something like &quot;Play fireplace on living room TV&quot;.&lt;/p&gt;
+&lt;p&gt;Typing into that text box let&apos;s you arbitrarily type any command you can say to your Google Home.  So you could type &quot;Play Fireplace on TV&quot; here and Google will search Youtube and find a fireplace to put on your TV.&lt;/p&gt;
+&lt;p&gt;But what if you want to play a specific video?  Since we&apos;re typing into this command instead of talking out loud to our Google Home, we can actually clarify a specific Youtube video URL to play instead of just doing a search.  &lt;/p&gt;
+&lt;p&gt;To do that you first need to get the URL for that video by tapping &quot;share&quot; in the Youtube app or just copying the url from the browser.  Then you can just paste that URL into the command &quot;&lt;code class=&quot;language-text&quot;&gt;Play [insert-url-here] on TV&lt;/code&gt;&quot;. &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;If you have multiple TVs in the house, you might also have to specify which TV such as &quot;Play Fireplace on living room TV&quot;.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Now when you say &quot;Ok Google, It&apos;s Christmas Time&quot;, your tree lights should turn on, music should start playing from your speaker, and your TV should turn into a fireplace!&lt;/p&gt;
 &lt;h2&gt;Keep Tinkering&lt;/h2&gt;
 &lt;p&gt;So now that you have the basic building blocks, you should be able to expand on this idea quiet a bit.&lt;/p&gt;
