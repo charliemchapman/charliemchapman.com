@@ -74,6 +74,13 @@ module.exports = {
               windows: true
             }
           }
+        },
+        {
+          resolve: `gatsby-plugin-google-analytics`,
+          options: {
+            trackingId: "UA-130520786-1",
+            head: true
+          },
         }
       ],
 };
