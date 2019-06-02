@@ -28,13 +28,17 @@
       "component---src-layouts-index-js-8fc2aa98258a35b045df.js",
       "component---src-layouts-index-js-8fc2aa98258a35b045df.js.map"
     ],
+    "path---posts-2019-6-2-thinking-in-portals": [
+      "path---posts-2019-6-2-thinking-in-portals-40b5e19b8529512f56e5.js",
+      "path---posts-2019-6-2-thinking-in-portals-40b5e19b8529512f56e5.js.map"
+    ],
     "path---posts-2018-11-21-apple-vs-apple": [
       "path---posts-2018-11-21-apple-vs-apple-bc42c66a88428bd87359.js",
       "path---posts-2018-11-21-apple-vs-apple-bc42c66a88428bd87359.js.map"
     ],
     "path---index": [
-      "path---index-d380c0744992b35d915d.js",
-      "path---index-d380c0744992b35d915d.js.map"
+      "path---index-6e9c32301e9f6eff4a2f.js",
+      "path---index-6e9c32301e9f6eff4a2f.js.map"
     ],
     "commons": [
       "commons-ba4cb63d6a7a0250cd9f.js",
@@ -43,14 +47,14 @@
       "build-js-styles.css.map"
     ],
     "app": [
-      "app-0dab328a16b938e87fe4.js",
+      "app-823f42c8620e34b25dd4.js",
       "build-js-styles.css",
-      "app-0dab328a16b938e87fe4.js.map",
+      "app-823f42c8620e34b25dd4.js.map",
       "build-js-styles.css.map"
     ],
     "path---archive": [
-      "path---archive-d843b898e463babdbc9c.js",
-      "path---archive-d843b898e463babdbc9c.js.map"
+      "path---archive-6b7e26a882b7e28bba6b.js",
+      "path---archive-6b7e26a882b7e28bba6b.js.map"
     ],
     "component---src-pages-about-js": [
       "component---src-pages-about-js-744512018265c4de8594.js",
