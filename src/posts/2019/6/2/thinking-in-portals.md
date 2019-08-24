@@ -10,8 +10,6 @@ I bring this up because at the beginning of this year I moved into iOS developme
 
 In Valve's 2007 game _Portal_, you have to solve a series of puzzle's using a unique "Portal" gun that allows you to arbitrarily place portals on the walls, and you can jump through them.  While simple on the surface, it's deceptively complicated, and at first you sort of fumble your way through the mechanic to make it through the challenges.
 
-<div style="width: 100%;max-width: 560px;margin-left: auto;margin-right: auto;"><iframe style="width: 100%;" width="560" height="315" src="https://www.youtube.com/embed/TluRVBhmf8w?start=134" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 Eventually you will suddenly realize you're brain automatically looks at a puzzle and starts calculating portal placements and jump trajectories, and the game's robot narrator praises you with the phrase _"Now you're thinking with portals"_.
 
 This same phenomenon occurs every time I learn a new software development skill.  I'm not talking about the part where you know you can fumble your way through any problem with enough time, though that is exciting as well.  This is the part where your brain automatically thinks within the framework or pattern you're using in the background, and instead you're free to focus on the actual design or engineering problem at hand.
