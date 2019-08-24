@@ -1,7 +1,101 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Charlie Chapman]]></title><description><![CDATA[The personal blog of Charlie Chapman]]></description><link>https://charliemchapman.com</link><generator>RSS for Node</generator><lastBuildDate>Sun, 02 Jun 2019 22:45:11 GMT</lastBuildDate><item><title><![CDATA[Thinking With Portals]]></title><description><![CDATA[Being able to learn a new software language, framework, pattern, or platform has been one of the cornerstones of my career.  I'm generally…]]></description><link>https://charliemchapman.com/posts/2019/6/2/thinking-in-portals/</link><guid isPermaLink="false">https://charliemchapman.com/posts/2019/6/2/thinking-in-portals/</guid><pubDate>Sun, 02 Jun 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Being able to learn a new software language, framework, pattern, or platform has been one of the cornerstones of my career.  I&apos;m generally pretty quick to pick something new up, and I get distracted easily so I end up doing this a lot.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Charlie Chapman]]></title><description><![CDATA[The personal blog of Charlie Chapman]]></description><link>https://charliemchapman.com</link><generator>RSS for Node</generator><lastBuildDate>Sat, 24 Aug 2019 13:02:31 GMT</lastBuildDate><item><title><![CDATA[The Principles of Dark Noise]]></title><description><![CDATA[At the beginning of this year I started working on my first indie app to release in the App Store called  Dark Noise .   At first, I had a…]]></description><link>https://charliemchapman.com/posts/2019/8/23/dark-noise/</link><guid isPermaLink="false">https://charliemchapman.com/posts/2019/8/23/dark-noise/</guid><pubDate>Fri, 23 Aug 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;At the beginning of this year I started working on my first indie app to release in the App Store called &lt;a href=&quot;https://darknoise.app&quot;&gt;Dark Noise&lt;/a&gt;.  &lt;/p&gt;
+&lt;p&gt;At first, I had a giant list of feature ideas and no idea how to distill them into a focused product. So I started by forcing myself to pick 3 principles to guide the design.&lt;/p&gt;
+&lt;p&gt;I eventually landed on these core principles:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Configurability&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Targeting pro users who want as many options and hooks to work the app into their workflow as possible&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Speed&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Opening app to playing sound should be as fast as possible with no compromise since this is the 99% use case&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Keep it dark&lt;/strong&gt; (expect fat fingers)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Most users will probably be using this in a dark environment, possibly without their glasses on or half asleep.  Keep that in mind.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;After creating the principles, I took my list of feature ideas and tried to slot them all into one of those principles.  If they didn&apos;t fit, I tossed them in the backlog.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/dark-noise-principles-in-action-1696799ffa1b72e000d580b6f9576e2d-0af4d.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 750px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 130.6122448979592%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAaABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAECBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAe0U0DE2KD//xAAYEAEAAwEAAAAAAAAAAAAAAAABAAIQIP/aAAgBAQABBQJhjtoc/wD/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAUEAEAAAAAAAAAAAAAAAAAAAAw/9oACAEBAAY/Ak//xAAaEAEAAgMBAAAAAAAAAAAAAAABABEQIUHx/9oACAEBAAE/IT3cVFU45g17kBhojDH/2gAMAwEAAgADAAAAEGDODP/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8QH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8QH//EAB0QAQACAgMBAQAAAAAAAAAAAAEAESFREDFBYfD/2gAIAQEAAT8QrQIV3FC0/twVMlTOn33qdS8fRjjoFe4YblzqCgPNwiFg5hC6A4//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Dark Noise Principles in Action&quot;
+        title=&quot;&quot;
+        src=&quot;/static/dark-noise-principles-in-action-1696799ffa1b72e000d580b6f9576e2d-5520a.jpg&quot;
+        srcset=&quot;/static/dark-noise-principles-in-action-1696799ffa1b72e000d580b6f9576e2d-52dbb.jpg 188w,
+/static/dark-noise-principles-in-action-1696799ffa1b72e000d580b6f9576e2d-b4884.jpg 375w,
+/static/dark-noise-principles-in-action-1696799ffa1b72e000d580b6f9576e2d-5520a.jpg 750w,
+/static/dark-noise-principles-in-action-1696799ffa1b72e000d580b6f9576e2d-0af4d.jpg 784w&quot;
+        sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Keeping these principles in mind as I tried to design and form an MVP was really helpful.  I have a tendency to get overly excited by an idea and drop whatever I&apos;m doing and build it.  Often that&apos;s a bad idea, but sometimes it&apos;s good!&lt;/p&gt;
+&lt;p&gt;Whenever I had the thought of adding a bunch of custom app icons referencing podcasts I like, I realized it was something that might actually resonate with the pro users I was targeting.  And seems to have done just that!&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/dark-noise-app-icons-3c8c11da195a417fec74e003f81a155b-3406c.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 519px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 197.3025048169557%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,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&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Dark Noise App Icons&quot;
+        title=&quot;&quot;
+        src=&quot;/static/dark-noise-app-icons-3c8c11da195a417fec74e003f81a155b-3406c.png&quot;
+        srcset=&quot;/static/dark-noise-app-icons-3c8c11da195a417fec74e003f81a155b-250a1.png 188w,
+/static/dark-noise-app-icons-3c8c11da195a417fec74e003f81a155b-93180.png 375w,
+/static/dark-noise-app-icons-3c8c11da195a417fec74e003f81a155b-3406c.png 519w&quot;
+        sizes=&quot;(max-width: 519px) 100vw, 519px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;This also played into my pricing decisions as that market tends to prefer paying up front and is a little more averse to ads.  That&apos;s not to say I won&apos;t add a free tier in the future (in fact I probably will) but it&apos;s something I&apos;m always keeping in mind as I make these decisions.&lt;/p&gt;
+&lt;p&gt;Anyway, I&apos;m not an expert at this, heck I&apos;m barely a beginner, but maybe you&apos;ll find my thought process interesting nonetheless.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This post is an attempt to make a more permanent record to &lt;a href=&quot;https://twitter.com/chuckyc17/status/1158072465739911168&quot;&gt;this tweetstorm&lt;/a&gt; from a few weeks ago.&lt;/em&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Thinking With Portals]]></title><description><![CDATA[Being able to learn a new software language, framework, pattern, or platform has been one of the cornerstones of my career.  I'm generally…]]></description><link>https://charliemchapman.com/posts/2019/6/2/thinking-in-portals/</link><guid isPermaLink="false">https://charliemchapman.com/posts/2019/6/2/thinking-in-portals/</guid><pubDate>Sun, 02 Jun 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Being able to learn a new software language, framework, pattern, or platform has been one of the cornerstones of my career.  I&apos;m generally pretty quick to pick something new up, and I get distracted easily so I end up doing this a lot.&lt;/p&gt;
 &lt;p&gt;I bring this up because at the beginning of this year I moved into iOS development, a whole new ecosystem&lt;sup id=&quot;fnref-1&quot;&gt;&lt;a href=&quot;#fn-1&quot; class=&quot;footnote-ref&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; where I didn&apos;t know the language (Swift), framework (UIKit), or any of the tooling (Xcode), and in the last week I reached one of my favorite milestones of learning a new skill: &lt;strong&gt;thinking with portals&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;In Valve&apos;s 2007 game &lt;em&gt;Portal&lt;/em&gt;, you have to solve a series of puzzle&apos;s using a unique &quot;Portal&quot; gun that allows you to arbitrarily place portals on the walls, and you can jump through them.  While simple on the surface, it&apos;s deceptively complicated, and at first you sort of fumble your way through the mechanic to make it through the challenges.&lt;/p&gt;
-&lt;div style=&quot;width: 100%;max-width: 560px;margin-left: auto;margin-right: auto;&quot;&gt;&lt;iframe style=&quot;width: 100%;&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/TluRVBhmf8w?start=134&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;p&gt;Eventually you will suddenly realize you&apos;re brain automatically looks at a puzzle and starts calculating portal placements and jump trajectories, and the game&apos;s robot narrator praises you with the phrase &lt;em&gt;&quot;Now you&apos;re thinking with portals&quot;&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;This same phenomenon occurs every time I learn a new software development skill.  I&apos;m not talking about the part where you know you can fumble your way through any problem with enough time, though that is exciting as well.  This is the part where your brain automatically thinks within the framework or pattern you&apos;re using in the background, and instead you&apos;re free to focus on the actual design or engineering problem at hand.&lt;/p&gt;
 &lt;p&gt;This over the last week, I&apos;ve stopped spending my time figuring out &lt;em&gt;how&lt;/em&gt; to do something on my iOS projects, but instead figuring out the best design that I &lt;em&gt;should&lt;/em&gt; do.  It&apos;s a subtle difference, but it&apos;s deeply satisfying to finally cross that threshold.&lt;/p&gt;
