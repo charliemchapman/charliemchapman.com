@@ -1,4 +1,55 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Charlie Chapman]]></title><description><![CDATA[The personal blog of Charlie Chapman]]></description><link>https://charliemchapman.com</link><generator>RSS for Node</generator><lastBuildDate>Tue, 27 Aug 2019 12:18:30 GMT</lastBuildDate><item><title><![CDATA[Dark Noise is in the App Store 🥳]]></title><description><![CDATA[Today I released my first app to the App Store,  Dark Noise .  It's a simple yet powerful way to play ambient noise to help you sleep, focus…]]></description><link>https://charliemchapman.com/posts/2019/8/27/dark-noise/</link><guid isPermaLink="false">https://charliemchapman.com/posts/2019/8/27/dark-noise/</guid><pubDate>Tue, 27 Aug 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Today I released my first app to the App Store, &lt;a href=&quot;https://apps.apple.com/us/app/dark-noise/id1465439395&quot;&gt;Dark Noise&lt;/a&gt;.  It&apos;s a simple yet powerful way to play ambient noise to help you sleep, focus, or relax.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Charlie Chapman]]></title><description><![CDATA[The personal blog of Charlie Chapman]]></description><link>https://charliemchapman.com</link><generator>RSS for Node</generator><lastBuildDate>Thu, 29 Aug 2019 04:33:18 GMT</lastBuildDate><item><title><![CDATA[I'm feeling lucky]]></title><description><![CDATA[Yesterday's release of  Dark Noise  exceeded my wildest expectations.  According to my stats from Apple, the app sold  990  copies which…]]></description><link>https://charliemchapman.com/posts/2019/8/28/im-feeling-lucky/</link><guid isPermaLink="false">https://charliemchapman.com/posts/2019/8/28/im-feeling-lucky/</guid><pubDate>Wed, 28 Aug 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Yesterday&apos;s release of &lt;a href=&quot;https://apps.apple.com/us/app/dark-noise/id1465439395&quot;&gt;Dark Noise&lt;/a&gt; exceeded my wildest expectations.  According to my stats from Apple, the app sold &lt;strong&gt;990&lt;/strong&gt; copies which brought in &lt;strong&gt;$4,190&lt;/strong&gt; in sales for a take home of &lt;strong&gt;$2,780&lt;/strong&gt; after Apple&apos;s 70% cut.&lt;sup id=&quot;fnref-1&quot;&gt;&lt;a href=&quot;#fn-1&quot; class=&quot;footnote-ref&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/dark-noise-day-1-stats-2b3e76d9adec71e0ad495fc18fe6c7f9-93fcd.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 750px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 45.56962025316456%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAJABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAB34FB/8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQABBQJf/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAFRABAQAAAAAAAAAAAAAAAAAAEEH/2gAIAQEAAT8hY//aAAwDAQACAAMAAAAQY8//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAbEAACAQUAAAAAAAAAAAAAAAAAAYERMUFhcf/aAAgBAQABPxCu0caJGMwKyP/Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Dark Noise day 1 stats&quot;
+        title=&quot;&quot;
+        src=&quot;/static/dark-noise-day-1-stats-2b3e76d9adec71e0ad495fc18fe6c7f9-5520a.jpg&quot;
+        srcset=&quot;/static/dark-noise-day-1-stats-2b3e76d9adec71e0ad495fc18fe6c7f9-52dbb.jpg 188w,
+/static/dark-noise-day-1-stats-2b3e76d9adec71e0ad495fc18fe6c7f9-b4884.jpg 375w,
+/static/dark-noise-day-1-stats-2b3e76d9adec71e0ad495fc18fe6c7f9-5520a.jpg 750w,
+/static/dark-noise-day-1-stats-2b3e76d9adec71e0ad495fc18fe6c7f9-916c9.jpg 1125w,
+/static/dark-noise-day-1-stats-2b3e76d9adec71e0ad495fc18fe6c7f9-8dad4.jpg 1500w,
+/static/dark-noise-day-1-stats-2b3e76d9adec71e0ad495fc18fe6c7f9-93fcd.jpg 1896w&quot;
+        sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p class=&quot;postCaption&quot;&gt;Statics from App Store Connect&lt;/p&gt;
+&lt;p&gt;And the reaction from the community has been unbelievable.  Friends and strangers alike have said so many kind words on Twitter, personal blogs, podcasts, and even a &lt;a href=&quot;https://www.youtube.com/watch?v=rsGnnwqbJuU&quot;&gt;YouTube video&lt;/a&gt;!  And to top that all off, one of my favorite websites, MacStories, wrote up &lt;a href=&quot;https://www.macstories.net/reviews/dark-noise-review-ambient-noise-never-looked-so-good/&quot;&gt;an amazing review&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A few people have asked me how I got the coverage that I did considering I had essentially zero following and zero connections a few months ago, and my honest &lt;em&gt;feeling&lt;/em&gt; is that I didn&apos;t do anything special and simply got lucky.  But I think that&apos;s kind of a cop-out answer.  &lt;/p&gt;
+&lt;p&gt;In a recent podcast, Myke Hurley mentioned that he&apos;s stopped saying he got &lt;strong&gt;&quot;lucky&quot;&lt;/strong&gt; in achieving the success he&apos;s had with his company &lt;a href=&quot;https://www.relay.fm&quot;&gt;Relay FM&lt;/a&gt; and started using the term &lt;strong&gt;&quot;fortunate&quot;&lt;/strong&gt; instead.  As usual, I think #MykeWasRight.  &lt;/p&gt;
+&lt;p&gt;The truth is, I did work really hard and tried &lt;em&gt;a lot&lt;/em&gt; of different things.  I have no idea what really worked and what didn&apos;t, but I can at least share what I did and explain my mindset.&lt;/p&gt;
+&lt;p&gt;I&apos;m going to try to write up as much as I can over the next few weeks while this is fresh on my mind, so keep your eyes on this feed if you&apos;re curious.  If you have particular questions or topics you&apos;d like me to cover, please reach out to me on &lt;a href=&quot;https://twitter.com/chuckyc17&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&quot;fn-1&quot;&gt;
+&lt;p&gt;I&apos;m sharing this all in the spirit of openness.  I really hope this doesn&apos;t come across as bragging and &lt;em&gt;please&lt;/em&gt; let me know if it does&lt;/p&gt;
+&lt;a href=&quot;#fnref-1&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Dark Noise is in the App Store 🥳]]></title><description><![CDATA[Today I released my first app to the App Store,  Dark Noise .  It's a simple yet powerful way to play ambient noise to help you sleep, focus…]]></description><link>https://charliemchapman.com/posts/2019/8/27/dark-noise/</link><guid isPermaLink="false">https://charliemchapman.com/posts/2019/8/27/dark-noise/</guid><pubDate>Tue, 27 Aug 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Today I released my first app to the App Store, &lt;a href=&quot;https://apps.apple.com/us/app/dark-noise/id1465439395&quot;&gt;Dark Noise&lt;/a&gt;.  It&apos;s a simple yet powerful way to play ambient noise to help you sleep, focus, or relax.&lt;/p&gt;
 &lt;p&gt;This is the part where I&apos;m supposed to tell you about a brilliant revelation I had that led me to solve a problem you don&apos;t even know you have.  But I cannot, because that&apos;s now how all of this went down.&lt;/p&gt;
 &lt;p&gt;The truth is, Dark Noise started as a simple learning exercise and has turned into something more.  I chose to build an ambient noise app because I&apos;m very picky, and there wasn&apos;t one in the store that fit exactly what I wanted: simple, fast, and fun.  There are a lot of options out there, many of them quite good, but I think I&apos;ve landed on a balance of those three attributes that is truly unique.&lt;/p&gt;
 &lt;h1&gt;Simple&lt;/h1&gt;
