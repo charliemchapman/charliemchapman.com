@@ -42,3 +42,10 @@ blockquote.twitter-tweet {
     text-decoration: underline;
     border-bottom: none;
   }
+
+.postCaption {
+  text-align: center;
+  font-size: .75em;
+  font-style: italic;
+  font-weight: bold;
+}
