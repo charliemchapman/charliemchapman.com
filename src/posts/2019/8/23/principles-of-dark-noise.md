@@ -4,7 +4,7 @@ date: "2019-08-23"
 image: "http://media.charliemchapman.com/charlie_and_jack.JPG"
 ---
 
-At the beginning of this year I started working on my first indie app to release in the App Store called [Dark Noise](https://darknoise.app).  
+At the beginning of this year I started working on my first indie app to release in the App Store called [Dark Noise](https://darknoise.app).  It's an ambient noise app for iPhone and iPad.
 
 At first, I had a giant list of feature ideas and no idea how to distill them into a focused product. So I started by forcing myself to pick 3 principles to guide the design.
 

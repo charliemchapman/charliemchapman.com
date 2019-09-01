@@ -49,3 +49,13 @@ blockquote.twitter-tweet {
   font-style: italic;
   font-weight: bold;
 }
+
+.postVideoContainer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.postVideo {
+  max-height: 400px;
+}

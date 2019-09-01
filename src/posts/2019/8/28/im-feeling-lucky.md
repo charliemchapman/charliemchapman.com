@@ -4,10 +4,10 @@ date: "2019-08-28"
 image: "http://media.charliemchapman.com/charlie_and_jack.JPG"
 ---
 
-Yesterday's release of [Dark Noise](https://apps.apple.com/us/app/dark-noise/id1465439395) exceeded my wildest expectations.  According to my stats from Apple, the app sold **990** copies which brought in **$4,190** in sales for a take home of **$2,780** after Apple's 70% cut.[^1]
+Yesterday's release of [Dark Noise](https://apps.apple.com/us/app/dark-noise/id1465439395) exceeded my wildest expectations.  According to my stats from Apple, the app sold **990** copies which brought in **$4,190** in sales for a take home of **$2,780** after Apple's 30% cut.[^1]
 
 ![Dark Noise day 1 stats](./dark-noise-day-1-stats.jpg)
-<p class="postCaption">Statics from App Store Connect</p>
+<p class="postCaption">Statistics from App Store Connect</p>
 
 And the reaction from the community has been unbelievable.  Friends and strangers alike have said so many kind words on Twitter, personal blogs, podcasts, and even a [YouTube video](https://www.youtube.com/watch?v=rsGnnwqbJuU)!  And to top that all off, one of my favorite websites, MacStories, wrote up [an amazing review](https://www.macstories.net/reviews/dark-noise-review-ambient-noise-never-looked-so-good/).
 
