@@ -33,7 +33,7 @@ I also had the main swiping gesture for minimizing the player there from the beg
 ![Dark Noise design version 01](https://s3.us-east-2.amazonaws.com/media.charliemchapman.com/blog/dark-noise-design-prototyping.gif)
 <p class="postCaption">Recorded on my iPhone previewing the XD prototype. I toyed around with having the player minimize to the top, but the rapid prototyping with XD quickly showed me that didn't feel right</p>
 
-The "Charcoal Dreams" name name has an interesting back story.  From the beginning I knew I wanted to add some sort of fun whimsical feel to the app.  I thought it might be fun to give each noise an obnoxiously whimsical name, and if you 3D touched the name you'd get a silly description along the lines of "earthy notes with a hint of cinnamon" or something.  
+The "Charcoal Dreams" name has an interesting back story.  From the beginning I knew I wanted to add some sort of fun whimsical feel to the app.  I thought it might be fun to give each noise an obnoxiously whimsical name, and if you 3D touched the name you'd get a silly description along the lines of "earthy notes with a hint of cinnamon" or something.  
 
 Since I switched strategies to using audio recordings, this didn't make as much sense, but I didn't give up on that goal of having something fun.
 
