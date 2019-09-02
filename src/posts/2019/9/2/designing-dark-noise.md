@@ -74,7 +74,7 @@ One thing I really like about some other audio apps is when it's visually clear 
 I came up with a few ideas in After Effects, but I either couldn't figure out how to implement it properly, or it just didn't feel right once I implemented it into the app.
 
 <div class="postVideoContainer">
-    <video class="postVideo"  controls loop autoplay>
+    <video class="postVideo"  controls loop>
     <source src="https://s3.us-east-2.amazonaws.com/media.charliemchapman.com/blog/dark-noise-play-pause-ideas.mp4" type="video/mp4">
     Your browser does not support the video tag.
     </video>
@@ -86,7 +86,7 @@ One idea I had pretty early on was to make a looping animation for each of the s
 At one point I finally decided to try it out and see how it felt.  I made the animation for the White Noise icon and added it to the app, and it just felt awesome.
 
 <div class="postVideoContainer">
-    <video class="postVideo"  controls loop autoplay>
+    <video class="postVideo"  controls loop>
     <source src="https://s3.us-east-2.amazonaws.com/media.charliemchapman.com/blog/dark-noise-icons-sample.mp4" type="video/mp4">
     Your browser does not support the video tag.
     </video>

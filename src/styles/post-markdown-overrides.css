@@ -58,4 +58,5 @@ blockquote.twitter-tweet {
 
 .postVideo {
   max-height: 400px;
+  max-width: 100%;
 }
