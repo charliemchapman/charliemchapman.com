@@ -30,7 +30,7 @@ The "Create Noise" page was based on my original idea of generating the differen
 
 I also had the main swiping gesture for minimizing the player there from the beginning.  One cool thing about Adobe XD is that you can quickly setup prototypes, and even add swiping gestures to those prototypes, and then demo them interactively on the phone.  So I could quickly play around with different ideas and get a sense of how they _felt_.
 
-![Dark Noise design version 01](./dark-noise-design-prototyping.gif)
+![Dark Noise design version 01](https://s3.us-east-2.amazonaws.com/media.charliemchapman.com/blog/dark-noise-design-prototyping.gif)
 <p class="postCaption">I toyed around with having the player minimize to the top.  But the rapid prototyping with XD quickly showed me that didn't feel right</p>
 
 The "Charcoal Dreams" name has an interesting back story.  From the beginning I knew I wanted to add some sort of fun whimsical feel to the app.
@@ -57,7 +57,7 @@ Mobbin helped point me at what elements make up a good looking mobile app, and a
 ![Dark Noise design version 02](./dark-noise-design-v02.jpg)
 <p class="postCaption">This should look familiar.</p>
 
-There are two small interesting design details I'd like to call out.  
+There are two interesting design details I'd like to call out.  
 
 #### Select Noise Arrow
 
@@ -65,10 +65,30 @@ I really liked the idea of the initial view you see of the app being a super sim
 
 I was worried it wouldn't be immediately clear _how_ you're supposed to proceed from that page if you wanted to change your noise, so I borrowed a design element from my first MacBook Pro and gave the down arrow a little "breathing" animation.  I'm hoping the gentle bounce and opacity change will draw a new users eye enough to guide them through the app, but also not be an annoying distraction in the future.
 
-#### Play / Pause Button
+#### Icon Animations
 
-One thing I really liked about some other audio apps is when it was visually clear when audio was playing so if you're speakers are muted you had an indication that sound _should_ be coming out.  
+One thing I really liked about some other audio apps is when it was visually clear when audio was playing so if your speakers are muted you had an indication that sound _should_ be coming out.  For example, in [Overcast](https://overcast.fm), a darker tint bounces on the pause button along with the audio that's playing.
 
+I came up with a few ideas in After Effects, but I either couldn't figure out how to implement it properly, or it just didn't feel right once I implemented it into the app.
 
+<div class="postVideoContainer">
+    <video class="postVideo"  controls loop autoplay>
+    <source src="https://s3.us-east-2.amazonaws.com/media.charliemchapman.com/blog/dark-noise-play-pause-ideas.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+    </video>
+</div>
+<p class="postCaption">A couple play / pause ideas I tried out.</p>
+
+One idea I had pretty early on was to make a looping animation for each of the static noise icons I was already building.  This sounded fun for me, but I was afraid it would take a long time and not really be worth the time it would take me.
+
+At one point I finally decided to try it out and see how it felt.  I made the animation for the White Noise icon and added it to the app, and it just felt awesome.
+
+I solved my "playing indicator" problem, but even more importantly I found the _fun_ I was looking for that I could use to stamp the app with my personality.
+
+# Last Thoughts
+
+There are other small touches throughout the app, but I think this touches on the biggest ones.  Like I said, I'm not a designer by trade, this is just to outline my thought process while I still remember it.  Hopefully this is helpful to somebody out there.
+
+If you have any other questions about my process or design choices that I might, definitely reach out to me [on Twitter](https://twitter.com/chuckyc17) I love talking about this stuff.
 
 [^1]: I actually do have a Creative Cloud subscription, but I believe all that gets you with XD is more storage space and access to their fonts.
