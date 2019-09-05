@@ -1,4 +1,250 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Charlie Chapman]]></title><description><![CDATA[The personal blog of Charlie Chapman]]></description><link>https://charliemchapman.com</link><generator>RSS for Node</generator><lastBuildDate>Mon, 02 Sep 2019 18:24:43 GMT</lastBuildDate><item><title><![CDATA[Designing Dark Noise]]></title><description><![CDATA[Today I want to talk about the process I used for designing my new app  Dark Noise .  It's an app for playing different ambient noises to…]]></description><link>https://charliemchapman.com/posts/2019/9/2/designing-dark-noise/</link><guid isPermaLink="false">https://charliemchapman.com/posts/2019/9/2/designing-dark-noise/</guid><pubDate>Mon, 02 Sep 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Today I want to talk about the process I used for designing my new app &lt;a href=&quot;https://apps.apple.com/us/app/dark-noise/id1465439395&quot;&gt;Dark Noise&lt;/a&gt;.  It&apos;s an app for playing different ambient noises to help with sleep or focus.  I&apos;m not a designer by trade, and this is the first app I&apos;ve made for iOS, so this is more of a brain dump of everything I did and less of a proposal on how design should be done.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Charlie Chapman]]></title><description><![CDATA[The personal blog of Charlie Chapman]]></description><link>https://charliemchapman.com</link><generator>RSS for Node</generator><lastBuildDate>Thu, 05 Sep 2019 03:49:01 GMT</lastBuildDate><item><title><![CDATA[Week 1 Stats for Dark Noise]]></title><description><![CDATA[Week 1 of  Dark Noise  is in the bag!  Here's some quick stats of how the week went: 📈 3,192 Downloads 💰 $13.5K Sales 💵 $8.99K Proceeds…]]></description><link>https://charliemchapman.com/posts/2019/9/4/dark-noise-week-1/</link><guid isPermaLink="false">https://charliemchapman.com/posts/2019/9/4/dark-noise-week-1/</guid><pubDate>Wed, 04 Sep 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Week 1 of &lt;a href=&quot;https://apps.apple.com/app/dark-noise/id1465439395&quot;&gt;Dark Noise&lt;/a&gt; is in the bag!  Here&apos;s some quick stats of how the week went:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📈 3,192 Downloads&lt;/li&gt;
+&lt;li&gt;💰 $13.5K Sales&lt;/li&gt;
+&lt;li&gt;💵 $8.99K Proceeds (after Apple cut)&lt;/li&gt;
+&lt;li&gt;⭐️ 69 ratings with a 4.86 avg&lt;/li&gt;
+&lt;li&gt;📝 24 reviews&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In ranks Dark Noise peaked at:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2nd in Health &amp;#x26; Fitness on iPad&lt;/li&gt;
+&lt;li&gt;5th in Health &amp;#x26; Fitness on iPhone&lt;/li&gt;
+&lt;li&gt;77th in Top Apps&lt;/li&gt;
+&lt;li&gt;162nd in Top Overall (includes games)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I just wanted to give a brief breakdown of some of the metrics gathered from the first week of Dark Noise being released in the store, and some of my (very amateur) thoughts.  Hopefully if you have an app release incoming, this might be helpful in setting expectations or at the very least be interesting 😅.  This is mostly just me sharing my experience rather than giving advice, so take any theories I have with a heavy grain of salt.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/dark-noise-week-1-overview-405fdf260b7c1e845183c41aeb6d160e-fa766.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 750px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 33.818897637795274%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAHABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAdyiUL//xAAVEAEBAAAAAAAAAAAAAAAAAAAQIf/aAAgBAQABBQKv/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8Bh//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABQQAQAAAAAAAAAAAAAAAAAAABD/2gAIAQEABj8Cf//EABoQAAICAwAAAAAAAAAAAAAAAAABEZEhMUH/2gAIAQEAAT8heHbFM6dik//aAAwDAQACAAMAAAAQDA//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/EB//xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAgEBPxCn/8QAGRABAQEBAQEAAAAAAAAAAAAAAREhADFh/9oACAEBAAE/EBoDV8jORhgmsZnQyL9Xv//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Dark Noise Week 1 Overview&quot;
+        title=&quot;&quot;
+        src=&quot;/static/dark-noise-week-1-overview-405fdf260b7c1e845183c41aeb6d160e-5520a.jpg&quot;
+        srcset=&quot;/static/dark-noise-week-1-overview-405fdf260b7c1e845183c41aeb6d160e-52dbb.jpg 188w,
+/static/dark-noise-week-1-overview-405fdf260b7c1e845183c41aeb6d160e-b4884.jpg 375w,
+/static/dark-noise-week-1-overview-405fdf260b7c1e845183c41aeb6d160e-5520a.jpg 750w,
+/static/dark-noise-week-1-overview-405fdf260b7c1e845183c41aeb6d160e-916c9.jpg 1125w,
+/static/dark-noise-week-1-overview-405fdf260b7c1e845183c41aeb6d160e-8dad4.jpg 1500w,
+/static/dark-noise-week-1-overview-405fdf260b7c1e845183c41aeb6d160e-17c71.jpg 2250w,
+/static/dark-noise-week-1-overview-405fdf260b7c1e845183c41aeb6d160e-fa766.jpg 2540w&quot;
+        sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p class=&quot;postCaption&quot;&gt;Metrics from App Store Connect&lt;/p&gt;
+&lt;p&gt;The app launched on August 27th, but notice I have a few sales from the 26th?  That&apos;s because I used Apple&apos;s pre-order feature, which it turns out will release the app around 12:00am the morning of release date in &lt;strong&gt;local time&lt;/strong&gt;, presumably based on which regional App Store the pre-order was made from.&lt;/p&gt;
+&lt;p&gt;Since App Store connect appears to update metrics based on midnight California time, anybody who pre-ordered or downloaded the app right away from east of the US such as New Zealand or the UK, will show up on the 26th.&lt;/p&gt;
+&lt;p&gt;Anyway, let&apos;s look at the numbers.  Day 1 was easily my biggest sales day.  I believe this was mostly made up from the small community I had built up through the beta testing period and some press I received including a wonderful &lt;a href=&quot;https://www.macstories.net/reviews/dark-noise-review-ambient-noise-never-looked-so-good/&quot;&gt;review on MacStories&lt;/a&gt;. So let&apos;s look at the sources!&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/dark-noise-week-1-sources-pageviews-62367440b03d13c25bb67ea4b0d9d347-944a5.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 750px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 71.93308550185873%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAB3qAH/8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQABBQJf/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAFhABAQEAAAAAAAAAAAAAAAAAAREg/9oACAEBAAE/IQa6/9oADAMBAAIAAwAAABBDD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABgQAAMBAQAAAAAAAAAAAAAAAAABESGB/9oACAEBAAE/EEWNqXDphWWlP//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Dark Noise Week 1 Source of Page Views&quot;
+        title=&quot;&quot;
+        src=&quot;/static/dark-noise-week-1-sources-pageviews-62367440b03d13c25bb67ea4b0d9d347-5520a.jpg&quot;
+        srcset=&quot;/static/dark-noise-week-1-sources-pageviews-62367440b03d13c25bb67ea4b0d9d347-52dbb.jpg 188w,
+/static/dark-noise-week-1-sources-pageviews-62367440b03d13c25bb67ea4b0d9d347-b4884.jpg 375w,
+/static/dark-noise-week-1-sources-pageviews-62367440b03d13c25bb67ea4b0d9d347-5520a.jpg 750w,
+/static/dark-noise-week-1-sources-pageviews-62367440b03d13c25bb67ea4b0d9d347-916c9.jpg 1125w,
+/static/dark-noise-week-1-sources-pageviews-62367440b03d13c25bb67ea4b0d9d347-8dad4.jpg 1500w,
+/static/dark-noise-week-1-sources-pageviews-62367440b03d13c25bb67ea4b0d9d347-944a5.jpg 2152w&quot;
+        sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p class=&quot;postCaption&quot;&gt;Sources for App Store page views&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/dark-noise-week-1-sources-units-72fb0a1a557795b97b1a9355e9aa5782-944a5.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 750px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 71.93308550185873%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAEF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAB3qAH/8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQABBQJf/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFBABAAAAAAAAAAAAAAAAAAAAIP/aAAgBAQAGPwJf/8QAGBAAAgMAAAAAAAAAAAAAAAAAAREgIVH/2gAIAQEAAT8htnJf/9oADAMBAAIAAwAAABBDD//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABkQAAMBAQEAAAAAAAAAAAAAAAABEVEQIf/aAAgBAQABPxBJbNYPdIuUsP/Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Dark Noise Week 1 Source of Unit Sales&quot;
+        title=&quot;&quot;
+        src=&quot;/static/dark-noise-week-1-sources-units-72fb0a1a557795b97b1a9355e9aa5782-5520a.jpg&quot;
+        srcset=&quot;/static/dark-noise-week-1-sources-units-72fb0a1a557795b97b1a9355e9aa5782-52dbb.jpg 188w,
+/static/dark-noise-week-1-sources-units-72fb0a1a557795b97b1a9355e9aa5782-b4884.jpg 375w,
+/static/dark-noise-week-1-sources-units-72fb0a1a557795b97b1a9355e9aa5782-5520a.jpg 750w,
+/static/dark-noise-week-1-sources-units-72fb0a1a557795b97b1a9355e9aa5782-916c9.jpg 1125w,
+/static/dark-noise-week-1-sources-units-72fb0a1a557795b97b1a9355e9aa5782-8dad4.jpg 1500w,
+/static/dark-noise-week-1-sources-units-72fb0a1a557795b97b1a9355e9aa5782-944a5.jpg 2152w&quot;
+        sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p class=&quot;postCaption&quot;&gt;Sources for App Store page views that lead to units sold&lt;/p&gt;
+&lt;p&gt;I think the combination of &lt;strong&gt;App Store Search&lt;/strong&gt; and &lt;strong&gt;Web Referer&lt;/strong&gt; lines up with people following direct links from reviews and social media, as well as people searching directly for Dark Noise after seeing it somewhere else.&lt;/p&gt;
+&lt;p&gt;At first, there seemed to be a pretty strong correlation between page views and units sold, but as the week progressed, &lt;em&gt;App Store Browse&lt;/em&gt; page views started climbing, but didn&apos;t seem to have much of an impact on sales.  I believed this might be linked to the App Store ranking.  So let&apos;s take a look at the rankings!&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/dark-noise-week-1-ranking-216fd20e7fa5fc2561c46a4df3fd4f0e-e723a.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 750px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 63.97379912663755%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAECBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAd0gsD//xAAUEAEAAAAAAAAAAAAAAAAAAAAg/9oACAEBAAEFAl//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAUEAEAAAAAAAAAAAAAAAAAAAAg/9oACAEBAAY/Al//xAAZEAACAwEAAAAAAAAAAAAAAAAAARAhMRH/2gAIAQEAAT8htFw9Oiw//9oADAMBAAIAAwAAABAzz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABsQAAICAwEAAAAAAAAAAAAAAAERADEhUWGB/9oACAEBAAE/EESynQhbLJ5BkQ0jO5byUHc//9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Dark Noise Week 1 Ranking&quot;
+        title=&quot;&quot;
+        src=&quot;/static/dark-noise-week-1-ranking-216fd20e7fa5fc2561c46a4df3fd4f0e-5520a.jpg&quot;
+        srcset=&quot;/static/dark-noise-week-1-ranking-216fd20e7fa5fc2561c46a4df3fd4f0e-52dbb.jpg 188w,
+/static/dark-noise-week-1-ranking-216fd20e7fa5fc2561c46a4df3fd4f0e-b4884.jpg 375w,
+/static/dark-noise-week-1-ranking-216fd20e7fa5fc2561c46a4df3fd4f0e-5520a.jpg 750w,
+/static/dark-noise-week-1-ranking-216fd20e7fa5fc2561c46a4df3fd4f0e-916c9.jpg 1125w,
+/static/dark-noise-week-1-ranking-216fd20e7fa5fc2561c46a4df3fd4f0e-8dad4.jpg 1500w,
+/static/dark-noise-week-1-ranking-216fd20e7fa5fc2561c46a4df3fd4f0e-e723a.jpg 1832w&quot;
+        sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p class=&quot;postCaption&quot;&gt;Week 1 rankings provided by &lt;a href=&quot;https://appfigures.com&quot;&gt;appfigures&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I was wrong! Ranking actually seems to be pretty correlated with unit sales instead.  So I have no idea why my &lt;strong&gt;App Store Browse&lt;/strong&gt; page views started climbing so much to seemingly no effect 🤷‍♂️.  Dark Noise was just added to the top of the &lt;a href=&quot;https://twitter.com/chuckyc17/status/1169058911124635648?s=20&quot;&gt;Apps We Love Right Now&lt;/a&gt; list on the US app store but that was after the week 1 date range we&apos;re looking at here.&lt;/p&gt;
+&lt;p&gt;Now let&apos;s talk about that second spike on Saturday.  That was the day I posted about Dark Noise to &lt;a href=&quot;https://www.reddit.com/r/apple/comments/cxvg0c/i_released_a_white_noise_ios_app_this_week_with/&quot;&gt;/r/Apple&lt;/a&gt; on Reddit.  &lt;/p&gt;
+&lt;p&gt;That subreddit is huge, and they allow app devs to post announcements about their apps on Saturdays.  I read about this a while ago, set a reminder on my phone for the Saturday after I was planning to launch, and promptly forgot about it until my phone reminded me Saturday morning.&lt;/p&gt;
+&lt;p&gt;The post ended up going to the front page pretty quickly gathering 1,500 upvotes and hundreds of comments which had a pretty clear impact on sales.  If you&apos;ve got an app coming soon, I cannot recommend this enough.  You can see the results right here!&lt;/p&gt;
+&lt;p&gt;I don&apos;t have much more analysis, but here are some other metrics that you might find interesting.  And as always feel free to reach out on &lt;a href=&quot;https://twitter.com/chuckyc17&quot;&gt;Twitter&lt;/a&gt; if you have any questions or metrics you&apos;re interested in seeing.  I like sharing and comparing this data as it really helps me understand the market better, especially as a newcomer.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/dark-noise-week-1-territories-781ff144c2c4c448f19128dde09b613f-68340.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 750px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 42.069741282339706%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAIABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAIF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAdwJYX//xAAVEAEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAQABBQKP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFRABAQAAAAAAAAAAAAAAAAAAARD/2gAIAQEABj8Cb//EABoQAAICAwAAAAAAAAAAAAAAAAABESExQVH/2gAIAQEAAT8hkm0tz3ReLEj/2gAMAwEAAgADAAAAEHQP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGhABAQADAQEAAAAAAAAAAAAAAREAIWFBcf/aAAgBAQABPxALHbFa4MgbXd3w5kCVfrn/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Dark Noise Week 1 Territories&quot;
+        title=&quot;&quot;
+        src=&quot;/static/dark-noise-week-1-territories-781ff144c2c4c448f19128dde09b613f-5520a.jpg&quot;
+        srcset=&quot;/static/dark-noise-week-1-territories-781ff144c2c4c448f19128dde09b613f-52dbb.jpg 188w,
+/static/dark-noise-week-1-territories-781ff144c2c4c448f19128dde09b613f-b4884.jpg 375w,
+/static/dark-noise-week-1-territories-781ff144c2c4c448f19128dde09b613f-5520a.jpg 750w,
+/static/dark-noise-week-1-territories-781ff144c2c4c448f19128dde09b613f-916c9.jpg 1125w,
+/static/dark-noise-week-1-territories-781ff144c2c4c448f19128dde09b613f-8dad4.jpg 1500w,
+/static/dark-noise-week-1-territories-781ff144c2c4c448f19128dde09b613f-68340.jpg 1778w&quot;
+        sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p class=&quot;postCaption&quot;&gt;App Units by Territory&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/dark-noise-week-1-devices-d903537a4a60c0e7d28d41e02f09369e-32291.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 750px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 51.85995623632385%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIBBf/EABQBAQAAAAAAAAAAAAAAAAAAAAL/2gAMAwEAAhADEAAAAe1W0iBX/8QAGRABAAIDAAAAAAAAAAAAAAAAAQACEBEi/9oACAEBAAEFAl6HZLA5/8QAFhEAAwAAAAAAAAAAAAAAAAAAARAx/9oACAEDAQE/ARV//8QAFhEAAwAAAAAAAAAAAAAAAAAAARAx/9oACAECAQE/ATF//8QAGRAAAgMBAAAAAAAAAAAAAAAAARAAEVEh/9oACAEBAAY/AqFbAdXQ/wD/xAAaEAEAAwADAAAAAAAAAAAAAAARARAhADFB/9oACAEBAAE/IZ+oITzPAO0IE77F/wD/2gAMAwEAAgADAAAAENPP/8QAFREBAQAAAAAAAAAAAAAAAAAAERD/2gAIAQMBAT8QSn//xAAWEQEBAQAAAAAAAAAAAAAAAAABEBH/2gAIAQIBAT8QBhn/xAAcEAACAgIDAAAAAAAAAAAAAAABEQAhEDFBcZH/2gAIAQEAAT8QB5whm+vLMS6AIWnBAdbogqLH/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Dark Noise Week 1 Devices&quot;
+        title=&quot;&quot;
+        src=&quot;/static/dark-noise-week-1-devices-d903537a4a60c0e7d28d41e02f09369e-5520a.jpg&quot;
+        srcset=&quot;/static/dark-noise-week-1-devices-d903537a4a60c0e7d28d41e02f09369e-52dbb.jpg 188w,
+/static/dark-noise-week-1-devices-d903537a4a60c0e7d28d41e02f09369e-b4884.jpg 375w,
+/static/dark-noise-week-1-devices-d903537a4a60c0e7d28d41e02f09369e-5520a.jpg 750w,
+/static/dark-noise-week-1-devices-d903537a4a60c0e7d28d41e02f09369e-32291.jpg 914w&quot;
+        sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p class=&quot;postCaption&quot;&gt;App Units by Device&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Designing Dark Noise]]></title><description><![CDATA[Today I want to talk about the process I used for designing my new app  Dark Noise .  It's an app for playing different ambient noises to…]]></description><link>https://charliemchapman.com/posts/2019/9/2/designing-dark-noise/</link><guid isPermaLink="false">https://charliemchapman.com/posts/2019/9/2/designing-dark-noise/</guid><pubDate>Mon, 02 Sep 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Today I want to talk about the process I used for designing my new app &lt;a href=&quot;https://apps.apple.com/us/app/dark-noise/id1465439395&quot;&gt;Dark Noise&lt;/a&gt;.  It&apos;s an app for playing different ambient noises to help with sleep or focus.  I&apos;m not a designer by trade, and this is the first app I&apos;ve made for iOS, so this is more of a brain dump of everything I did and less of a proposal on how design should be done.&lt;/p&gt;
 &lt;p&gt;Before I placed a pixel in any design tool, I first figured out what the guiding principles for the app were, and what features I wanted to include.  I detailed this step in a &lt;a href=&quot;https://charliemchapman.com/posts/2019/8/23/principles-of-dark-noise/&quot;&gt;separate post&lt;/a&gt;, but the end result was:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
