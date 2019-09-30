@@ -4,7 +4,7 @@ date: "2019-09-30"
 image: "http://media.charliemchapman.com/charlie_and_jack.JPG"
 ---
 
-Today marks 1 month since I released my app [Dark Noise](https://apps.apple.com/app/dark-noise/id1465439395) in the App Store.  The release went [very well](https://charliemchapman.com/posts/2019/9/4/dark-noise-week-1/), and I've had quite a few people ask what marketing I did.  I wanted to post this right away, but first I wanted to let the launch stats settle down so you can get a better picture of what the actual results are.
+It's been 1 month since I released my app [Dark Noise](https://apps.apple.com/app/dark-noise/id1465439395) in the App Store.  The release went [very well](https://charliemchapman.com/posts/2019/9/4/dark-noise-week-1/), and I've had quite a few people ask how I marketed the app.  I wanted to post this right away, but first I wanted to let the launch stats settle down so you can get a better picture of what the actual results are.
 
 Let's start with some quick 1st month stats.
 
@@ -37,7 +37,7 @@ There was also a higher level of engagement per user at this stage, since everyb
 
 ### Public Beta
 
-Once I had the app in a state I felt was worthy to really start showing off, I opened the beta to the public.  I sort of treated this stage like a soft launch of the app.  I had a lot of work I wanted to do, but I treated these users as if they were customers and I created an app Twitter account to tweet out updates and respond to user feedback.  I launched the beta on July 9th, so about a month and a half before the actual launch.
+Once I had the app in a state I felt was worthy to really start showing off, I opened the beta to the public.  I sort of treated this stage like a soft launch of the app.  I had a lot of work I wanted to do, but I treated these users as if they were customers and I created an [app Twitter account](https://twitter.com/darknoiseapp) to tweet out updates and respond to user feedback.  I launched the beta on July 9th, so about a month and a half before the actual launch.
 
 Opening the beta to the public early was definitely one of the best decisions I made.  The feedback from users was invaluable, and I built up an excited audience, who was invested in the app by launch.  This really helped build up some pre-launch hype, and I received a lot of reviews and tweets on launch day from people that started with "I've been on the beta for a while...".  I believe this lent an air of credibility that I wouldn't have had otherwise as a brand new developer.
 
@@ -62,7 +62,7 @@ I'm not sure what the lesson here is.  In my case using social media to build up
 
 ### Press Kit
 
-I don't have a whole lot to say about this.  I made a press kit.  You can check it out [here](https://darknoise.app/presskit)  I don't know if it's a good one, or a bad one.  I do know that it was helpful for a few people who ended up writing a day one post about Dark Noise, specifically the screenshots and hero images.
+I don't have a whole lot to say about this.  I made a press kit.  You can check it out [here](https://darknoise.app/presskit).  I don't know if it's a good one, or a bad one.  I do know that it was helpful for a few people who ended up writing a day one post about Dark Noise, specifically the screenshots and hero images.
 
 <div style="width: 100%;max-width: 560px;margin-left: auto;margin-right: auto;"><iframe style="width:100%" width="560" height="315" src="https://www.youtube.com/embed/Q7BDtu9CkAI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></iframe></div>
 
@@ -76,16 +76,16 @@ I don't think I did the *best* job with reaching out to the press, but I did end
 - **MacStories** - [Dark Noise Review: Ambient Noise Never Looked So Good](https://www.macstories.net/reviews/dark-noise-review-ambient-noise-never-looked-so-good/)
 - **Knapsack** - [Dark Noise is the white noise generator you need](https://knapsack.news/2019/08/27/dark-noise-is-the-white-noise-generator-you-need/)
 - **App Advice** - [Dark Noise is the Ambient Noise App You've Been Looking For](https://appadvice.com/post/dark-noise-ambient-noise-app-youve-looking/765988)
+- **Chambyte** - [Dark Noise: A Refined White Noise App with a Liquid Smooth Design](https://www.chambyte.net/home/DarkNoise:%20A%20refined%20White%20noise%20app%20with%20a%20liquid%20smooth%20design)
 - **Peer Reviewed** - [Dark Noise — a Simple, Beautiful Ambient Noise App for iOS](https://www.peerreviewed.io/blog/2019/8/27/reviewed-dark-noise-a-simple-beautiful-ambient-noise-app-for-ios)
 - **The Dent** - [Dark Noise - Simple, Powerful, Beautiful](https://thedent.net/2019/08/27/dark-noise-simple.html)
-- **Chambyte** - [Dark Noise: A Refined White Noise App with a Liquid Smooth Design](https://www.chambyte.net/home/DarkNoise:%20A%20refined%20White%20noise%20app%20with%20a%20liquid%20smooth%20design)
 
 One thing I haven't mentioned yet is that I selected a release date about a month beforehand.  Not only did this help *me* with forcing myself to stop adding features and drive towards polishing up what I had, but it also allowed me to give the press a hard target for when to expect the app to come out.
 
-Once I had the app in a state I felt wasn't embarrassing, and I set up my press kit and website, I started contacting the press.  Basically I just went to a bunch of websites I like, and found the emails of writers there that had covered apps before.  I emailed them with a short pitch of the app, a release date, and a link to the press kit.
+Once I had the app in a state I felt wasn't embarrassing, and I set up my press kit and website, I started contacting the press.  Basically I just went to a bunch of websites I like, and found the emails of writers there that had covered apps before.  I started doing this about 3-4 weeks before releasing that app, but continued pretty much up to launch day as I thought of different publications to reach out to.  I emailed them with a short pitch of the app, a release date, and a link to the press kit.
 
 ![Example email to press](./dark-noise-press-email.jpg)
-<p class="postCaption">Here's an example of an email that I sent out to the press</p>
+<p class="postCaption">Here's an example of an email that I sent out to the press.</p>
 
 I received a few "thanks I'll check it out" responses, but that was basically it.  I believe pretty much all of the press I received on launch day was due to attention and relationships I made during the months of development through Twitter and the public beta.
 
