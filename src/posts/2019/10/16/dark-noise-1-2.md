@@ -1,7 +1,7 @@
 ---
 title: "Dark Noise 1.2"
 date: "2019-10-16"
-image: "http://media.charliemchapman.com/charlie_and_jack.JPG"
+image: "http://media.charliemchapman.com/app-icon-dark-noise.jpg"
 ---
 
 Today I'm releasing the first update to Dark Noise bringing new iOS 13 features and adding a few new sounds.  With Dark Noise 1.2 I've brought 3 main feature improvements:
@@ -18,7 +18,7 @@ This will allow you to quickly switch to a darker theme by hitting the switch in
 
 In iOS 13 Apple added a new feature to Shortcuts that allows users to set parameters for actions provided by apps.  For Dark Noise, this means that you can now create a shortcut action that sets a timer with a user specified time set directly in the shortcuts app.
 
-![Dark Mode Parameterized Shortcuts](./dark-noise-shortcuts.png)
+![Dark Mode Parameterized Shortcuts](./dark-noise-shortcuts-sample.png)
 
 There's a few unfortunate caveats that I need to address however.  Shortcuts with parameters cannot run audio without opening up the app first (unless you're Apple Music 😒) so any of the new shortcuts will not be able to run in the background.  
 
