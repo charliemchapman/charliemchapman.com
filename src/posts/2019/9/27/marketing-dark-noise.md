@@ -76,7 +76,7 @@ I don't think I did the *best* job with reaching out to the press, but I did end
 - **MacStories** - [Dark Noise Review: Ambient Noise Never Looked So Good](https://www.macstories.net/reviews/dark-noise-review-ambient-noise-never-looked-so-good/)
 - **Knapsack** - [Dark Noise is the white noise generator you need](https://knapsack.news/2019/08/27/dark-noise-is-the-white-noise-generator-you-need/)
 - **App Advice** - [Dark Noise is the Ambient Noise App You've Been Looking For](https://appadvice.com/post/dark-noise-ambient-noise-app-youve-looking/765988)
-- **Chambyte** - [Dark Noise: A Refined White Noise App with a Liquid Smooth Design](https://www.chambyte.net/home/DarkNoise:%20A%20refined%20White%20noise%20app%20with%20a%20liquid%20smooth%20design)
+- **Chambyte** - [Dark Noise: A Refined White Noise App with a Liquid Smooth Design](https://chambyte.net/darknoise-a-refined-white-noise-app/)
 - **Peer Reviewed** - [Dark Noise — a Simple, Beautiful Ambient Noise App for iOS](https://www.peerreviewed.io/blog/2019/8/27/reviewed-dark-noise-a-simple-beautiful-ambient-noise-app-for-ios)
 - **The Dent** - [Dark Noise - Simple, Powerful, Beautiful](https://thedent.net/2019/08/27/dark-noise-simple.html)
 
