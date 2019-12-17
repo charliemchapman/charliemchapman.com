@@ -1,4 +1,5 @@
 import React from "react";
+import Layout from '../components/layout'
 import PostHeader from '../components/postHeader';
 import PostFooter from '../components/postFooter';
 import SEO from '../components/SEO';
@@ -7,7 +8,7 @@ import '../styles/post-markdown-overrides.css';
 export default ({ data }) => {
   const post = data.markdownRemark;
   return (
-    <div>
+    <Layout>
       <SEO
         title={post.frontmatter.title}
         image={post.frontmatter.image}
@@ -20,7 +21,7 @@ export default ({ data }) => {
         html={post.html}
       />
       <PostFooter />
-    </div>
+    </Layout>
   );
 };
 

@@ -1,5 +1,6 @@
 import React from "react";
 import Link from "gatsby-link";
+import Layout from '../components/layout'
 import PostHeader from '../components/postHeader';
 import styles from '../styles/home.module.css';
 
@@ -13,7 +14,7 @@ export default ({data, pathContext}) => {
   const nextLink = index !== pageCount ? <Link to={nextUrl}>Next →</Link> : null;
 
   return (
-    <div>
+    <Layout>
       {group.map(({ node }) => (
         <PostHeader key={node.id}
           title={node.frontmatter.title}
@@ -26,6 +27,6 @@ export default ({data, pathContext}) => {
         <div>{previousLink}</div>
         <div>{nextLink}</div>
       </div>
-    </div>
+    </Layout>
   );
 }

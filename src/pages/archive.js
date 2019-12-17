@@ -1,4 +1,5 @@
 import React from "react";
+import Layout from '../components/layout'
 
 export default ({data}) => {
   const links = data.allMarkdownRemark.edges.map(({node})=>{
@@ -6,12 +7,12 @@ export default ({data}) => {
   })
 
   return (
-    <div>
+    <Layout>
       <h2>Archive</h2>
       <ul>
         {links}
       </ul>
-    </div>
+    </Layout>
   );
 };
 

@@ -1,9 +1,10 @@
 import React from "react";
 import Img from "gatsby-image";
+import Layout from '../components/layout'
 import styles from '../styles/about.module.css';
 
 export default ({data}) => (
-  <div>
+  <Layout>
     <div className={styles.textAndImage}>
       <div className={styles.image} >
         <Img resolutions={data.file.childImageSharp.resolutions}/>
@@ -15,7 +16,7 @@ export default ({data}) => (
         <p>You can find me on <b>Twitter</b> at <a href="https://twitter.com/chuckyc17">@chuckyc17</a> or on <b>Mastodon</b> <a href="https://mastodon.social/@charliemchapman">here</a>.</p>
       </div>
     </div>
-  </div>
+  </Layout>
 );
 
 export const query = graphql`
