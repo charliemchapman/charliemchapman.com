@@ -51,6 +51,6 @@ Here's the new sounds for Dark Noise 1.2:
 
 By far the most highly requested feature since launch is the ability to mix multiple sounds together to create your own personal soundscape.  Now that my iOS 13 update is out of the way, this is my top priority.  
 
-I'm a slow, deliberate developer and this is not my full time job (currently 😏) so it will take some time to do this right.  I've already started [playing around with the design](https://twitter.com/chuckyc17/status/1170390447660949514?s=20) and I would love to hear any feedback or ideas from you all through [Twitter](https://twitter.com/chuckyc17), [Reddit](https://www.reddit.com/r/DarkNoiseApp/), or [Email](mailto:dev.charliemchapman@gmail.com).
+I'm a slow, deliberate developer and this is not my full time job (currently 😏) so it will take some time to do this right.  I've already started [playing around with the design](https://twitter.com/_chuckyc/status/1170390447660949514?s=20) and I would love to hear any feedback or ideas from you all through [Twitter](https://twitter.com/_chuckyc), [Reddit](https://www.reddit.com/r/DarkNoiseApp/), or [Email](mailto:dev.charliemchapman@gmail.com).
 
 You can find the app (as well as a spiffy new app video preview) on the [App Store](https://apps.apple.com/app/dark-noise/id1465439395) today!

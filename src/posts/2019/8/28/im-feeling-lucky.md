@@ -17,6 +17,6 @@ In a recent podcast, Myke Hurley mentioned that he's stopped saying he got **"lu
 
 The truth is, I did work really hard and tried _a lot_ of different things.  I have no idea what really worked and what didn't, but I can at least share what I did and explain my mindset.
 
-I'm going to try to write up as much as I can over the next few weeks while this is fresh on my mind, so keep your eyes on this feed if you're curious.  If you have particular questions or topics you'd like me to cover, please reach out to me on [Twitter](https://twitter.com/chuckyc17).
+I'm going to try to write up as much as I can over the next few weeks while this is fresh on my mind, so keep your eyes on this feed if you're curious.  If you have particular questions or topics you'd like me to cover, please reach out to me on [Twitter](https://twitter.com/_chuckyc).
 
 [^1]: I'm sharing this all in the spirit of openness.  I really hope this doesn't come across as bragging and _please_ let me know if it does

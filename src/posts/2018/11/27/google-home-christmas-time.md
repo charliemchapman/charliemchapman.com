@@ -10,7 +10,7 @@ A couple of years ago when we set up our Christmas tree, we bought a cheap littl
 
 After a bit of experimentation, I can now say "Hey Google, It's Christmas Time" and my tree lights up, Christmas music starts playing, and my TV turns on and starts playing a fireplace.  Check it out!
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Hey Google, It&#39;s Christmas Time&quot; 🧙‍♂️✨🎄🎶🔥<a href="https://twitter.com/hashtag/GoogleHome?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleHome</a> <a href="https://twitter.com/hashtag/Automation?src=hash&amp;ref_src=twsrc%5Etfw">#Automation</a> <a href="https://twitter.com/hashtag/GoogleAssistant?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleAssistant</a> <a href="https://t.co/G1X0c5d06o">pic.twitter.com/G1X0c5d06o</a></p>&mdash; Charlie Chapman (@chuckyc17) <a href="https://twitter.com/chuckyc17/status/1066803500686946309?ref_src=twsrc%5Etfw">November 25, 2018</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Hey Google, It&#39;s Christmas Time&quot; 🧙‍♂️✨🎄🎶🔥<a href="https://twitter.com/hashtag/GoogleHome?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleHome</a> <a href="https://twitter.com/hashtag/Automation?src=hash&amp;ref_src=twsrc%5Etfw">#Automation</a> <a href="https://twitter.com/hashtag/GoogleAssistant?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleAssistant</a> <a href="https://t.co/G1X0c5d06o">pic.twitter.com/G1X0c5d06o</a></p>&mdash; Charlie Chapman (@_chuckyc) <a href="https://twitter.com/_chuckyc/status/1066803500686946309?ref_src=twsrc%5Etfw">November 25, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 So, let's talk about how I set this up.
@@ -117,4 +117,4 @@ You could create a new routine called "Cancel Christmas" that turns off the ligh
 
 Routines are a bit confusing, and the current Google Home app certainly doesn't make that process easier, but it can be really powerful.  Even with just a couple pieces of smart hardware you can build up some impressive workflows pretty quickly.
 
-Hopefully this was helpful!  Please let me know if any of these directions don't work or you have any other ideas.  Best place to reach me is on Twitter at [@chuckyc17](https://twitter.com/chuckyc17).
+Hopefully this was helpful!  Please let me know if any of these directions don't work or you have any other ideas.  Best place to reach me is on Twitter at [@_chuckyc](https://twitter.com/_chuckyc).

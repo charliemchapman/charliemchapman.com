@@ -99,6 +99,6 @@ This solved my "playing indicator" problem, but even more importantly I found th
 
 There are other small touches throughout the app, but I think this touches on the biggest ones.  Like I said, I'm not a designer by trade, this is just to outline my thought process while I still remember it.  Hopefully this is helpful to somebody out there.
 
-If you have any other questions about my process or design choices, definitely reach out to me [on Twitter](https://twitter.com/chuckyc17) I love talking about this stuff.
+If you have any other questions about my process or design choices, definitely reach out to me [on Twitter](https://twitter.com/_chuckyc) I love talking about this stuff.
 
 [^1]: I actually do have a Creative Cloud subscription, but I believe all that gets you with XD is more storage space and access to their fonts.

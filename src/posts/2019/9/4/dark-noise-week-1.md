@@ -42,7 +42,7 @@ At first, there seemed to be a pretty strong correlation between page views and 
 ![Dark Noise Week 1 Ranking](./dark-noise-week-1-ranking.jpg)
 <p class="postCaption">Week 1 rankings provided by <a href="https://appfigures.com">appfigures</a></p>
 
-I was wrong! Ranking actually seems to be pretty correlated with unit sales instead.  So I have no idea why my **App Store Browse** page views started climbing so much to seemingly no effect 🤷‍♂️.  Dark Noise was just added to the top of the [Apps We Love Right Now](https://twitter.com/chuckyc17/status/1169058911124635648?s=20) list on the US app store but that was after the week 1 date range we're looking at here.
+I was wrong! Ranking actually seems to be pretty correlated with unit sales instead.  So I have no idea why my **App Store Browse** page views started climbing so much to seemingly no effect 🤷‍♂️.  Dark Noise was just added to the top of the [Apps We Love Right Now](https://twitter.com/_chuckyc/status/1169058911124635648?s=20) list on the US app store but that was after the week 1 date range we're looking at here.
 
 Now let's talk about that second spike on Saturday.  That was the day I posted about Dark Noise to [/r/Apple](https://www.reddit.com/r/apple/comments/cxvg0c/i_released_a_white_noise_ios_app_this_week_with/) on Reddit.  
 
@@ -50,7 +50,7 @@ That subreddit is huge, and they allow app devs to post announcements about thei
 
 The post ended up going to the front page pretty quickly gathering 1,500 upvotes and hundreds of comments which had a pretty clear impact on sales.  If you've got an app coming soon, I cannot recommend this enough.  You can see the results right here!
 
-I don't have much more analysis, but here are some other metrics that you might find interesting.  And as always feel free to reach out on [Twitter](https://twitter.com/chuckyc17) if you have any questions or metrics you're interested in seeing.  I like sharing and comparing this data as it really helps me understand the market better, especially as a newcomer.
+I don't have much more analysis, but here are some other metrics that you might find interesting.  And as always feel free to reach out on [Twitter](https://twitter.com/_chuckyc) if you have any questions or metrics you're interested in seeing.  I like sharing and comparing this data as it really helps me understand the market better, especially as a newcomer.
 
 ![Dark Noise Week 1 Territories](./dark-noise-week-1-territories.jpg)
 <p class="postCaption">App Units by Territory</p>

@@ -52,7 +52,7 @@ While working a feature I'd usually tweet about the progress and hype up the nex
 One feature that really blew up was the custom app icons.
 
 ![Tweet about custom icons](./charlie-custom-icons-tweet.jpg)
-<p class="postCaption">Open tweet in Twitter <a href="https://twitter.com/chuckyc17/status/1154771704952098816">here</a></p>
+<p class="postCaption">Open tweet in Twitter <a href="https://twitter.com/_chuckyc/status/1154771704952098816">here</a></p>
 
 Earlier this year I saw David Smith add a tribute to Myke Hurley in his app [CalZones](https://apps.apple.com/us/app/calzones/id1451728473) by creating a theme called #MykeWasRight (the name of his old Tumblr blog) as a thank you for some help in the early stages of the app. I love Myke's podcast [Cortex](https://www.relay.fm/cortex) that he hosts with CGP Grey so I thought it might be fun to add a similar tribute to my app in the form of a custom icon.
 
@@ -115,7 +115,7 @@ Aside from responding to people and generally trying to make the launch as noisy
 
 Everything I've talked about so far has pertained to marketing Dark Noise specifically, but there is actually another piece to this.  Since I'm completely new to the iOS dev scene, I wanted to establish myself with this community.  The bulk of that was done through engagement on Twitter, but I also guested on multiple podcasts and wrote up a few blog posts like this one.
 
-I didn't really do much active work to get on the podcasts, just [tweeted](https://twitter.com/chuckyc17/status/1156990696047423488?s=20) out that I was available and accepted basically any invitation I got. 😆 I'm not sure how effective these were at promoting Dark Noise specifically, but I still think it was worth it for the relationships it helped build and (hopefully) helping establish my voice in the community.
+I didn't really do much active work to get on the podcasts, just [tweeted](https://twitter.com/_chuckyc/status/1156990696047423488?s=20) out that I was available and accepted basically any invitation I got. 😆 I'm not sure how effective these were at promoting Dark Noise specifically, but I still think it was worth it for the relationships it helped build and (hopefully) helping establish my voice in the community.
 
 ### Odds & Ends
 
@@ -129,4 +129,4 @@ With regards to feedback, I've tried to respond to people as quickly as possible
 
 Hopefully this is helpful for some of you.  I think I've captured most of the marketing efforts I made for Dark Noise, but I may update this post if I remember something else.
 
-If you have thoughts on anything I talked about here, or marketing ideas that have worked for your app, please reach out to me on Twitter at [@chuckyc17](https://twitter.com/chuckyc17).  I love talking about this stuff!
+If you have thoughts on anything I talked about here, or marketing ideas that have worked for your app, please reach out to me on Twitter at [@_chuckyc](https://twitter.com/_chuckyc).  I love talking about this stuff!

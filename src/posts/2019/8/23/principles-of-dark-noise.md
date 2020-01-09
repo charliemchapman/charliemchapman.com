@@ -31,4 +31,4 @@ This also played into my pricing decisions as that market tends to prefer paying
 
 Anyway, I'm not an expert at this, heck I'm barely a beginner, but maybe you'll find my thought process interesting nonetheless.
 
-_This post is an attempt to make a more permanent record to [this tweetstorm](https://twitter.com/chuckyc17/status/1158072465739911168) from a few weeks ago._
+_This post is an attempt to make a more permanent record to [this tweetstorm](https://twitter.com/_chuckyc/status/1158072465739911168) from a few weeks ago._
