@@ -1,6 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Charlie Chapman]]></title><description><![CDATA[The personal blog of Charlie Chapman]]></description><link>https://charliemchapman.com</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 13 Jan 2020 18:31:23 GMT</lastBuildDate><item><title><![CDATA[Introducing Launched]]></title><description><![CDATA[Today I'm really excited to be releasing the first episode of my new podcast Launched.  Here's the pitch:  Launched is a fortnightly show…]]></description><link>https://charliemchapman.com/posts/2020/1/13/introducing-launched/</link><guid isPermaLink="false">https://charliemchapman.com/posts/2020/1/13/introducing-launched/</guid><pubDate>Mon, 13 Jan 2020 00:00:00 GMT</pubDate><content:encoded>&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
-    &lt;img style=&quot;max-height: 500px; object-fit: scale-down;&quot; src=&quot;https://s3.us-east-2.amazonaws.com/media.charliemchapman.com/blog/launched_artwork-1024.jpg&quot;&gt;
-&lt;div&gt;&lt;/div&gt;&lt;/div&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Charlie Chapman]]></title><description><![CDATA[The personal blog of Charlie Chapman]]></description><link>https://charliemchapman.com</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 13 Jan 2020 18:36:07 GMT</lastBuildDate><item><title><![CDATA[Introducing Launched]]></title><description><![CDATA[Today I'm really excited to be releasing the first episode of my new podcast Launched.  Here's the pitch:  Launched is a fortnightly show…]]></description><link>https://charliemchapman.com/posts/2020/1/13/introducing-launched/</link><guid isPermaLink="false">https://charliemchapman.com/posts/2020/1/13/introducing-launched/</guid><pubDate>Mon, 13 Jan 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 750px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/d39ed6adc1648af16327a799a9cac936/07827/launched_artwork-1024.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAQDAQL/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQIE/9oADAMBAAIQAxAAAAGaibbdijBffQqyCP/EABoQAAIDAQEAAAAAAAAAAAAAAAABAgMRExD/2gAIAQEAAQUCrimc44Vywdi8U2dGN6f/xAAVEQEBAAAAAAAAAAAAAAAAAAABIP/aAAgBAwEBPwFj/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAFxAAAwEAAAAAAAAAAAAAAAAAARAgIf/aAAgBAQAGPwLWa//EABsQAAMBAAMBAAAAAAAAAAAAAAABESEQMZFB/9oACAEBAAE/IbMU7zUJovZyjH1cIKKeGtzwe9Z//9oADAMBAAIAAwAAABBsNz3/xAAWEQADAAAAAAAAAAAAAAAAAAABEBH/2gAIAQMBAT8QI1Vf/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8QgE//xAAcEAEBAAMBAAMAAAAAAAAAAAABEQAhMVFhkfD/2gAIAQEAAT8QvdSAXG0KeAtxhHjMhi0dyuzvl+sWq+uS9Mmxf28aur8c0XsDROZ//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Launched Thumbnail&quot;
+        title=&quot;Launched Thumbnail&quot;
+        src=&quot;/static/d39ed6adc1648af16327a799a9cac936/2a7f3/launched_artwork-1024.jpg&quot;
+        srcset=&quot;/static/d39ed6adc1648af16327a799a9cac936/1a190/launched_artwork-1024.jpg 188w,
+/static/d39ed6adc1648af16327a799a9cac936/992ed/launched_artwork-1024.jpg 375w,
+/static/d39ed6adc1648af16327a799a9cac936/2a7f3/launched_artwork-1024.jpg 750w,
+/static/d39ed6adc1648af16327a799a9cac936/f4978/launched_artwork-1024.jpg 1125w,
+/static/d39ed6adc1648af16327a799a9cac936/db64a/launched_artwork-1024.jpg 1500w,
+/static/d39ed6adc1648af16327a799a9cac936/07827/launched_artwork-1024.jpg 2048w&quot;
+        sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;Today I&apos;m really excited to be releasing the first episode of my new podcast &lt;a href=&quot;https://launchedfm.com&quot;&gt;Launched&lt;/a&gt;.  Here&apos;s the pitch: &lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Launched is a fortnightly show where I interview app developers and other creators about their experiences releasing their creation out into the world.&lt;/p&gt;
