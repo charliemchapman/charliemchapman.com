@@ -4,9 +4,7 @@ date: "2020-01-13"
 image: "https://s3.us-east-2.amazonaws.com/media.charliemchapman.com/blog/launched_artwork-1024.jpg"
 ---
 
-<div style="display: flex; justify-content: center;">
-    <img  style="max-height: 500px" src="https://s3.us-east-2.amazonaws.com/media.charliemchapman.com/blog/launched_artwork-1024.jpg">
-<div>
+![Launched Thumbnail](./launched_artwork-1024.jpg)
 
 Today I'm really excited to be releasing the first episode of my new podcast [Launched](https://launchedfm.com).  Here's the pitch: 
 
