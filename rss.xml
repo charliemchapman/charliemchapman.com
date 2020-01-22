@@ -1,4 +1,147 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Charlie Chapman]]></title><description><![CDATA[The personal blog of Charlie Chapman]]></description><link>https://charliemchapman.com</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 13 Jan 2020 18:36:07 GMT</lastBuildDate><item><title><![CDATA[Introducing Launched]]></title><description><![CDATA[Today I'm really excited to be releasing the first episode of my new podcast Launched.  Here's the pitch:  Launched is a fortnightly show…]]></description><link>https://charliemchapman.com/posts/2020/1/13/introducing-launched/</link><guid isPermaLink="false">https://charliemchapman.com/posts/2020/1/13/introducing-launched/</guid><pubDate>Mon, 13 Jan 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Charlie Chapman]]></title><description><![CDATA[The personal blog of Charlie Chapman]]></description><link>https://charliemchapman.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 22 Jan 2020 04:15:13 GMT</lastBuildDate><item><title><![CDATA[Launched Week 1 Stats]]></title><description><![CDATA[Last week I launched my new podcast Launched and I wanted to share a little bit about how I went about creating the show similar to what I…]]></description><link>https://charliemchapman.com/posts/2020/1/21/launching-launched/</link><guid isPermaLink="false">https://charliemchapman.com/posts/2020/1/21/launching-launched/</guid><pubDate>Tue, 21 Jan 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Last week I launched my new podcast &lt;a href=&quot;https://charliemchapman.com/posts/2020/1/13/introducing-launched/&quot;&gt;Launched&lt;/a&gt; and I wanted to share a little bit about how I went about creating the show similar to what I did with my posts about &lt;a href=&quot;https://charliemchapman.com/posts/2019/9/2/designing-dark-noise/&quot;&gt;designing&lt;/a&gt; and &lt;a href=&quot;https://charliemchapman.com/posts/2019/9/27/marketing-dark-noise/&quot;&gt;marketing&lt;/a&gt; my app &lt;a href=&quot;https://apps.apple.com/us/app/dark-noise/id1465439395&quot;&gt;Dark Noise&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;But before I write that up I want to share some stats about how week 1 went. I&apos;m very happy with how it&apos;s been received so far, but honestly I don&apos;t know the podcast world enough to tell you if these numbers are &lt;em&gt;good&lt;/em&gt; or not (though they are significantly better than &lt;em&gt;my&lt;/em&gt; previous podcasting efforts 😅).&lt;/p&gt;
+&lt;p&gt;As I&apos;ll explain in a later post, I released 1 episode a day all week, so there are 5 episodes included in these stats. Here&apos;s the quick rundown:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;⬇️ 5,727 total downloads&lt;/li&gt;
+&lt;li&gt;⬇️ 1,047 average downloads per episode&lt;/li&gt;
+&lt;li&gt;📖 13 Reviews&lt;/li&gt;
+&lt;li&gt;⭐️ 22 Ratings&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Downloads&lt;/h3&gt;
+&lt;p&gt;Because it&apos;s an interview show, there is expectedly quite a bit of variance betwen episodes. I don&apos;t think it&apos;s fair to guests to share stats attached to their names, so I&apos;m not labeling which episode is which.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 750px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/449212cc0e4136085cf8175e554b63ec/d4dfe/launched-episode-downloads.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 77.7391304347826%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAQABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAddAoHR5r//EABsQAAEEAwAAAAAAAAAAAAAAAAEAAgMQERIj/9oACAEBAAEFAg/pTgdpAVHlf//EABgRAAMBAQAAAAAAAAAAAAAAAAABEQMS/9oACAEDAQE/Ac104Q//xAAXEQEAAwAAAAAAAAAAAAAAAAACARAR/9oACAECAQE/AWsmv//EAB0QAAAFBQAAAAAAAAAAAAAAAAABAhEhAxAyUYL/2gAIAQEABj8CU5wV6kaHRBTvkP/EABsQAQACAgMAAAAAAAAAAAAAAAEAESExEFFx/9oACAEBAAE/IUBxRzsDJTEZoZL2lX1P/9oADAMBAAIAAwAAABC0D//EABgRAQEBAQEAAAAAAAAAAAAAAAERACHB/9oACAEDAQE/EGRM765hm//EABgRAQADAQAAAAAAAAAAAAAAAAEQEUGx/9oACAECAQE/EKkDDkf/xAAdEAEAAgICAwAAAAAAAAAAAAABESEAMUFxEGGx/9oACAEBAAE/EEUECRqcAGvvhzClErh4zce6h1y9Y0moN3SPWf/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Week 1 Top Episode Downloads&quot;
+        title=&quot;Week 1 Top Episode Downloads&quot;
+        src=&quot;/static/449212cc0e4136085cf8175e554b63ec/2a7f3/launched-episode-downloads.jpg&quot;
+        srcset=&quot;/static/449212cc0e4136085cf8175e554b63ec/1a190/launched-episode-downloads.jpg 188w,
+/static/449212cc0e4136085cf8175e554b63ec/992ed/launched-episode-downloads.jpg 375w,
+/static/449212cc0e4136085cf8175e554b63ec/2a7f3/launched-episode-downloads.jpg 750w,
+/static/449212cc0e4136085cf8175e554b63ec/f4978/launched-episode-downloads.jpg 1125w,
+/static/449212cc0e4136085cf8175e554b63ec/d4dfe/launched-episode-downloads.jpg 1150w&quot;
+        sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;postCaption&quot;&gt;Total downloads per episode after week 1 (in order of downloads)&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 750px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/e55659fb01c690d58760e23602035ef6/d4dfe/launched-episode-lifespan.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 87.65217391304348%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAASABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIBBf/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAB7uyikqsAZf/EABgQAAIDAAAAAAAAAAAAAAAAAAEgABES/9oACAEBAAEFAk0JYT//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAVEAEBAAAAAAAAAAAAAAAAAAAgMf/aAAgBAQAGPwI0f//EABkQAAMBAQEAAAAAAAAAAAAAAAABESEQUf/aAAgBAQABPyFEGRrTDXB+TsR//9oADAMBAAIAAwAAABDYCAL/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/EB//xAAVEQEBAAAAAAAAAAAAAAAAAAAQAf/aAAgBAgEBPxAp/8QAHRABAAMAAgMBAAAAAAAAAAAAAQARIUFRMWGRwf/aAAgBAQABPxB2o95AHgmHGKAaXxxKLYMbJb/SUdQC3Ceg+T//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Episode Lifespan&quot;
+        title=&quot;Episode Lifespan&quot;
+        src=&quot;/static/e55659fb01c690d58760e23602035ef6/2a7f3/launched-episode-lifespan.jpg&quot;
+        srcset=&quot;/static/e55659fb01c690d58760e23602035ef6/1a190/launched-episode-lifespan.jpg 188w,
+/static/e55659fb01c690d58760e23602035ef6/992ed/launched-episode-lifespan.jpg 375w,
+/static/e55659fb01c690d58760e23602035ef6/2a7f3/launched-episode-lifespan.jpg 750w,
+/static/e55659fb01c690d58760e23602035ef6/f4978/launched-episode-lifespan.jpg 1125w,
+/static/e55659fb01c690d58760e23602035ef6/d4dfe/launched-episode-lifespan.jpg 1150w&quot;
+        sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;postCaption&quot;&gt;Downloads per day per episode&lt;/p&gt;
+&lt;p&gt;It&apos;s really hard to make to many assertions based on this data so far.  There&apos;s a lot of variables from the guest down to the day of week the episode went live.&lt;/p&gt;
+&lt;h3&gt;Demographics&lt;/h3&gt;
+&lt;p&gt;Let&apos;s look at some demographics.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 600px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/330a5781aac31f5153555ec3d06dea9a/73963/launched-user-agents.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 134.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAEDBAIF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAIB/9oADAMBAAIQAxAAAAH26uDNisRn2polWf/EABwQAAEFAAMAAAAAAAAAAAAAAAEAAgMREwQSIP/aAAgBAQABBQJxDRuzspRc3IrKO830Vm3z/8QAGBEAAwEBAAAAAAAAAAAAAAAAARARAiH/2gAIAQMBAT8B1wVUyL//xAAXEQEBAQEAAAAAAAAAAAAAAAARARAC/9oACAECAQE/AeS0wi5//8QAHhAAAgIABwAAAAAAAAAAAAAAAREAAhASICExUWH/2gAIAQEABj8CZMTWFHxDmXkq+oiJuzp//8QAHBABAAMBAAMBAAAAAAAAAAAAAQARMRAhYaHw/9oACAEBAAE/Ib1wgpuXs4H5bBaHh9RptUh3EsRqmCwzgBnP/9oADAMBAAIAAwAAABCfMvD/xAAZEQADAAMAAAAAAAAAAAAAAAAAAREQMXH/2gAIAQMBAT8Q0QnVTkY//8QAGREBAAIDAAAAAAAAAAAAAAAAAQARECFB/9oACAECAQE/EFASmpyN4//EAB0QAQACAgMBAQAAAAAAAAAAAAEAESExEGFx8EH/2gAIAQEAAT8QaDb8ajpQ01DfcPZ+K40On5UrrILDnoQBW9l+QHU5scjMqVvBRCE064tKBe64/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;User Agents&quot;
+        title=&quot;User Agents&quot;
+        src=&quot;/static/330a5781aac31f5153555ec3d06dea9a/73963/launched-user-agents.jpg&quot;
+        srcset=&quot;/static/330a5781aac31f5153555ec3d06dea9a/1a190/launched-user-agents.jpg 188w,
+/static/330a5781aac31f5153555ec3d06dea9a/992ed/launched-user-agents.jpg 375w,
+/static/330a5781aac31f5153555ec3d06dea9a/73963/launched-user-agents.jpg 600w&quot;
+        sizes=&quot;(max-width: 600px) 100vw, 600px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;postCaption&quot;&gt;Apps used to download episodes. Spotify not listed here but only has 119 &quot;starts&quot; which sets it between Breaker &amp; Firefox&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 600px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/5cf0e364f1c3c30db8023eb39a54b252/73963/launched-locations.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 134.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAEDBAIF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAfcp4lNasRm2pZFf/8QAHRAAAQQCAwAAAAAAAAAAAAAAAQACAxEEExASM//aAAgBAQABBQJxDUJ2dlKLmyK1R+b6K1NLlSocf//EABgRAAIDAAAAAAAAAAAAAAAAAAIQETFB/9oACAEDAQE/ASpZC//EABgRAAMBAQAAAAAAAAAAAAAAAAEQEQJB/9oACAECAQE/Acwldq//xAAdEAADAAEFAQAAAAAAAAAAAAAAARECEBIgMlGB/9oACAEBAAY/Aq2SzTC9R7vhjfCMrr4//8QAHBABAAIDAQEBAAAAAAAAAAAAAQARITFBEGGB/9oACAEBAAE/IRccibUnVnlD5flwY4xF3spCNFwEczi48Q7J8CGNT//aAAwDAQACAAMAAAAQCzv8/8QAGBEBAQEBAQAAAAAAAAAAAAAAAREAEDH/2gAIAQMBAT8QUow0uVaec//EABgRAQEBAQEAAAAAAAAAAAAAAAERABAx/9oACAECAQE/EFBkjMAQ95//xAAeEAEAAgIDAAMAAAAAAAAAAAABABEhMVFhcUGBof/aAAgBAQABPxC6O+qdLxBdSrVDfcPYDlyYTLt+RyFaWN31Eza9l71BvLFNJNIocJ9Q1iJWK+TNebyAACg+J//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Locations&quot;
+        title=&quot;Locations&quot;
+        src=&quot;/static/5cf0e364f1c3c30db8023eb39a54b252/73963/launched-locations.jpg&quot;
+        srcset=&quot;/static/5cf0e364f1c3c30db8023eb39a54b252/1a190/launched-locations.jpg 188w,
+/static/5cf0e364f1c3c30db8023eb39a54b252/992ed/launched-locations.jpg 375w,
+/static/5cf0e364f1c3c30db8023eb39a54b252/73963/launched-locations.jpg 600w&quot;
+        sizes=&quot;(max-width: 600px) 100vw, 600px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;postCaption&quot;&gt;Where episodes were downloaded from.&lt;/p&gt;
+&lt;p&gt;Two things stand out here. Overcast is dramatically overrepresented compared to my understanind of the industry average. This makes sense given the more tech (and Apple specifically) target audience, but that&apos;s still pretty striking. It makes me happy that a large portion of the audience is using a player that supports the chapters and custom artwork that I put a decent amount of work into. 😊&lt;/p&gt;
+&lt;p&gt;I&apos;m also pretty pleased that the rest of the world just edged over 50% vs the United States. It really makes me goofy smile to know that there are people all over the world listening to something that I&apos;m making.&lt;/p&gt;
+&lt;h3&gt;Wrap Up&lt;/h3&gt;
+&lt;p&gt;The only other metrics that may be interesting are the social network numbers. The podcast&apos;s &lt;a href=&quot;https://twitter.com/launchedfm&quot;&gt;Twitter account&lt;/a&gt; has 395 followers which I&apos;m pretty happy about. And the subbreddit &lt;a href=&quot;https://www.reddit.com/r/LaunchedFM/&quot;&gt;r/LaunchedFM&lt;/a&gt; has 63 members which... isn&apos;t much in Reddit terms. I&apos;ll talk about this more on an upcoming post, but I&apos;m not sure Reddit makes as much sense for a show of this size as I was originally thinking it would.&lt;/p&gt;
+&lt;p&gt;If you&apos;re curious about any other metrics please don&apos;t hesitate to ask me on &lt;a href=&quot;https://twitter.com/_chuckyc&quot;&gt;Twitter&lt;/a&gt;. I like to be as much of an open book as I can on this stuff.&lt;/p&gt;
+&lt;p&gt;And hopefully I&apos;ll get a post up &lt;em&gt;relatively&lt;/em&gt; soon walking through the development and marketing process of Launched!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Introducing Launched]]></title><description><![CDATA[Today I'm really excited to be releasing the first episode of my new podcast Launched.  Here's the pitch:  Launched is a fortnightly show…]]></description><link>https://charliemchapman.com/posts/2020/1/13/introducing-launched/</link><guid isPermaLink="false">https://charliemchapman.com/posts/2020/1/13/introducing-launched/</guid><pubDate>Mon, 13 Jan 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 750px;&quot;
     &gt;
@@ -896,7 +1039,7 @@
     &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;This also played into my pricing decisions as that market tends to prefer paying up front and is a little more averse to ads.  That&apos;s not to say I won&apos;t add a free tier in the future (in fact I probably will) but it&apos;s something I&apos;m always keeping in mind as I make these decisions.&lt;/p&gt;
 &lt;p&gt;Anyway, I&apos;m not an expert at this, heck I&apos;m barely a beginner, but maybe you&apos;ll find my thought process interesting nonetheless.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;This post is an attempt to make a more permanent record to [this tweetstorm](&lt;a href=&quot;https://twitter.com/&quot;&gt;https://twitter.com/&lt;/a&gt;&lt;/em&gt;chuckyc/status/1158072465739911168) from a few weeks ago._&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Thinking With Portals]]></title><description><![CDATA[Being able to learn a new software language, framework, pattern, or platform has been one of the cornerstones of my career.  I'm generally…]]></description><link>https://charliemchapman.com/posts/2019/6/2/thinking-in-portals/</link><guid isPermaLink="false">https://charliemchapman.com/posts/2019/6/2/thinking-in-portals/</guid><pubDate>Sun, 02 Jun 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Being able to learn a new software language, framework, pattern, or platform has been one of the cornerstones of my career.  I&apos;m generally pretty quick to pick something new up, and I get distracted easily so I end up doing this a lot.&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;This post is an attempt to make a more permanent record to &lt;a href=&quot;https://twitter.com/_chuckyc/status/1158072465739911168&quot;&gt;this tweetstorm&lt;/a&gt; from a few weeks ago.&lt;/i&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Thinking With Portals]]></title><description><![CDATA[Being able to learn a new software language, framework, pattern, or platform has been one of the cornerstones of my career.  I'm generally…]]></description><link>https://charliemchapman.com/posts/2019/6/2/thinking-in-portals/</link><guid isPermaLink="false">https://charliemchapman.com/posts/2019/6/2/thinking-in-portals/</guid><pubDate>Sun, 02 Jun 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Being able to learn a new software language, framework, pattern, or platform has been one of the cornerstones of my career.  I&apos;m generally pretty quick to pick something new up, and I get distracted easily so I end up doing this a lot.&lt;/p&gt;
 &lt;p&gt;I bring this up because at the beginning of this year I moved into iOS development, a whole new ecosystem&lt;sup id=&quot;fnref-1&quot;&gt;&lt;a href=&quot;#fn-1&quot; class=&quot;footnote-ref&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; where I didn&apos;t know the language (Swift), framework (UIKit), or any of the tooling (Xcode), and in the last week I reached one of my favorite milestones of learning a new skill: &lt;strong&gt;thinking with portals&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;In Valve&apos;s 2007 game &lt;em&gt;Portal&lt;/em&gt;, you have to solve a series of puzzle&apos;s using a unique &quot;Portal&quot; gun that allows you to arbitrarily place portals on the walls, and you can jump through them.  While simple on the surface, it&apos;s deceptively complicated, and at first you sort of fumble your way through the mechanic to make it through the challenges.&lt;/p&gt;
 &lt;p&gt;Eventually you will suddenly realize you&apos;re brain automatically looks at a puzzle and starts calculating portal placements and jump trajectories, and the game&apos;s robot narrator praises you with the phrase &lt;em&gt;&quot;Now you&apos;re thinking with portals&quot;&lt;/em&gt;.&lt;/p&gt;
