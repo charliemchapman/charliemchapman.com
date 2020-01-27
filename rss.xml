@@ -1,4 +1,231 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Charlie Chapman]]></title><description><![CDATA[The personal blog of Charlie Chapman]]></description><link>https://charliemchapman.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 22 Jan 2020 04:28:53 GMT</lastBuildDate><item><title><![CDATA[Launched Week 1 Stats]]></title><description><![CDATA[Last week I launched my new podcast Launched and I wanted to share a little bit about how I went about creating the show similar to what I…]]></description><link>https://charliemchapman.com/posts/2020/1/21/launching-launched/</link><guid isPermaLink="false">https://charliemchapman.com/posts/2020/1/21/launching-launched/</guid><pubDate>Tue, 21 Jan 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Last week I launched my new podcast &lt;a href=&quot;https://charliemchapman.com/posts/2020/1/13/introducing-launched/&quot;&gt;Launched&lt;/a&gt; and I wanted to share a little bit about how I went about creating the show similar to what I did with my posts about &lt;a href=&quot;https://charliemchapman.com/posts/2019/9/2/designing-dark-noise/&quot;&gt;designing&lt;/a&gt; and &lt;a href=&quot;https://charliemchapman.com/posts/2019/9/27/marketing-dark-noise/&quot;&gt;marketing&lt;/a&gt; my app &lt;a href=&quot;https://apps.apple.com/us/app/dark-noise/id1465439395&quot;&gt;Dark Noise&lt;/a&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Charlie Chapman]]></title><description><![CDATA[The personal blog of Charlie Chapman]]></description><link>https://charliemchapman.com</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 27 Jan 2020 13:55:49 GMT</lastBuildDate><item><title><![CDATA[Launching Launched]]></title><description><![CDATA[After launching my new podcast Launched last week, I'd like to share basically everything I did to design, structure, and plan the launch of…]]></description><link>https://charliemchapman.com/posts/2020/1/27/launching-launched/</link><guid isPermaLink="false">https://charliemchapman.com/posts/2020/1/27/launching-launched/</guid><pubDate>Mon, 27 Jan 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;After launching my new podcast &lt;a href=&quot;https://charliemchapman.com/posts/2020/1/13/introducing-launched/&quot;&gt;Launched&lt;/a&gt; last week, I&apos;d like to share basically everything I did to design, structure, and plan the launch of the podcast. This will probably be overly long so, uh, buckle up.&lt;/p&gt;
+&lt;p&gt;I&apos;m not pretending to be an expert at this. I just want to share everything I tried with the hope that it may help others in the future (and so I don&apos;t forget 😅). Check out my previous post outlining the &lt;a href=&quot;https://charliemchapman.com/posts/2020/1/21/launching-launched/&quot;&gt;week 1 stats&lt;/a&gt; to get a sense of what kind of results I ended up achieving with my approach.&lt;/p&gt;
+&lt;p&gt;I&apos;m also not going to be talking about the technical aspects of recording a podcast. The purpose of this post is to talk about designing and launching the podcast, but I &lt;em&gt;would&lt;/em&gt; really like to write about my recording set up and editing workflow at some point. If that sounds interesting to you let me know &lt;a href=&quot;https://twitter.com/_chuckyc&quot;&gt;on Twitter&lt;/a&gt; and I may bump that up on my priority list.&lt;/p&gt;
+&lt;h3&gt;The Idea&lt;/h3&gt;
+&lt;p&gt;Let&apos;s start at the beginning. Last year while building my first app &lt;a href=&quot;https://charliemchapman.com/posts/2019/8/27/dark-noise/&quot;&gt;Dark Noise&lt;/a&gt; I ran across a series of interviews that &lt;a href=&quot;https://twitter.com/heidi_helen&quot;&gt;Heidi Helen Pilypas&lt;/a&gt; did after launching her app &lt;a href=&quot;https://apps.apple.com/us/app/when-did-i/id1463692593?ls=1&quot;&gt;When Did I?&lt;/a&gt; that I found extremely useful in preparing my own launch.&lt;/p&gt;
+&lt;p&gt;A few months later, this four Tweet thread pretty much kicked off the show in my mind.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 684px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/516bb8718913475228eb9c17a50d60e8/9685d/launched-beginning-tweet-thread.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 245.3216374269006%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAxABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAIDAQX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB9hpBo6OTlqW6IrKywcoQF//EABkQAQADAQEAAAAAAAAAAAAAAAEAEBIRAv/aAAgBAQABBQLPEhPUIROzNGdAV0vIJRf/xAAUEQEAAAAAAAAAAAAAAAAAAAAw/9oACAEDAQE/AQ//xAAUEQEAAAAAAAAAAAAAAAAAAAAw/9oACAECAQE/AQ//xAAdEAABBAIDAAAAAAAAAAAAAAABEBEgMQAhAiJB/9oACAEBAAY/Aj2vLXyPJibXTKa3L//EAB8QAAMAAgICAwAAAAAAAAAAAAABESExQYEQUWFx4f/aAAgBAQABPyF2KdWPghF1N3o0/D4NOjTJJBLyLChWgey9EGmLRkdXcid1nwmBKmyfZdFOXn//2gAMAwEAAgADAAAAEDPJMHPAwP/EABYRAAMAAAAAAAAAAAAAAAAAAAEQIP/aAAgBAwEBPxCgv//EABYRAAMAAAAAAAAAAAAAAAAAAAEQIP/aAAgBAgEBPxCiv//EACEQAQEAAgEEAgMAAAAAAAAAAAERACFhMUFRcRCBkeHw/9oACAEBAAE/ELSKJVPT+8ZT2nFuaU0d6zULJZusW6h0rONTovqZIqbuFalJ2wBCwwEK7lak1+MkAPsTCAAQPORjtG5155wxseUc+sE/oU25RpA4frAJpudXt8//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Launched Beginning Tweet Thread&quot;
+        title=&quot;Launched Beginning Tweet Thread&quot;
+        src=&quot;/static/516bb8718913475228eb9c17a50d60e8/9685d/launched-beginning-tweet-thread.jpg&quot;
+        srcset=&quot;/static/516bb8718913475228eb9c17a50d60e8/1a190/launched-beginning-tweet-thread.jpg 188w,
+/static/516bb8718913475228eb9c17a50d60e8/992ed/launched-beginning-tweet-thread.jpg 375w,
+/static/516bb8718913475228eb9c17a50d60e8/9685d/launched-beginning-tweet-thread.jpg 684w&quot;
+        sizes=&quot;(max-width: 684px) 100vw, 684px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The idea of an interview show that could feed off of the constant stream of interesting new apps coming out was really intriguing. I wanted this to exist, and I thought I might be able to actually pull it off.&lt;/p&gt;
+&lt;h3&gt;Why tho?&lt;/h3&gt;
+&lt;p&gt;Any project that&apos;s going to require a significant investment of your time deserves to have this question answered: Why? For me, there is one &quot;altruistic&quot; answer and two selfish ones.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;I want this to exist and genuinely think other devs and creators would find it beneficial.&lt;/li&gt;
+&lt;li&gt;I think it could help me raise my profile in the community which would help with future app launches and all the nice benefits of having a strong network.&lt;/li&gt;
+&lt;li&gt;I&apos;d get to meet and talk to a bunch of interesting people who&apos;s work I really respect.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;My understanding is that the vast majority of podcasts fail to reach a substantial audience, so 1 and 2 may never happen.  But 3 is a benefit I get either way, so in the end I felt it was worth giving it a shot.&lt;/p&gt;
+&lt;h3&gt;Choosing a Name&lt;/h3&gt;
+&lt;p&gt;Naming is hard. I think this is a truism in basically every discipline (except Sony game consoles 😉).&lt;/p&gt;
+&lt;p&gt;For this show, I wanted a very simple word that conveyed the idea releasing an app. I knew early on that I didn&apos;t want it restricted to only app developers, so I wanted to keep it a little more vague while still conveying that idea. Here&apos;s my note with the names I was considering:&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 750px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/2936cdcb89f40eeeff7d3471321dd989/85ec3/launched-name-ideas.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 98.09644670050761%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAAAAMBAgX/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAHtN5lAYmFQf//EABcQAQEBAQAAAAAAAAAAAAAAAAEQAAL/2gAIAQEAAQUCTFLwz//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABcQAAMBAAAAAAAAAAAAAAAAAAAwMUH/2gAIAQEABj8CpqP/xAAaEAACAwEBAAAAAAAAAAAAAAABMQAQEYGR/9oACAEBAAE/ISMF7HfRoqGNoqabX//aAAwDAQACAAMAAAAQg888/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPxAf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPxAf/8QAHRABAAEEAwEAAAAAAAAAAAAAASEAEBExQWFx4f/aAAgBAQABPxBigdQKQidxrIW2USbswT9tv8pmHi3/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Launched Name Ideas&quot;
+        title=&quot;Launched Name Ideas&quot;
+        src=&quot;/static/2936cdcb89f40eeeff7d3471321dd989/2a7f3/launched-name-ideas.jpg&quot;
+        srcset=&quot;/static/2936cdcb89f40eeeff7d3471321dd989/1a190/launched-name-ideas.jpg 188w,
+/static/2936cdcb89f40eeeff7d3471321dd989/992ed/launched-name-ideas.jpg 375w,
+/static/2936cdcb89f40eeeff7d3471321dd989/2a7f3/launched-name-ideas.jpg 750w,
+/static/2936cdcb89f40eeeff7d3471321dd989/85ec3/launched-name-ideas.jpg 788w&quot;
+        sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Launched&lt;/strong&gt; fulfilled all of my checkboxes. It was one word, vague enough to allow for interviews with people in all sorts of industries and disciplines, and it wasn&apos;t already taken in Apple Podcasts (though &quot;Launch&quot; was). It also just sounded &lt;em&gt;cool&lt;/em&gt;.&lt;/p&gt;
+&lt;h3&gt;Logo&lt;/h3&gt;
+&lt;p&gt;Once I had a name, I needed a logo. I think the logo for a podcast is actually really important. It&apos;s basically your one shot at convincing someone to try out the show, and it&apos;s your only real visual connection you get to make with most of your audience once they subscribe. It also gives me something tangible to hold on to while developing the project that makes everything feel more real.&lt;/p&gt;
+&lt;p&gt;A name like launched immediately conjured up images of rockets but I felt like that wouldn&apos;t stand out as much as there are a lot of space podcasts with rocket logos that seem to overlap audience with the technology category. I also toyed with the idea of a shipping container but couldn&apos;t find something I liked.&lt;/p&gt;
+&lt;p&gt;I landed on the idea of a paper airplane. I liked the idea of it being a smaller, handcrafted item as I knew most of my guests (and audience) would be indies. And while there are a million email apps that use a paper airplane icon, I didn&apos;t see any other podcasts using it as their icon.&lt;/p&gt;
+&lt;p&gt;I started by sketching some ideas in the wonderful &lt;a href=&quot;https://linea-app.com/sketch&quot;&gt;Linea Sketch&lt;/a&gt; app by The Iconfactory.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 750px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/684a9e37869e4321d7afc09e37b720e9/21764/launched-sketches.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 83.37965536409115%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAARABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAECAwX/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAHuFTRIAA//xAAXEAEAAwAAAAAAAAAAAAAAAAABABAg/9oACAEBAAEFArWLn//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABUQAQEAAAAAAAAAAAAAAAAAADAx/9oACAEBAAY/AqP/xAAaEAEAAgMBAAAAAAAAAAAAAAABABEgITFR/9oACAEBAAE/IUbdpsPYclTHKqHMP//aAAwDAQACAAMAAAAQQA88/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPxAf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPxAf/8QAGxABAQACAwEAAAAAAAAAAAAAAREAMSAhUXH/2gAIAQEAAT8QpiDOprF3avzG7bxgBnrFzuBBLfMdL6cP/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Icon Sketches&quot;
+        title=&quot;Icon Sketches&quot;
+        src=&quot;/static/684a9e37869e4321d7afc09e37b720e9/2a7f3/launched-sketches.jpg&quot;
+        srcset=&quot;/static/684a9e37869e4321d7afc09e37b720e9/1a190/launched-sketches.jpg 188w,
+/static/684a9e37869e4321d7afc09e37b720e9/992ed/launched-sketches.jpg 375w,
+/static/684a9e37869e4321d7afc09e37b720e9/2a7f3/launched-sketches.jpg 750w,
+/static/684a9e37869e4321d7afc09e37b720e9/f4978/launched-sketches.jpg 1125w,
+/static/684a9e37869e4321d7afc09e37b720e9/db64a/launched-sketches.jpg 1500w,
+/static/684a9e37869e4321d7afc09e37b720e9/21764/launched-sketches.jpg 3598w&quot;
+        sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;postCaption&quot;&gt;Early artwork concept sketches made in Linea Sketch.&lt;/p&gt;
+&lt;p&gt;After asking for feedback on Twitter I got an unexpectedly strong positive reaction to the &quot;sketch&quot; look. I was originally thinking of going with a cleaner style, but I thought a rougher look would actually fit with the theme of the show being about people creating something new.&lt;/p&gt;
+&lt;p&gt;I also really liked encasing the icon in the &lt;a href=&quot;https://applypixels.com/blog/the-hunt-for-the-squircle&quot;&gt;iOS squircle&lt;/a&gt;. I knew I was going to want to make custom artwork for each episode (we&apos;ll get to that later) so I figured this would give me an easy spot to place custom assets.&lt;/p&gt;
+&lt;p&gt;I wanted a strong color rather than black and white sketches, so I started playing around with a blueprint look. This would still fit the rough sketch style but also give me a strong pop of color to hopefully stand out in podcast apps.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 750px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/35e418ac0e36873a5d68dbbd8f542b5a/2d501/launched-icon-drafts.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAECBAP/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQB/9oADAMBAAIQAxAAAAHpS9Kpt4Q6AeaAo//EABwQAAICAgMAAAAAAAAAAAAAAAECAAQDERITIf/aAAgBAQABBQIuefYZWYlD6+9ysdo1dCxrJMWMIv8A/8QAGREBAAIDAAAAAAAAAAAAAAAAAAECETFR/9oACAEDAQE/Aeq6YQ//xAAYEQEAAwEAAAAAAAAAAAAAAAAAAQIxEf/aAAgBAgEBPwFbXU6//8QAHRAAAgICAwEAAAAAAAAAAAAAAAECIRExAzJBUf/aAAgBAQAGPwKeeSW6Fmb6r0eW3ZOo0/gqj1Xg6Wxu7FvRhH//xAAZEAEAAwEBAAAAAAAAAAAAAAABABEhMUH/2gAIAQEAAT8hzIR0Ga+6dRn1NW3KpRt71PaWkcCUzCKJuriOsgi62lvZ/9oADAMBAAIAAwAAABBf2D7/xAAYEQADAQEAAAAAAAAAAAAAAAAAASExUf/aAAgBAwEBPxBvoxGlhg//xAAXEQADAQAAAAAAAAAAAAAAAAAAASEx/9oACAECAQE/EEshuJpR6P/EABwQAQACAwEBAQAAAAAAAAAAAAERIQAxYXFRkf/aAAgBAQABPxAglqrG6N0ZHCx1KW5fch0BJkEFS5XNEtYPtuRcW/ZnusKmhKpoveSNRcJEr5l2qmzRPO4jTSpG4PhzP//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Icon Drafts&quot;
+        title=&quot;Icon Drafts&quot;
+        src=&quot;/static/35e418ac0e36873a5d68dbbd8f542b5a/2a7f3/launched-icon-drafts.jpg&quot;
+        srcset=&quot;/static/35e418ac0e36873a5d68dbbd8f542b5a/1a190/launched-icon-drafts.jpg 188w,
+/static/35e418ac0e36873a5d68dbbd8f542b5a/992ed/launched-icon-drafts.jpg 375w,
+/static/35e418ac0e36873a5d68dbbd8f542b5a/2a7f3/launched-icon-drafts.jpg 750w,
+/static/35e418ac0e36873a5d68dbbd8f542b5a/f4978/launched-icon-drafts.jpg 1125w,
+/static/35e418ac0e36873a5d68dbbd8f542b5a/db64a/launched-icon-drafts.jpg 1500w,
+/static/35e418ac0e36873a5d68dbbd8f542b5a/2d501/launched-icon-drafts.jpg 3000w&quot;
+        sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;postCaption&quot;&gt;Different variations I tried of the paper airplane artwork design.&lt;/p&gt;
+&lt;p&gt;I ended up going with the simple clean outline with various sketch marks on it (top right). I don&apos;t really have a good reason other than it &lt;em&gt;felt&lt;/em&gt; the nicest.&lt;/p&gt;
+&lt;h4&gt;Custom Episode Artwork&lt;/h4&gt;
+&lt;p&gt;I love shows that make custom artwork for each episode so I wanted to do the same for Launched, but I knew I&apos;d need to come up with a system that allowed me build them quickly. If it was cumbersome to make, I knew I&apos;d be angry at myself in 4-6 months when the novelty of the show had worn off and it started getting overwhelming.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 750px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/6c88ec368f2fe4d115c4649802c025ab/07eb2/launched-custom-icon-grid.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 51.24626121635095%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEDAv/EABUBAQEAAAAAAAAAAAAAAAAAAAIE/9oADAMBAAIQAxAAAAHSoVToqBf/xAAYEAEBAQEBAAAAAAAAAAAAAAABEQACIf/aAAgBAQABBQKt9w6GheAn/8QAFREBAQAAAAAAAAAAAAAAAAAAAAH/2gAIAQMBAT8BR//EABURAQEAAAAAAAAAAAAAAAAAAAAB/9oACAECAQE/AVf/xAAYEAEAAwEAAAAAAAAAAAAAAAAAASExMv/aAAgBAQAGPwLXTpNIpj//xAAdEAABBAMBAQAAAAAAAAAAAAARAAEhMVFhkUGB/9oACAEBAAE/IenuZRAkPqeEubqc0V42mrFYXiLwv//aAAwDAQACAAMAAAAQ9D//xAAXEQEAAwAAAAAAAAAAAAAAAAAAESEx/9oACAEDAQE/EIth/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEhEf/aAAgBAgEBPxDYNT//xAAcEAEAAgIDAQAAAAAAAAAAAAABABEhYUFRsXH/2gAIAQEAAT8QoTZzocNuYcKaF4NODMurizBobnn8jxHdMK6P4dE//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Custom Icons&quot;
+        title=&quot;Custom Icons&quot;
+        src=&quot;/static/6c88ec368f2fe4d115c4649802c025ab/2a7f3/launched-custom-icon-grid.jpg&quot;
+        srcset=&quot;/static/6c88ec368f2fe4d115c4649802c025ab/1a190/launched-custom-icon-grid.jpg 188w,
+/static/6c88ec368f2fe4d115c4649802c025ab/992ed/launched-custom-icon-grid.jpg 375w,
+/static/6c88ec368f2fe4d115c4649802c025ab/2a7f3/launched-custom-icon-grid.jpg 750w,
+/static/6c88ec368f2fe4d115c4649802c025ab/f4978/launched-custom-icon-grid.jpg 1125w,
+/static/6c88ec368f2fe4d115c4649802c025ab/db64a/launched-custom-icon-grid.jpg 1500w,
+/static/6c88ec368f2fe4d115c4649802c025ab/07eb2/launched-custom-icon-grid.jpg 2006w&quot;
+        sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p class=&quot;postCaption&quot;&gt;Some of the custom icons I created for Launched episodes. The &quot;Beta&quot; artwork is used for the draft episodes I send to guests to let them listen and ask for edits if they want. The glass of ice is used for the &quot;Ice Breaker&quot; chapter in each episode.&lt;/p&gt;
+&lt;p&gt;The iOS icon provides a nice frame that I can swap in a hand drawn style of an app icon or symbol that represents the guest of that week. It&apos;s also extremely fast for me to create these using &lt;a href=&quot;https://www.adobe.com/products/photoshop/ipad.html&quot;&gt;Photoshop&lt;/a&gt; on my iPad Pro and Apple Pencil. I can just duplicated my existing Photoshop psd file, grab an image of the icon from the internet, and trace over it with the pencil.&lt;/p&gt;
+&lt;div class=&quot;postVideoContainer&quot;&gt;
+    &lt;video class=&quot;postVideo&quot;  controls loop&gt;
+    &lt;source src=&quot;https://s3.us-east-2.amazonaws.com/media.charliemchapman.com/blog/launched-icon-speedrun.mp4&quot; type=&quot;video/mp4&quot;&gt;
+    Your browser does not support the video tag.
+    &lt;/video&gt;
+&lt;/div&gt;
+&lt;p class=&quot;postCaption&quot;&gt;Timelapse of my process creating the custom artwork for each episode using Photoshop for iPad.&lt;/p&gt;
+&lt;p&gt;It only takes a few minutes to put most of them together and I think the style looks really interesting and fits the whole theme of the show. It also &lt;em&gt;could&lt;/em&gt; make for an interesting custom app icon if any developers that I interview wanted to sneak it in their app. 😉&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; It&apos;s important to point out that I&apos;m asking everyone if it&apos;s ok to use their logo. Most people have been fine with this, but there are cases where people aren&apos;t comfortable or even legally can&apos;t for trademark reasons so keep that in mind if you ever want to try something similar.&lt;/p&gt;
+&lt;h3&gt;Structure&lt;/h3&gt;
+&lt;p&gt;With a name and logo out of the way, I was ready to start putting together the structure of the show. Starting at the highest level, I needed to pick a schedule. While I might be able to sustain weekly for a short amount of time, the complexity of scheduling new guests in different timezones every episode is too much for me to attempt weekly. So I landed on a &lt;strong&gt;target&lt;/strong&gt; of every other week.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Side Note:&lt;/strong&gt; The app &lt;a href=&quot;https://david-smith.org/blog/2019/04/17/introducing-calzones-a-timezone-savvy-calendar/&quot;&gt;CalZones&lt;/a&gt; by David Smith has proven to be extremely useful scheduling all of these interviews across many different timezones. I&apos;ve also been told &lt;a href=&quot;https://calendly.com&quot;&gt;Calendly&lt;/a&gt; is very good for this as well but I have not tried it yet.&lt;/p&gt;
+&lt;p&gt;I don&apos;t actually listen to a lot of interview shows so I wasn&apos;t sure what the best approach would be to structure the episodes themselves. I knew that I wanted them to be conversational in tone but I wasn&apos;t sure how to keep things from feeling too &lt;em&gt;stiff&lt;/em&gt; since most of the time I would be speaking to people for the first time.&lt;/p&gt;
+&lt;p&gt;I happened to be chewing on this problem while listening to an episode of &lt;a href=&quot;https://www.relay.fm/upgrade&quot;&gt;Upgrade&lt;/a&gt; where they start each show by asking one of the hosts, Jason Snell, a random question given by the audience. They&apos;re often off the wall questions like &quot;When putting in AirPods which ear do you put in first?&quot; This often leads to a funny conversation that get&apos;s the episode going with a fun energetic vibe.&lt;/p&gt;
+&lt;p&gt;I decided to co-opt that idea as an ice breaker question and so far (5 episodes in) I feel like it&apos;s succeeded in building a little rapport with the guests before getting into the episode.&lt;/p&gt;
+&lt;p&gt;The bulk of the episode is outlined on a per episode basis using research on the particular guest and letting the natural flow of the conversation guide me from section to section.&lt;/p&gt;
+&lt;p&gt;At the end I&apos;m asking each guest for a person who&apos;s been an inspiration for them that they want to shout out and recommend others follow. This serves two purposes:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;I want to use this podcast as a way to elevate people making cool things and this is a way to add to that.&lt;/li&gt;
+&lt;li&gt;I selfishly want to find more cool people to follow and potentially try to get on the show. 😏&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;So this leaves the general show template like so:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Intro&lt;/li&gt;
+&lt;li&gt;Ice Breaker&lt;/li&gt;
+&lt;li&gt;Guest specific stuff&lt;/li&gt;
+&lt;li&gt;Guest&apos;s inspiration&lt;/li&gt;
+&lt;li&gt;Where to find guest (Twitter/website/ect)&lt;/li&gt;
+&lt;li&gt;Outro&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;It&apos;ll be interesting to see how this changes over time, but so far I&apos;ve been happy with the balance of structure and loose conversation.&lt;/p&gt;
+&lt;h3&gt;The Launch&lt;/h3&gt;
+&lt;p&gt;My understanding with podcasting is that consistent output is the best way to grow an audience. If you don&apos;t have a big pre-existing following (which I did not) launch day is not really that important. Despite this, I figured I&apos;d try to come up with something to make as big as a splash as I could at launch hoping this would help boost numbers which would make it easier to occasionally book bigger guests, which in turn would help boost numbers... ect. ect.&lt;/p&gt;
+&lt;p&gt;A few years ago, a motion designer named &lt;a href=&quot;https://twitter.com/jkorenman&quot;&gt;Joey Korenman&lt;/a&gt; started a series of After Effects tutorials called &lt;a href=&quot;https://www.schoolofmotion.com/collection/30-days-of-after-effects&quot;&gt;30 Days of After Effects&lt;/a&gt; where he posted a brand new After Effects tutorial every day for 30 days straight. Tutorials are really difficult to put together so this wasn&apos;t something that I had ever seen before and it&apos;s always stuck with me how quickly that intense burst of output catapulted his brand, &lt;a href=&quot;https://www.schoolofmotion.com&quot;&gt;School of Motion&lt;/a&gt;, into the limelight.&lt;/p&gt;
+&lt;p&gt;I decided to try a similar approach with Launched but at a smaller scale. Not only was 30 episodes in a row way more work than I could manager, but I don&apos;t think most people would actually want 30 episodes clogging up their podcast queue that quickly. So I settled on 1 business week of 1 episode a day to kick off the show. This would hopefully generate some buzz as well as give listeners multiple episodes to hear in a row to decide if they liked the show, rather than one and done.&lt;/p&gt;
+&lt;p&gt;On the advice of &lt;a href=&quot;https://twitter.com/mattcassinelli/status/1199107531311726593?s=21&quot;&gt;Matthew Cassinelli&lt;/a&gt; I also created a short teaser episode and released it a month before launching the show. This ensured the podcast was properly set up in all of the major podcast directories and players, and also gave me a small list of subscribers who would get the first episode immediately after release.&lt;/p&gt;
+&lt;p&gt;I also Tweeted a lot about the journey leading up to the launch of the show as has apparently become my &lt;em&gt;thing&lt;/em&gt;. 😅 This may not be broadly applicable advice but I do think it helped build up a sense of excitement around the launch, and helped make more people invested in its success.&lt;/p&gt;
+&lt;h3&gt;Wrap Up&lt;/h3&gt;
+&lt;p&gt;I&apos;m really happy with how the launch of the show turned out.  I&apos;m proud of the episodes released so far and I&apos;m so excited to keep making more and develop the show over time.  Hopeful this post was helpful or at least interesting for you. If you&apos;d like to talk about anything related to this you can find me on Twitter at &lt;a href=&quot;https://twitter.com/_chuckyc&quot;&gt;@_chuckyc&lt;/a&gt;.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Launched Week 1 Stats]]></title><description><![CDATA[Last week I launched my new podcast Launched and I wanted to share a little bit about how I went about creating the show similar to what I…]]></description><link>https://charliemchapman.com/posts/2020/1/21/launching-launched/</link><guid isPermaLink="false">https://charliemchapman.com/posts/2020/1/21/launching-launched/</guid><pubDate>Tue, 21 Jan 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Last week I launched my new podcast &lt;a href=&quot;https://charliemchapman.com/posts/2020/1/13/introducing-launched/&quot;&gt;Launched&lt;/a&gt; and I wanted to share a little bit about how I went about creating the show similar to what I did with my posts about &lt;a href=&quot;https://charliemchapman.com/posts/2019/9/2/designing-dark-noise/&quot;&gt;designing&lt;/a&gt; and &lt;a href=&quot;https://charliemchapman.com/posts/2019/9/27/marketing-dark-noise/&quot;&gt;marketing&lt;/a&gt; my app &lt;a href=&quot;https://apps.apple.com/us/app/dark-noise/id1465439395&quot;&gt;Dark Noise&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;But before I write that up I want to share some stats about how week 1 went. I&apos;m very happy with how it&apos;s been received so far, but honestly I don&apos;t know the podcast world enough to tell you if these numbers are &lt;em&gt;good&lt;/em&gt; or not (though they are significantly better than &lt;em&gt;my&lt;/em&gt; previous podcasting efforts 😅).&lt;/p&gt;
 &lt;p&gt;As I&apos;ll explain in a later post, I released 1 episode a day all week, so there are 5 episodes included in these stats. Here&apos;s the quick rundown:&lt;/p&gt;
 &lt;ul&gt;
