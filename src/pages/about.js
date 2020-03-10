@@ -10,10 +10,23 @@ export default ({data}) => (
         <Img resolutions={data.file.childImageSharp.resolutions}/>
       </div>
       <div>
-        <p>Hi, I'm Charlie Chapman.  I'm a <a href="https://www.linkedin.com/in/charliemchapman/">software developer</a> by trade and amateur podcaster, video editor, and <a href="https://video.charliemchapman.com/">motion graphics designer</a>.</p>
-        <p>I'm not particular good at any one thing, but I love the process of trying to get better.  Hopefully this blog will reflect that desire to always learn (and my erratic swings in interests 😏)</p>
-        <p>I'm also a cohost of the podcasts <a href="https://atownfm.com">A-Town FM</a> and <a href="https://atownmovies.com">A-Town at the Movies</a> with my good friend Dan Litz.</p>
-        <p>You can find me on <b>Twitter</b> at <a href="https://twitter.com/_chuckyc">@_chuckyc</a> or on <b>Mastodon</b> <a href="https://mastodon.social/@charliemchapman">here</a>.</p>
+        <p>Hi, I'm Charlie Chapman.  I'm an app developer, podcaster, designer, and wannabe motion graphics artist.  I built an iOS app called <a href="https://darknoise.app">Dark Noise</a> and run an interview podcast called <a href="https://launchedfm.com">Launched</a>.</p>
+        <p>You can find me on <b>Twitter</b> at <a href="https://twitter.com/_chuckyc">@_chuckyc</a> or shoot me an email at <a href="mailto:charliemchapman@gmail.com">charliemchapman@gmail.com</a></p>
+      </div>
+      <br></br>
+      <div>
+        <p>Here's a list of all of my podcast guest appearances:</p>
+        <ul>
+          <li><a href="https://podcasts.apple.com/us/podcast/charlie-chapman/id1445347880?i=1000467283227">and you are? - Charlie Chapman</a> - <i>March 2, 2020</i></li>
+          <li><a href="https://everydayrobots.tech/2019/11/25/13-interview-behind-dark-noise-with-charlie-chapman/">Everyday Robots - Behind Dark Noise with Charlie Chapman</a> - <i>November 25, 2019</i></li>
+          <li><a href="https://www.waitingforreview.com/143">Waiting for Review - The 16" Macbook Pro Episode With Charlie Chapman</a> - <i>November 17, 2019</i></li>
+          <li><a href="https://appleinsider.com/articles/19/09/20/ios-13-is-out-and-exactly-how-good-these-iphone-cameras-are-on-the-appleinsider-podcast">AppleInsider - iOS 13 is here, iPhones are upon us</a> - <i>September 20, 2019</i></li>
+          <li><a href="https://www.icongardenshow.com/home/2019/9/18/episode-21-indie-apps-then-and-now-with-charlie-chapman">The Icon Garden - Indie Apps Then And Now with Charlie Chapman</a> - <i>September 18, 2019</i></li>
+          <li><a href="https://productivityintech.transistor.fm/s1/36">Productivity in Tech - Launching your "Learning Tool" App with Dark Noise Creator Charlie Chapman</a> - <i>September 10, 2019</i></li>
+          <li><a href="https://www.waitingforreview.com/132">Waiting for Review - Charlie Chapman and Dark Noise</a> - <i>September 5, 2019</i></li>
+          <li><a href="https://project-update.com/10">Project Update - Special Guest Charlie Chapman</a> - <i>September 3rd, 2019</i></li>
+          <li><a href="https://podcasts.apple.com/us/podcast/3-2-hot-dog-stand-with-charlie-chapman/id1133056888?i=1000447807116">The Outpost - 'Hot Dog Stand' with Charlie Chapman</a> - <i>August 26, 2019</i></li>
+        </ul>
       </div>
     </div>
   </Layout>
