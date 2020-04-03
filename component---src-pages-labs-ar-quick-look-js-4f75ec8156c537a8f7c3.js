@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{"8fDw":function(e,a,t){"use strict";t.r(a);var n=t("q1tI"),r=t.n(n),l=(t("9eSz"),t("Bl7J"));t("UA/k");a.default=function(e){e.data;return r.a.createElement(l.a,null,r.a.createElement("div",null,r.a.createElement("h1",null,"AR Quick Look Demo"),r.a.createElement("a",{href:"/PizzaExperiment.reality",rel:"ar"},r.a.createElement("img",{height:"200",width:"200",src:"/ar-pizza.jpg"}))))}}}]);
+//# sourceMappingURL=component---src-pages-labs-ar-quick-look-js-4f75ec8156c537a8f7c3.js.map
