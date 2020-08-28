@@ -17,6 +17,11 @@ export default ({data}) => (
       <div>
         <p>Here's a list of all of my podcast guest appearances:</p>
         <ul>
+          <li><a href="http://cupof.tech/episode/d96644b693f24472/107-dark-noise-with-charlie-chapman">Cup of Tech - Dark Noise with Charlie Chapman</a> - <i>August 20, 2020</i></li>
+          <li><a href="https://www.youtube.com/watch?v=_YkzEbJ2nos">Swiftly Built - WWDC Debrief Day 4</a> - <i>June 26, 2020</i></li>
+          <li><a href="https://ipadpros.net/2020/06/24/episode-85-wwdc-2020-and-dark-noise-with-charlie-chapman/">iPad Pros - WWDC 2020 and Dark Noise with Charlie Chapman</a> - <i>June 24, 2020</i></li>
+          <li><a href="https://everydayrobots.tech/posts/ep45/">Everyday Robots - WWDC 2020</a> - <i>June 23, 2020</i></li>
+          <li><a href="https://www.relay.fm/automators/46">Automators - Automating Dark Noise with Charlie Chapman</a> - <i>March 27, 2020</i></li>
           <li><a href="https://podcasts.apple.com/us/podcast/charlie-chapman/id1445347880?i=1000467283227">and you are? - Charlie Chapman</a> - <i>March 2, 2020</i></li>
           <li><a href="https://everydayrobots.tech/2019/11/25/13-interview-behind-dark-noise-with-charlie-chapman/">Everyday Robots - Behind Dark Noise with Charlie Chapman</a> - <i>November 25, 2019</i></li>
           <li><a href="https://www.waitingforreview.com/143">Waiting for Review - The 16" Macbook Pro Episode With Charlie Chapman</a> - <i>November 17, 2019</i></li>
