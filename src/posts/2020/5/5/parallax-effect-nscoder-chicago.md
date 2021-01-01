@@ -1,7 +1,7 @@
 ---
 title: "Parallax Effect in UIKit - NSCoder Chicago"
 date: "2020-05-05"
-image: "http://media.charliemchapman.com/charlie_and_jack.JPG"
+image: "http://media.charliemchapman.com/charlie-profile.jpg"
 ---
 
 <div class="postYoutube">

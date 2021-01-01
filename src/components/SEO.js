@@ -4,7 +4,7 @@ import Helmet from 'react-helmet';
 export default ({title, description, image}) => { 
     title = title || "Charlie Chapman";
     description = description || "The personal blog of Charlie Chapman";
-    image = image || "http://media.charliemchapman.com/charlie_and_jack.JPG";
+    image = image || "http://media.charliemchapman.com/charlie-profile.jpg";
 
     return (
         <Helmet
