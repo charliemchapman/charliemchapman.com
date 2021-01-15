@@ -31,7 +31,7 @@ I'm counting #3 as an unambiguous success ✅. Just look at [this guest list](ht
 
 For #1, I'm giving myself a pass as well. The show exists ✅ and I've heard from more than one listener that they find it beneficial ✅.
 
-\#3 is a bit trickier to measure. Based only on listener metrics I'm not sure how much the show has "raised my profile" as we'll see in the next section, but I think there's no doubt it's helped benefit my network within the iOS community. In a year devoid of networking events, I've been able to have regular long conversations with developers I admire every other week.
+\#2 is a bit trickier to measure. Based only on listener metrics I'm not sure how much the show has "raised my profile" as we'll see in the next section, but I think there's no doubt it's helped benefit my network within the iOS community. In a year devoid of networking events, I've been able to have regular long conversations with developers I admire every other week.
 
 ### Metrics
 
