@@ -1,4 +1,109 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Charlie Chapman]]></title><description><![CDATA[The personal blog of Charlie Chapman]]></description><link>https://charliemchapman.com</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 15 Jan 2021 04:49:03 GMT</lastBuildDate><item><title><![CDATA[Overviewer Week 1]]></title><description><![CDATA[Last week, when I released my new app Overviewer, I honestly thought it was a pretty niche product and was just hoping it would find the few…]]></description><link>https://charliemchapman.com/posts/2021/14/overviewer-week-1/</link><guid isPermaLink="false">https://charliemchapman.com/posts/2021/14/overviewer-week-1/</guid><pubDate>Thu, 14 Jan 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Charlie Chapman]]></title><description><![CDATA[The personal blog of Charlie Chapman]]></description><link>https://charliemchapman.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 25 May 2021 14:09:05 GMT</lastBuildDate><item><title><![CDATA[Dark Noise for Mac]]></title><description><![CDATA[Dark Noise has come to the Mac App Store! The sleek UI and large selection of ambient sounds you know and love are now easier than ever to…]]></description><link>https://charliemchapman.com/posts/2021/5/25/dark-noise-mac/</link><guid isPermaLink="false">https://charliemchapman.com/posts/2021/5/25/dark-noise-mac/</guid><pubDate>Tue, 25 May 2021 00:00:00 GMT</pubDate><content:encoded>&lt;div class=&quot;postYoutube&quot;&gt;
+    &lt;iframe width=&quot;100%&quot; height=&quot;100%&quot; src=&quot;https://www.youtube.com/embed/wsMA6Du03J8&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope;  picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;p&gt;Dark Noise has come to the &lt;a href=&quot;https://apps.apple.com/us/app/dark-noise/id1465439395&quot;&gt;Mac App Store&lt;/a&gt;! The sleek UI and large selection of ambient sounds you know and love are now easier than ever to use while you work.&lt;/p&gt;
+&lt;h2&gt;Mini Player&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 750px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/7e831831b354db478150bb6ef40234f0/526de/dark-noise-mac-mini-player.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 50.90266875981162%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAAsTAAALEwEAmpwYAAACgUlEQVQoz4WRXUhTYRzGB90FSUEZxsQ5nVPnR25iNjPRSdlMIhOLgoQuvNDMnBSzptaWaBfmFCMxM/xKcEofFyFedqHUTd5EUNBN7uOczTn1qGdz5/90zpl62wvP+T+H8/J7n/c8CiKCtARBQDDIYZXdFBWKyb+OYCCEtdWNPb8u+2BgY2+uIxTcRDQqyAyJpRCEGPDXz7+oTGrBBW0jKjLaUZneCZP6ATTHz6Mqz4o7JiduFT9HWZIVxhMWGOMtKIpvRbm6DT++/zkIpdhP6HEzeNUzjT7HKJzPJtEvqs8+hq4OJwa6xzHUO4PhvhkM9rwTv01hoGtK3jP8YhaMzx9LKIZTyGQxciQSQTi6g22ew46ksKQthCM8wrvb8ruXYbGy4oXb44bH64Hb7YHXx8DnCWCL25GhBwn/t9bWONSbHSjT3YUu+TJKTtehvnoQ9decuHrOjt6nrhhQeiwv/YZraAHTo/OYHPmAT1OLmHd9w8eJRXye+SpdBj6vH9VFT3BW1YoCVQMMygYUp1pRkmaFIaEFnffHpLvGgPbGMRgO3UbmsVqkxpXjkrYD189046LGBnOGDRzHgWX8uFLaDIP6Jgq1dchNvAFdQg1ylLVQH63C45Z++WAJSI7mccqPs5BZ20lic6K/R/ojTZR3uInMmTYKhULEsn4qL62k1KQc0mcbKS05l1ISs0ijyiHlSQ21PeyQ/h0pJOrSl2W8ds7i7cv3eDMwJ/uR/jmxQRdmJxbA8zxYloWpqApalR6FhjJkpORDm6yXp1qZjfZHjoNSxFqiFKUw7Qo87RIv+32J/csnMwxDJqOZdJoCKjFWyDNNlUfpKQZSncoiW5td3vcPQ9hJrl0xM/EAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Big Sounds Mini Player&quot;
+        title=&quot;Big Sounds Mini Player&quot;
+        src=&quot;/static/7e831831b354db478150bb6ef40234f0/b8ccf/dark-noise-mac-mini-player.png&quot;
+        srcset=&quot;/static/7e831831b354db478150bb6ef40234f0/7a748/dark-noise-mac-mini-player.png 188w,
+/static/7e831831b354db478150bb6ef40234f0/1a013/dark-noise-mac-mini-player.png 375w,
+/static/7e831831b354db478150bb6ef40234f0/b8ccf/dark-noise-mac-mini-player.png 750w,
+/static/7e831831b354db478150bb6ef40234f0/beb4a/dark-noise-mac-mini-player.png 1125w,
+/static/7e831831b354db478150bb6ef40234f0/b0eb8/dark-noise-mac-mini-player.png 1500w,
+/static/7e831831b354db478150bb6ef40234f0/526de/dark-noise-mac-mini-player.png 2548w&quot;
+        sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Taking advantage of the Mac platform, a new innovative &quot;adaptive toolbar&quot; UI allows you to shrink your window into a Mini Player to keep Dark Noise quickly accessible while taking up very little screen space. Dark Noise for Mac also features full menu support with keyboard shortcuts to feel right at home on your Mac.&lt;/p&gt;
+&lt;h2&gt;All your favorite features&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 750px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/d7605d4acad50409d49805fe6cc7b83f/020d3/dark-noise-mac-themes.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 51.770833333333336%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAAsTAAALEwEAmpwYAAACt0lEQVQoz22RbUhTURjH74ay9bbuNrM+KOK0ae3FKWnMJHNpopbGpIiIwBoSFThy4FuFCKmzmRNntMpszimo9bUgA1nhh5B0YaDoh5wyt3vvtlbqvHrvOd3dpR+iPxzO4Zzf+Z3n4SAIgvDPSPULGoUBqpLPQc3JazD5cF5QiArbmLMryN8UF5c6Sy9oYdOdW/BRQy006KqoyX6zacbWeR35J/xjSZppWVIh3MvnbQmEe7YfNNVCvb4G6nTVwdnvs11u95JOoVK/z8nVwIm+LnLKYdm2W8y0/eUzaGptDzf3Orrvmfrunr1UxY0KJSpXbk4BRFERhR4UAs/KCggGfpI45geQidfnc8mk2eMlZZVwxG6jlhfmgWVsHOi7h8iazgHKNDoB63scP+Ilx/msMCVR7srOyIeHRPGUWCyGttcOEAr9huHwJhUR+nzYhDRFMV5UXA67jB3U6qoXvvvoBHOLbrjs9VMeIgTnF91fj0rTokJJonxGLs2BIlRIoSgKHja0MMJfkKYpOiL0+/2fJKmKD9nqAmhsaaY8K8vAMTQCcAyLHLOPhtfWXKrMzKgwLTlzLkueB/fvO0DzeDy6ztAACMIPKCYRGMdxZ3p6lrOg6Dx8M/qWxjCCftFvA0tuN6CZVyNMKBh0KZVKVhiTcCT1slJ2opFpNyASieDw8BjY2CDB+vpOy/jnOFFChTo3v+55r8WL+Xzwy9Q0CARCIBzeYhmCCLiUGRl8pPG+Yfe7Y2NjisXiuOr2tk4vjhOQJEm2ZY/HM7nDXK28WPS4o+Nm91PrkteHQXIzyvhx4ptMJmMrRJTpp7i3b9Rzdy6VlVTkm81m7eCgvdxuH9BarVY1s801PrHuMoUlZXkMUxlhmKHtf9V3OsIwVcUiHA6HhQQCAVeukHGQ/4Qpgp17jK0cZv1fJpI/s/KElipxB2kAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Themes&quot;
+        title=&quot;Themes&quot;
+        src=&quot;/static/d7605d4acad50409d49805fe6cc7b83f/b8ccf/dark-noise-mac-themes.png&quot;
+        srcset=&quot;/static/d7605d4acad50409d49805fe6cc7b83f/7a748/dark-noise-mac-themes.png 188w,
+/static/d7605d4acad50409d49805fe6cc7b83f/1a013/dark-noise-mac-themes.png 375w,
+/static/d7605d4acad50409d49805fe6cc7b83f/b8ccf/dark-noise-mac-themes.png 750w,
+/static/d7605d4acad50409d49805fe6cc7b83f/beb4a/dark-noise-mac-themes.png 1125w,
+/static/d7605d4acad50409d49805fe6cc7b83f/b0eb8/dark-noise-mac-themes.png 1500w,
+/static/d7605d4acad50409d49805fe6cc7b83f/020d3/dark-noise-mac-themes.png 2880w&quot;
+        sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;All of your favorite Dark Noise features are here including timers, custom mixes, widgets, and multiple themes. And with iCloud syncing, all of your custom mixes will automatically be available on your Mac.&lt;/p&gt;
+&lt;h2&gt;Get it now!&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 750px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/13d08a787814c77318cd6f8c2669c12b/b38df/dark-noise-hero-2_5.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 60.60943887030844%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAAAsTAAALEwEAmpwYAAADTklEQVQoz21SW2sbVxjcuAklyIlt1dJqL9q7z+5KWu2uVopk62pbsmVLtldy7FDHSdo0cR0SSGw3luQ2LQ70QqEPee8PKLQEAu1/6Q8IFEoppYUoVb3n60p56UMHhnn4mGGYcwjBmiCGEK2pQEgdEy6LBB/gCX5cIPjzJMETQZ9Tb3hu+s1twr9NSIQQQmMU/Aojv5alR0oUEpvnhzqnt0+aqQNYTx391Up3+i2n01+3Hvdbqa7PXt9NdXx2+xvOcX/VevSqYR+ezSfef5nO2sGhf3GufW4UuDz9xdhQm5kPPz9Y+g669Rdn++VvYc0+gYbZg410F66XvgLX+QxWEj1w7adwWPsBjpd/glv5Z38Ydpwa+k00/xYv8gRRLTemMsr2c4Orv8xI29BOP/Hc9COsIRPLvIElLo5lYagG5lkNW2geHy19f9ap/wg35r75LddkAsR/sbayqV6J7oMa2AXl4o63qB3AmvMAVMkGxNsww1sww1mARAskTgdDmYWbxS/xB+VnsO4c/SkJqM1GlArHKEWkqReInat3UTy89SqOcoDYAi7K93AzfR8MPQuqmAIkDENN0JEJMc0EhhKBijAgkllshm5DIngLrNAdiIXb/4TIaYtYr1+TE+TV13IkD0KwhPPSXVi29iCuZkCTHD/U8UMtv3ESEmoO5KgJMh/HcXYZzOA+1tgKNsI7kHhndzBNTjpEvdaU9JD7elbcA4u6gbPCTVwzb2NVNvGMkBxR5hM+YzimZIYTYCSaOBatQmxyF8/QBU8PtUCdag9CkWCKaLtbEjc+33eLjyGvvecZEddrmU8GK7GjwUbyZLCVOh1cS58ODKXg+btivyFW/MdSmRKWAy1c0e97yfAuCJeqAzISThFLiyuKFKwMhPEqcIEFMMU6uKU92Cw9hK3KAby7cAzXqx0w0CwYWs7zJ/Db2x5i8h5zYcFzhG1PvrwKTCD/N0VHHKJcqjDspP07ipTPEFUCXZj9+enXn3ROTju9zqcf9R52HnTvHd75WEPJX3QlDQqfhBhyIC7PQXQiB5GLDrCXrgAZSOAoF7VGX8dxHFSr1exCvpgWeYkk/gdkmLJpmnUpil5l2WiD4/gGTTMNho4OtRkOkTVN09/+F3wiN3dqCjurAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Dark Noise Family&quot;
+        title=&quot;Dark Noise Family&quot;
+        src=&quot;/static/13d08a787814c77318cd6f8c2669c12b/b8ccf/dark-noise-hero-2_5.png&quot;
+        srcset=&quot;/static/13d08a787814c77318cd6f8c2669c12b/7a748/dark-noise-hero-2_5.png 188w,
+/static/13d08a787814c77318cd6f8c2669c12b/1a013/dark-noise-hero-2_5.png 375w,
+/static/13d08a787814c77318cd6f8c2669c12b/b8ccf/dark-noise-hero-2_5.png 750w,
+/static/13d08a787814c77318cd6f8c2669c12b/beb4a/dark-noise-hero-2_5.png 1125w,
+/static/13d08a787814c77318cd6f8c2669c12b/b0eb8/dark-noise-hero-2_5.png 1500w,
+/static/13d08a787814c77318cd6f8c2669c12b/b38df/dark-noise-hero-2_5.png 2691w&quot;
+        sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Dark Noise for Mac is now available on the App Store &lt;a href=&quot;https://apps.apple.com/us/app/dark-noise/id1465439395&quot;&gt;here&lt;/a&gt; as a universal app including the iPhone and iPad versions. Existing Dark Noise customers will be able to download Dark Noise for Mac for free.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Overviewer Week 1]]></title><description><![CDATA[Last week, when I released my new app Overviewer, I honestly thought it was a pretty niche product and was just hoping it would find the few…]]></description><link>https://charliemchapman.com/posts/2021/1/14/overviewer-week-1/</link><guid isPermaLink="false">https://charliemchapman.com/posts/2021/1/14/overviewer-week-1/</guid><pubDate>Thu, 14 Jan 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 200px;&quot;
     &gt;
@@ -120,7 +225,7 @@
 &lt;p&gt;Here are the sources metrics from App Store Connect. As expected The Verge and 9to5 did a lot of the heavy lifting on the Web Referrer side, but the size of Facebook in the App Referrers initially surprised me. I searched around and found that a lot of people (usually teachers) were sharing The Verge article on Facebook. Presumably, since the Facebook app has a built in browser, any links from The Verge to the App Store would actually be counted as coming from the Facebook app.&lt;/p&gt;
 &lt;h3&gt;Thanks 🙏&lt;/h3&gt;
 &lt;p&gt;I guess I&apos;ll wrap up by saying thanks to everyone who shared the app with any teachers or educators they know who might find it useful. Seeing that this little app I made is &lt;a href=&quot;https://twitter.com/_chuckyc/status/1348985834897367040?s=20&quot;&gt;being used in the real world&lt;/a&gt; and helping teachers and kids learn during this wild year is extraordinarily fulfilling. I&apos;ve also heard from some people using Overviewer for tabletop gaming with friends over Zoom which is totally awesome and not something I had considered at all.&lt;/p&gt;
-&lt;p&gt;If you haven&apos;t yet can download the app for free on the App Store &lt;a href=&quot;https://itunes.apple.com/app/id1528900395&quot;&gt;here&lt;/a&gt;. And as always, if you have any suggestions for how to improve the app, or if you find another alternate use for it outside of virtual learning, let me know!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Launched Year 1]]></title><description><![CDATA[One year ago today I released my first episode of Launched. While January 2020 feels like a different world than January 2021, I still think…]]></description><link>https://charliemchapman.com/posts/2021/13/launched-year-1/</link><guid isPermaLink="false">https://charliemchapman.com/posts/2021/13/launched-year-1/</guid><pubDate>Wed, 13 Jan 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;One year ago today I released my first episode of &lt;a href=&quot;https://charliemchapman.com/posts/2020/1/13/introducing-launched/&quot;&gt;Launched&lt;/a&gt;. While January 2020 feels like a different world than January 2021, I still think 1 year in is a good time to assess how the project is going compared to my initial goals. And just as I did after &lt;a href=&quot;https://charliemchapman.com/posts/2020/1/21/launching-launched/&quot;&gt;week 1&lt;/a&gt;, I&apos;d like to run through the metrics and see if there are any interesting findings.&lt;/p&gt;
+&lt;p&gt;If you haven&apos;t yet can download the app for free on the App Store &lt;a href=&quot;https://itunes.apple.com/app/id1528900395&quot;&gt;here&lt;/a&gt;. And as always, if you have any suggestions for how to improve the app, or if you find another alternate use for it outside of virtual learning, let me know!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Launched Year 1]]></title><description><![CDATA[One year ago today I released my first episode of Launched. While January 2020 feels like a different world than January 2021, I still think…]]></description><link>https://charliemchapman.com/posts/2021/1/13/launched-year-1/</link><guid isPermaLink="false">https://charliemchapman.com/posts/2021/1/13/launched-year-1/</guid><pubDate>Wed, 13 Jan 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;One year ago today I released my first episode of &lt;a href=&quot;https://charliemchapman.com/posts/2020/1/13/introducing-launched/&quot;&gt;Launched&lt;/a&gt;. While January 2020 feels like a different world than January 2021, I still think 1 year in is a good time to assess how the project is going compared to my initial goals. And just as I did after &lt;a href=&quot;https://charliemchapman.com/posts/2020/1/21/launching-launched/&quot;&gt;week 1&lt;/a&gt;, I&apos;d like to run through the metrics and see if there are any interesting findings.&lt;/p&gt;
 &lt;p&gt;But first, some quick vanity metrics!&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;⬇️ 53,666 Total Downloads&lt;/li&gt;
@@ -264,7 +369,7 @@
 &lt;a href=&quot;#fnref-1&quot; class=&quot;footnote-backref&quot;&gt;↩&lt;/a&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Meet Overviewer]]></title><description><![CDATA[Today I'm releasing Overviewer, a totally free new iOS app for teachers that can turn your iPhone into a document camera on Zoom or other…]]></description><link>https://charliemchapman.com/posts/2021/6/overviewer/</link><guid isPermaLink="false">https://charliemchapman.com/posts/2021/6/overviewer/</guid><pubDate>Wed, 06 Jan 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Meet Overviewer]]></title><description><![CDATA[Today I'm releasing Overviewer, a totally free new iOS app for teachers that can turn your iPhone into a document camera on Zoom or other…]]></description><link>https://charliemchapman.com/posts/2021/1/6/overviewer/</link><guid isPermaLink="false">https://charliemchapman.com/posts/2021/1/6/overviewer/</guid><pubDate>Wed, 06 Jan 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 200px;&quot;
     &gt;
@@ -321,7 +426,7 @@
     &lt;iframe width=&quot;100%&quot; height=&quot;100%&quot; src=&quot;https://www.youtube.com/embed/fadOMMpQErg&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope;  picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 &lt;p class=&quot;postCaption&quot;&gt;There&apos;s also a link to this video inside of the app as well.&lt;/p&gt;
-&lt;p&gt;You can download the app on the App Store &lt;a href=&quot;https://itunes.apple.com/app/id1528900395&quot;&gt;here&lt;/a&gt;. If you have any suggestions for how to improve the app, or if you find an alternate use for it outside of virtual learning, let me know!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[First Sale]]></title><description><![CDATA[Dark Noise has been in the App Store for over a year, yet I’ve never actually run a sale before. In fact, the only price change I’ve made at…]]></description><link>https://charliemchapman.com/posts/2021/1/first-sale/</link><guid isPermaLink="false">https://charliemchapman.com/posts/2021/1/first-sale/</guid><pubDate>Fri, 01 Jan 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/us/app/dark-noise/id1465439395&quot;&gt;Dark Noise&lt;/a&gt; has been in the App Store for over a year, yet I’ve never actually run a sale before. In fact, the only price change I’ve made at all is increasing the price by a few dollars when I shipped my 2.0 update.&lt;/p&gt;
+&lt;p&gt;You can download the app on the App Store &lt;a href=&quot;https://itunes.apple.com/app/id1528900395&quot;&gt;here&lt;/a&gt;. If you have any suggestions for how to improve the app, or if you find an alternate use for it outside of virtual learning, let me know!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[First Sale]]></title><description><![CDATA[Dark Noise has been in the App Store for over a year, yet I’ve never actually run a sale before. In fact, the only price change I’ve made at…]]></description><link>https://charliemchapman.com/posts/2021/1/1/first-sale/</link><guid isPermaLink="false">https://charliemchapman.com/posts/2021/1/1/first-sale/</guid><pubDate>Fri, 01 Jan 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://apps.apple.com/us/app/dark-noise/id1465439395&quot;&gt;Dark Noise&lt;/a&gt; has been in the App Store for over a year, yet I’ve never actually run a sale before. In fact, the only price change I’ve made at all is increasing the price by a few dollars when I shipped my 2.0 update.&lt;/p&gt;
 &lt;p&gt;This was due partially to laziness, but also a slight sense of feeling gross about sales for some reason? Truth be told I don’t have a good reason for this, but I had this generic (and quite frankly silly) notion in the back of my mind that it feels slightly desperate and devalues the product somehow.&lt;/p&gt;
 &lt;p&gt;So when &lt;a href=&quot;https://twitter.com/frboulais?s=21&quot;&gt;François&lt;/a&gt; reached out about joining his &lt;a href=&quot;https://twitter.com/indieappsanta&quot;&gt;Indie App Santa&lt;/a&gt; project and putting Dark Noise on sale for 50% for 1 day I was weirdly hesitant. But I figured “what’s the worst that could happen?” and agreed.&lt;/p&gt;
 &lt;p&gt;Based on literally no data I kinda figured that I’d probably get around double the sales from the Indie App Santa Twitter account promotion and me tweeting about it from my account. At 50% off this would mean I’d pretty much be breaking even on revenue. Since Dark Noise is paid up front with no subscription or in app purchases, this would basically be a wash with a &lt;em&gt;slight&lt;/em&gt; bump in users.&lt;/p&gt;
