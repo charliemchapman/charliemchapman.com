@@ -13,7 +13,7 @@ oceanBeachTheme.overrideStyles = ({ adjustFontSizeTo, rythm}, options, styles) =
         'border-bottom': "1px solid #dd46ea"
     },
     body: {
-        backgroundColor: '#FBFEF9',
+        backgroundColor: '#FFFFFF',
         color: '#131B23'
     },
     'h1,h2,h3,h4,h5,h6': {
