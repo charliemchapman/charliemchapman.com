@@ -1,4 +1,78 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Charlie Chapman]]></title><description><![CDATA[The personal blog of Charlie Chapman]]></description><link>https://charliemchapman.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 25 May 2021 14:09:05 GMT</lastBuildDate><item><title><![CDATA[Dark Noise for Mac]]></title><description><![CDATA[Dark Noise has come to the Mac App Store! The sleek UI and large selection of ambient sounds you know and love are now easier than ever to…]]></description><link>https://charliemchapman.com/posts/2021/5/25/dark-noise-mac/</link><guid isPermaLink="false">https://charliemchapman.com/posts/2021/5/25/dark-noise-mac/</guid><pubDate>Tue, 25 May 2021 00:00:00 GMT</pubDate><content:encoded>&lt;div class=&quot;postYoutube&quot;&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Charlie Chapman]]></title><description><![CDATA[The personal blog of Charlie Chapman]]></description><link>https://charliemchapman.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 05 Oct 2021 13:18:43 GMT</lastBuildDate><item><title><![CDATA[iOS 15 Support with Dark Noise 2.6]]></title><description><![CDATA[Dark Noise 2.6 comes to the App Store today with full support for iOS 15! Extra Large Widgets  iOS 15 introduced a new widget size exclusive…]]></description><link>https://charliemchapman.com/posts/2021/10/5/dark-noise-2_6-iOS-15/</link><guid isPermaLink="false">https://charliemchapman.com/posts/2021/10/5/dark-noise-2_6-iOS-15/</guid><pubDate>Tue, 05 Oct 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Dark Noise 2.6 comes to the &lt;a href=&quot;https://apps.apple.com/us/app/dark-noise/id1465439395&quot;&gt;App Store today&lt;/a&gt; with full support for iOS 15!&lt;/p&gt;
+&lt;h2&gt;Extra Large Widgets&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 750px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/0109f1796b151310993abfc1effdb65c/6e14f/dark-noise-2_6-extra-large-widgets.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 72.54752851711027%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAIDBAX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/aAAwDAQACEAMQAAABy3uRUcCH/8QAGRABAAMBAQAAAAAAAAAAAAAAAQACAxEi/9oACAEBAAEFAvUztyKyxm2M84iz/8QAFhEAAwAAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/AW6U/8QAFhEBAQEAAAAAAAAAAAAAAAAAABFx/9oACAECAQE/AdR//8QAHBAAAwABBQAAAAAAAAAAAAAAAAERIRIiMoGR/9oACAEBAAY/Ah0UwXVOjm/DblI//8QAGhAAAgMBAQAAAAAAAAAAAAAAAREAIUExYf/aAAgBAQABPyEu+17CBp7BrDTIRvbIKyhIyCB5P//aAAwDAQACAAMAAAAQVB//xAAXEQEBAQEAAAAAAAAAAAAAAAABABFB/9oACAEDAQE/EATydX//xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQIBAT8QMyAL/8QAHRABAAICAgMAAAAAAAAAAAAAAQARITFBUWFxgf/aAAgBAQABPxBpRrtpBTYiOeOd/JgEJW6C94lwwNHWSpszZtZdFOeI7H3P/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;New Extra Large Widgets&quot;
+        title=&quot;New Extra Large Widgets&quot;
+        src=&quot;/static/0109f1796b151310993abfc1effdb65c/2a7f3/dark-noise-2_6-extra-large-widgets.jpg&quot;
+        srcset=&quot;/static/0109f1796b151310993abfc1effdb65c/1a190/dark-noise-2_6-extra-large-widgets.jpg 188w,
+/static/0109f1796b151310993abfc1effdb65c/992ed/dark-noise-2_6-extra-large-widgets.jpg 375w,
+/static/0109f1796b151310993abfc1effdb65c/2a7f3/dark-noise-2_6-extra-large-widgets.jpg 750w,
+/static/0109f1796b151310993abfc1effdb65c/f4978/dark-noise-2_6-extra-large-widgets.jpg 1125w,
+/static/0109f1796b151310993abfc1effdb65c/db64a/dark-noise-2_6-extra-large-widgets.jpg 1500w,
+/static/0109f1796b151310993abfc1effdb65c/6e14f/dark-noise-2_6-extra-large-widgets.jpg 2630w&quot;
+        sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;iOS 15 introduced a new widget size exclusive to iPad and Dark Noise 2.6 adds support for these new big sizes. Now you can fill your iPad with 16 wide button noises, or a whopping 32 square button noises in a single widget!&lt;/p&gt;
+&lt;p&gt;And of course these widgets support all of the themes and customizations you&apos;ve come to expect from Dark Noise widgets.&lt;/p&gt;
+&lt;h2&gt;Shortcuts&lt;/h2&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 750px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/65688b988418f119055ce1029d3d5675/efa1c/dark-noise-2_6-shortcuts.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 92.89617486338798%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAATABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAECAwX/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAH2GsnQFoUH/8QAGxAAAgIDAQAAAAAAAAAAAAAAAAECERASIjH/2gAIAQEAAQUC6bdyIiwjVFJnh//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EABwQAAICAgMAAAAAAAAAAAAAAAABETEQEiEicf/aAAgBAQAGPwKdmhdo4LkYvBlFY//EABsQAQADAAMBAAAAAAAAAAAAAAEAETEhcbHB/9oACAEBAAE/IaRSDgE4QW1gSxY8DrPRhvTN9/kVbRHYGACgqf/aAAwDAQACAAMAAAAQW8gA/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPxAf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPxAf/8QAHhABAAMAAgIDAAAAAAAAAAAAAQARIUFhMXFR4fD/2gAIAQEAAT8QS5kMhp7Llq2wlG32MpPKqgtwePcGO372Xzvom/18IiTXlJVZGFkrCHwE/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;New Shortcuts Actions&quot;
+        title=&quot;New Shortcuts Actions&quot;
+        src=&quot;/static/65688b988418f119055ce1029d3d5675/2a7f3/dark-noise-2_6-shortcuts.jpg&quot;
+        srcset=&quot;/static/65688b988418f119055ce1029d3d5675/1a190/dark-noise-2_6-shortcuts.jpg 188w,
+/static/65688b988418f119055ce1029d3d5675/992ed/dark-noise-2_6-shortcuts.jpg 375w,
+/static/65688b988418f119055ce1029d3d5675/2a7f3/dark-noise-2_6-shortcuts.jpg 750w,
+/static/65688b988418f119055ce1029d3d5675/f4978/dark-noise-2_6-shortcuts.jpg 1125w,
+/static/65688b988418f119055ce1029d3d5675/db64a/dark-noise-2_6-shortcuts.jpg 1500w,
+/static/65688b988418f119055ce1029d3d5675/efa1c/dark-noise-2_6-shortcuts.jpg 3660w&quot;
+        sizes=&quot;(max-width: 750px) 100vw, 750px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Due to limitations in iOS 14, Shortcuts actions with parameters could not play audio without opening the app up in the foreground. This led to a confusing array of Shortcuts actions provided by Dark Noise. Shortcuts actions &lt;strong&gt;with parameters&lt;/strong&gt; for setting up a timer or volume (began with the word &quot;Start&quot;) had to open the app in the foreground to start a sound, and shortcuts with &lt;strong&gt;no parameters&lt;/strong&gt; (began with the word &quot;Play&quot;) were limited but could play sounds in the background.&lt;/p&gt;
+&lt;p&gt;With iOS 15 things are dramatically simpler. New &quot;Play [Noise]&quot; Shortcuts actions can play noises in the background &lt;strong&gt;and&lt;/strong&gt; have parameter options for customizations.&lt;/p&gt;
+&lt;p&gt;There is also a new Shortcut action called &quot;Find [Noise]&quot; for advanced Shortcuts users. This action accepts a string parameter, searches Dark Noise for a matching noise, and outputs a Noise object that the new &quot;Play [Noise]&quot; action will accept as an input.&lt;/p&gt;
+&lt;p&gt;This allows for more advanced automations where you want to dynamically pass in a string for which noise you would like to play.  To be honest I&apos;m not entirely sure what the main use case for this is, but I&apos;ve recieved enough requests for it that I thought it was worth adding. I&apos;d love to hear from anybody who uses it to see what they&apos;ve built!&lt;/p&gt;
+&lt;h2&gt;Bug Fixes and Improvements&lt;/h2&gt;
+&lt;p&gt;A new timer view using iOS 15&apos;s new half sheet popover and some minor bug fixes round out the update. This year&apos;s iOS beta cycle has been... busy to say the least (I moved into a new house!). Things are finally settling down and I&apos;m getting back to work on Dark Noises next major feature!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Dark Noise for Mac]]></title><description><![CDATA[Dark Noise has come to the Mac App Store! The sleek UI and large selection of ambient sounds you know and love are now easier than ever to…]]></description><link>https://charliemchapman.com/posts/2021/5/25/dark-noise-mac/</link><guid isPermaLink="false">https://charliemchapman.com/posts/2021/5/25/dark-noise-mac/</guid><pubDate>Tue, 25 May 2021 00:00:00 GMT</pubDate><content:encoded>&lt;div class=&quot;postYoutube&quot;&gt;
     &lt;iframe width=&quot;100%&quot; height=&quot;100%&quot; src=&quot;https://www.youtube.com/embed/wsMA6Du03J8&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope;  picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 &lt;p&gt;Dark Noise has come to the &lt;a href=&quot;https://apps.apple.com/us/app/dark-noise/id1465439395&quot;&gt;Mac App Store&lt;/a&gt;! The sleek UI and large selection of ambient sounds you know and love are now easier than ever to use while you work.&lt;/p&gt;
